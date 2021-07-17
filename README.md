@@ -1,1 +1,3 @@
-Env is langtrans
+=Notes=
+
+conda env is langtrans
