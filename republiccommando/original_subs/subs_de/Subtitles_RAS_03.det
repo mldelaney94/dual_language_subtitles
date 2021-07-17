@@ -1,0 +1,464 @@
+[Subtitles_RAS_03]
+
+SubtitleSound[2928]="D62R3019"
+SubtitleText[2928]="Delta 62: Wartet! Hört ihr das?"
+
+SubtitleSound[2929]="D62R3008"
+SubtitleText[2929]="Delta 62: Was sind das für Typen?"
+
+SubtitleSound[2930]="CA1R3006"
+SubtitleText[2930]="Klonberater 1: Nehmt die Kerle nicht auf die leichte Schulter."
+
+SubtitleSound[2931]="D62R3009"
+SubtitleText[2931]="Delta 62: Sie übergeben das Schiff?"
+
+SubtitleSound[2932]="D62R3015"
+SubtitleText[2932]="Delta 62: Für das Schiff bekommt man 'ne Menge Droiden!"
+
+SubtitleSound[2933]="D62R3010"
+SubtitleText[2933]="Delta 62: Tja, ... das funktioniert nicht ..."
+
+SubtitleSound[2934]="D07R3007"
+SubtitleText[2934]="Delta 07: Das Geschütz hat einen Schild."
+
+SubtitleSound[2935]="D62R3016"
+SubtitleText[2935]="Delta 62: Mit normalen Schüssen richten wir nichts aus. Nicht aus diesem Winkel."
+
+SubtitleSound[2936]="RSCR3015"
+SubtitleText[2936]="RAS-Schiffscomputer: Schließung initialisiert! Alle Einheiten zurückziehen!"
+
+SubtitleSound[2937]="D38R3008"
+SubtitleText[2937]="Delta 38: Team, Giftgas. Helme versiegeln."
+
+SubtitleSound[2938]="D62R3011"
+SubtitleText[2938]="Delta 62: Sehr gut ... aber jetzt sitzen wir hier drin fest!"
+
+SubtitleSound[2939]="CA1R3021"
+SubtitleText[2939]="Klonberater 1: Die Signatur der Klontruppen kommt von einer Position unter Ihnen."
+
+SubtitleSound[2940]="D62R3012"
+SubtitleText[2940]="Delta 62: Gehen wir, Team. Durch die Luke!"
+
+SubtitleSound[2941]="D62R3013"
+SubtitleText[2941]="Delta 62: Da war eben was an meinem Bein!"
+
+SubtitleSound[2942]="D62R3017"
+SubtitleText[2942]="Delta 62: Die schütten sie mit dem Müll aus!"
+
+SubtitleSound[2943]="D62R3014"
+SubtitleText[2943]="Delta 62: Da oben! Grenadier auf dem Steg!"
+
+SubtitleSound[2944]="CA1R3024"
+SubtitleText[2944]="Klonberater 1: Sie müssen die Raketenwerfer kontrollieren, um durch die Schilde zu kommen."
+
+SubtitleSound[2945]="CA1R3030"
+SubtitleText[2945]="Klonberater 1: Delta 3-8, Ihr Team soll die Raketenwerfer bemannen. Anders lässt sich das Schiff nicht ausschalten."
+
+SubtitleSound[2946]="D62R3018"
+SubtitleText[2946]="Delta 62: Die Tür klemmt. Wir sitzen in der Falle!"
+
+SubtitleSound[2947]="D38R3001"
+SubtitleText[2947]="Delta 38: Sir, Delta 3-8 hier. Wir haben die Brücke erreicht und den Störsender ausgeschaltet. Können Sie mich hören?"
+
+SubtitleSound[2948]="CA1R3001"
+SubtitleText[2948]="Klonberater 1: Laut und deutlich, 3-8. Ich greife auf die Systeme des Schiffs zu, um seinen Status zu überprüfen."
+
+SubtitleSound[2949]="CA1R3004"
+SubtitleText[2949]="Klonberater 1: Alarm! Die Sensoren zeigen Lebensformen an! Auf der Brücke!"
+
+SubtitleSound[2950]="D38R3200"
+SubtitleText[2950]="Delta 38: Sie sind unter uns! Achtet auf Granaten!"
+
+SubtitleSound[2951]="CA1R3002"
+SubtitleText[2951]="Klonberater 1: Sie haben es mit Trandoshanern, Sklavenhändlern und Banditen ohne Verbindung zu den Separatisten zu tun!"
+
+SubtitleSound[2952]="D40R3027"
+SubtitleText[2952]="Delta 40: Was machen die dann hier?"
+
+SubtitleSound[2953]="D62R3201"
+SubtitleText[2953]="Delta 62: Und woher haben sie die ganzen Droiden?"
+
+SubtitleSound[2954]="CA1R3026"
+SubtitleText[2954]="Klonberater 1: Keine Ahnung. Das versuche ich gerade rauszufinden."
+
+SubtitleSound[2955]="CA1R3204"
+SubtitleText[2955]="Klonberater 1: Ich habe ein trandoshanisches Landungsschiff auf den Sensoren. Hangar 13-C. Wohl ihre Kommandozentrale."
+
+SubtitleSound[2956]="CA1R3003"
+SubtitleText[2956]="Klonberater 1: Zerstören Sie diesen Hangar!"
+
+SubtitleSound[2957]="CA1R3200"
+SubtitleText[2957]="Klonberater 1: 3-8! In Hangar A steht ein Schiff der Sklavenjäger. Sind Sie Trandoshanern begegnet?"
+
+SubtitleSound[2958]="D62R3200"
+SubtitleText[2958]="Delta 62: Er fragt, ob wir Droiden begegnet sind ..."
+
+SubtitleSound[2959]="D38R3201"
+SubtitleText[2959]="Delta 38: Kann man so sagen. Jeder Menge Kampfdroiden!"
+
+SubtitleSound[2960]="CA1R3201"
+SubtitleText[2960]="Klonberater 1: Den Trandoshanern ging es während des Krieges nie um Politik, sondern um Wookiee-Felle."
+
+SubtitleSound[2961]="D38R3202"
+SubtitleText[2961]="Delta 38: Wozu brauchen sie dann ein Angriffsschiff?"
+
+SubtitleSound[2962]="D07R3200"
+SubtitleText[2962]="Delta 07: Und warum verkaufen die Separatisten den Sklavenhändlern Droiden?"
+
+SubtitleSound[2963]="CA1R3202"
+SubtitleText[2963]="Klonberater 1: Ich werde die Logdateien analysieren. Kümmern Sie sich einstweilen um Hangar A!"
+
+SubtitleSound[2964]="D40R3001"
+SubtitleText[2964]="Delta 40: Klingt wie ... ein Stoßtrupp?"
+
+SubtitleSound[2965]="CA1R3203"
+SubtitleText[2965]="Klonberater 1: Ich habe mich in die Systeme des Schiffs eingeklinkt. Jetzt kann ich die Hauptsysteme von hier manipulieren."
+
+SubtitleSound[2966]="CA1R3005"
+SubtitleText[2966]="Klonberater 1: Trandoshanische Söldner. Sie sind militärisch ausgebildet und gut ausgerüstet."
+
+SubtitleSound[2967]="CA1R3205"
+SubtitleText[2967]="Klonberater 1: Unterschätzen Sie sie nicht."
+
+SubtitleSound[2968]="D38R3203"
+SubtitleText[2968]="Delta 38: Wir müssen die Brücke abriegeln. Alle Mann raus!"
+
+SubtitleSound[2969]="D38R3004"
+SubtitleText[2969]="Delta 38: Hier ist eine Schalttafel. Mit ihr können wir die Brücke verriegeln."
+
+SubtitleSound[2970]="CA1R3008"
+SubtitleText[2970]="Klonberater 1: Delta 3-8, ich habe die Kommunikationslisten des Schiffs analysiert."
+
+SubtitleSound[2971]="CA1R3009"
+SubtitleText[2971]="Klonberater 1: Die Trandoshaner haben ein Treffen mit den Separatisten vereinbart!"
+
+SubtitleSound[2972]="D07R3201"
+SubtitleText[2972]="Delta 07: Sie übergeben das Schiff den Separatisten? Nur über meine Leiche!"
+
+SubtitleSound[2973]="CA1R3010"
+SubtitleText[2973]="Klonberater 1: Ich werde die Republik um Unterstützung bitten."
+
+SubtitleSound[2974]="CA1R3011"
+SubtitleText[2974]="Klonberater 1: Rücken Sie einstweilen zum Hangar vor und zerstören Sie ..."
+
+SubtitleSound[2975]="D07R3001"
+SubtitleText[2975]="Delta 07: Achtung!"
+
+SubtitleSound[2976]="D40R3002"
+SubtitleText[2976]="Delta 40: Hinterhalt!"
+
+SubtitleSound[2977]="D38R3005"
+SubtitleText[2977]="Delta 38: Sie haben den Aufzug mit einem Sprengsatz präpariert. Wir sitzen im Zellentrakt fest."
+
+SubtitleSound[2978]="CA1R3012"
+SubtitleText[2978]="Klonberater 1: Bleiben Sie in Bewegung. Ich suche nach alternativen Routen."
+
+SubtitleSound[2979]="CA1R3013"
+SubtitleText[2979]="Klonberater 1: Delta 3-8. Der Zellentrakt hat einen automatischen Schließmechanismus."
+
+SubtitleSound[2980]="CA1R3028"
+SubtitleText[2980]="Klonberater 1: Der Zellentrakt hat einen automatischen Schließmechanismus."
+
+SubtitleSound[2981]="CA1R3014"
+SubtitleText[2981]="Klonberater 1: Einige Schaltkreise scheinen beschädigt zu sein."
+
+SubtitleSound[2982]="CA1R3015"
+SubtitleText[2982]="Klonberater 1: Finden und reparieren Sie die Schaltkreise, um den Schließmechanismus zu aktivieren!"
+
+SubtitleSound[2983]="CA1R3016"
+SubtitleText[2983]="Klonberater 1: In Ihrer Nähe ist einer der beschädigten Schaltkreise. Reparieren Sie ihn."
+
+SubtitleSound[2984]="D38R3006"
+SubtitleText[2984]="Delta 38: Guter Anfang. Suchen wir die anderen Schaltkreise, Jungs."
+
+SubtitleSound[2985]="D38R3007"
+SubtitleText[2985]="Delta 38: Raketenwerfer! Deckung!"
+
+SubtitleSound[2986]="D07R3202"
+SubtitleText[2986]="Delta 07: Der Werfer ist abgeschirmt."
+
+SubtitleSound[2987]="D62R3202"
+SubtitleText[2987]="Delta 62: Unsere Waffen nützen hier nichts. Jedenfalls nicht aus diesem Winkel!"
+
+SubtitleSound[2988]="D07R3008"
+SubtitleText[2988]="Delta 07: Versuchen wir's mit Granaten."
+
+SubtitleSound[2989]="CA1R3017"
+SubtitleText[2989]="Klonberater 1: Fast geschafft. Noch ein Schaltkreis."
+
+SubtitleSound[2990]="D40R3003"
+SubtitleText[2990]="Delta 40: Sir, ich empfange eine Sendesignatur ... von Klontruppen."
+
+SubtitleSound[2991]="CA1R3018"
+SubtitleText[2991]="Klonberater 1: Ich überprüfe das. Lassen Sie sich nicht ablenken, 4-0."
+
+SubtitleSound[2992]="CA1R3019"
+SubtitleText[2992]="Klonberater 1: Reparieren Sie den letzten Schaltkreis, um den Schließmechanismus zu aktivieren!"
+
+SubtitleSound[2993]="D38R3204"
+SubtitleText[2993]="Delta 38: Giftgas! Team, Helme versiegeln!"
+
+SubtitleSound[2994]="CA1R3020"
+SubtitleText[2994]="Klonberater 1: Ich habe den Ursprung der Sendesignatur geortet. Sehen Sie da mal nach."
+
+SubtitleSound[2995]="D40R3020"
+SubtitleText[2995]="Delta 40: Hier lang."
+
+SubtitleSound[2996]="D40R3021"
+SubtitleText[2996]="Delta 40: Es war in der Nähe des Raketenwerfers."
+
+SubtitleSound[2997]="D40R3022"
+SubtitleText[2997]="Delta 40: Wir sind dicht dran. Aufpassen!"
+
+SubtitleSound[2998]="CA1R3206"
+SubtitleText[2998]="Klonberater 1: Die Signatur der Klontruppen kommt von einer Position unter Ihnen!"
+
+SubtitleSound[2999]="D38R3009"
+SubtitleText[2999]="Delta 38: Suchen Sie ein Gitter und platzieren Sie eine Mine!"
+
+SubtitleSound[3000]="D38R3010"
+SubtitleText[3000]="Delta 38: Ich gehe zuerst rein."
+
+SubtitleSound[3001]="D07R3002"
+SubtitleText[3001]="Delta 07: Wo sind wir?"
+
+SubtitleSound[3002]="D38R3011"
+SubtitleText[3002]="Delta 38: Lichter an, Team."
+
+SubtitleSound[3003]="D40R3004"
+SubtitleText[3003]="Delta 40: Hm. Alles nur Einbildung."
+
+SubtitleSound[3004]="D07R3009"
+SubtitleText[3004]="Delta 07: Elender Trando-Abschaum ..."
+
+SubtitleSound[3005]="CA1R3022"
+SubtitleText[3005]="Klonberater 1: Raus da, Team. Das Landungsschiff der Trandoshaner nähert sich!"
+
+SubtitleSound[3006]="D62R3203"
+SubtitleText[3006]="Delta 62: So sind sie also hierher gekommen ..."
+
+SubtitleSound[3007]="D38R3012"
+SubtitleText[3007]="Delta 38: Wie können wir die Geschütze aktivieren?"
+
+SubtitleSound[3008]="D07R3003"
+SubtitleText[3008]="Delta 07: Hier muss irgendwo eine Schalttafel sein."
+
+SubtitleSound[3009]="D07R3004"
+SubtitleText[3009]="Delta 07: Vorsicht! Sie haben Stoßwellengewehre!"
+
+SubtitleSound[3010]="D40R3005"
+SubtitleText[3010]="Delta 40: Sie haben uns nicht gesehen. Bringen wir's hinter uns!"
+
+SubtitleSound[3011]="D38R3013"
+SubtitleText[3011]="Delta 38: Versuchen wir's mit dem Geschütz da drüben!"
+
+SubtitleSound[3012]="D07R3005"
+SubtitleText[3012]="Delta 07: Raketenwerfer!"
+
+SubtitleSound[3013]="CA1R3023"
+SubtitleText[3013]="Klonberater 1: Delta 3-8, alle noch lebenden Trandoshaner nähern sich Ihrer Position!"
+
+SubtitleSound[3014]="D38R3015"
+SubtitleText[3014]="Delta 38: Wir müssen den Steg im Auge behalten!"
+
+SubtitleSound[3015]="D38R3014"
+SubtitleText[3015]="Delta 38: Das Schiff hat starke Schilde. Wir brauchen mehr Feuerkraft!"
+
+SubtitleSound[3016]="D07R3010"
+SubtitleText[3016]="Delta 07: Die Raketen richten so gut wie nichts aus!"
+
+SubtitleSound[3017]="CA1R3207"
+SubtitleText[3017]="Klonberater 1: Klemmen Sie sich hinter die Raketenwerfer und zerstören Sie die Schilde!"
+
+SubtitleSound[3018]="CA1R3029"
+SubtitleText[3018]="Klonberater 1: Die Schilde des Schiffs sind zu stark. Sie brauchen beide Raketenwerfer!"
+
+SubtitleSound[3019]="CA1R3208"
+SubtitleText[3019]="Klonberater 1: Delta 3-8, setzen Sie Ihr Team auf die Raketenwerfer an."
+
+SubtitleSound[3020]="D40R3006"
+SubtitleText[3020]="Delta 40: Der Feind zieht sich zurück!"
+
+SubtitleSound[3021]="CA1R3025"
+SubtitleText[3021]="Klonberater 1: An die Raketenwerfer! Holt sie runter!"
+
+SubtitleSound[3022]="D07R3006"
+SubtitleText[3022]="Delta 07: Die Türen gehen zu!"
+
+SubtitleSound[3023]="D40R3023"
+SubtitleText[3023]="Delta 40: Das Landungsschiff schließt sich!"
+
+SubtitleSound[3024]="D07R3011"
+SubtitleText[3024]="Delta 07: Dafür sind die Sammler also da ... ?!"
+
+SubtitleSound[3025]="D38R3016"
+SubtitleText[3025]="Delta 38: 6-2, 4-0, wo sind Sie?"
+
+SubtitleSound[3026]="D40R3024"
+SubtitleText[3026]="Delta 40: Ugh ... im Müll. Wir wurden auf dem Weg nach unten getrennt."
+
+SubtitleSound[3027]="CA1R3031"
+SubtitleText[3027]="Klonberater 1: Suchen Sie Ihre Kameraden!"
+
+SubtitleSound[3028]="D07R3012"
+SubtitleText[3028]="Delta 07: Ihr zwei. Weg von der Tür!"
+
+SubtitleSound[3029]="CA1R3032"
+SubtitleText[3029]="Klonberater 1: Achtung, Delta 3-8! Ich habe ein Schlachtschiff der Separatisten auf den Langstreckensensoren!"
+
+SubtitleSound[3030]="D40R3025"
+SubtitleText[3030]="Delta 40: Bringen wir die Sache zu Ende, bevor die Trandos Verstärkung holen!"
+
+SubtitleSound[3031]="D40R3026"
+SubtitleText[3031]="Delta 40: Achtung, ihre Waffen sind online!"
+
+SubtitleSound[3032]="D07R3203"
+SubtitleText[3032]="Delta 07: Diese Kerle können sich überall verstecken."
+
+SubtitleSound[3033]="D38R3205"
+SubtitleText[3033]="Delta 38: Immer schön langsam und vorsichtig ..."
+
+SubtitleSound[3034]="D40R3028"
+SubtitleText[3034]="Delta 40: ... und Vorsicht vor Hinterhalten."
+
+SubtitleSound[3035]="D07R3204"
+SubtitleText[3035]="Delta 07: Was ist das, Scorch?"
+
+SubtitleSound[3036]="D62R3204"
+SubtitleText[3036]="Delta 62: Eine Falle, würde ich sagen."
+
+SubtitleSound[3037]="D07R3205"
+SubtitleText[3037]="Delta 07: Ich krieg schon wieder so ein flaues Gefühl im Magen ..."
+
+SubtitleSound[3038]="D40R3029"
+SubtitleText[3038]="Delta 40: Ich habe ihr Waffenlager gefunden, Sir!"
+
+SubtitleSound[3039]="D40R3030"
+SubtitleText[3039]="Delta 40: Das gefällt mir nicht."
+
+SubtitleSound[3040]="CA1R3209"
+SubtitleText[3040]="Klonberater 1: Delta, dieses Schiff enthält unendlich viele Daten über die Trandoshaner."
+
+SubtitleSound[3041]="D38R3206"
+SubtitleText[3041]="Delta 38: Ich weiß. Es hat alles aufgezeichnet, was an Bord passiert ist."
+
+SubtitleSound[3042]="CA1R3210"
+SubtitleText[3042]="Klonberater 1: Jede Waffe, jedes Manöver ... die Republik würde Monate brauchen, um diese Daten auszuwerten."
+
+SubtitleSound[3043]="D07R3206"
+SubtitleText[3043]="Delta 07: Und die Wookiees könnten sie dazu verwenden, die Oberhand über die Sklavenhändler zu bekommen."
+
+SubtitleSound[3044]="D62R3205"
+SubtitleText[3044]="Delta 62: Jippie! Eine Wookiee-Lebensschuld für alle!"
+
+SubtitleSound[3045]="CA1R3211"
+SubtitleText[3045]="Klonberater 1: Wir müssen das Schiff in einem Stück nach Coruscant bringen."
+
+SubtitleSound[3046]="CA1R3212"
+SubtitleText[3046]="Klonberater 1: Ich habe mich in die Systeme des Schiffs gehackt. Jetzt kann ich einige Funktionen von hier manipulieren."
+
+SubtitleSound[3047]="CA1R3213"
+SubtitleText[3047]="Klonberater 1: Die Aufzeichnungen, die Sie fanden, zeigen einige exotische Waffensysteme."
+
+SubtitleSound[3048]="CA1R3214"
+SubtitleText[3048]="Klonberater 1: Einen Raketenwerfer. Und eine Art Stoßwellenwaffe. Sieht übel aus."
+
+SubtitleSound[3049]="D62R3206"
+SubtitleText[3049]="Delta 62: Nur damit ich das richtig verstehe ..."
+
+SubtitleSound[3050]="D62R3207"
+SubtitleText[3050]="Delta 62: Die Trandos haben dieses Schiff gestohlen ... um es den Separatisten zu geben ... um Kampfdroiden zu kaufen?"
+
+SubtitleSound[3051]="D07R3207"
+SubtitleText[3051]="Delta 07: Klingt logisch. Sie wollen ihren Hintern nicht mehr selbst riskieren. Feiglinge."
+
+SubtitleSound[3052]="D38R3207"
+SubtitleText[3052]="Delta 38: Genug jetzt. Überlasst Coruscant die Politik."
+
+SubtitleSound[3053]="D62R3208"
+SubtitleText[3053]="Delta 62: Wenn wir erst mal bei dem Echsen-Landungsschiff sind, werde ich ..."
+
+SubtitleSound[3054]="D07R3208"
+SubtitleText[3054]="Delta 07: Warum fühle ich mich nur wie ein Nerf in einer Gurrcat-Höhle?"
+
+SubtitleSound[3055]="D62R3209"
+SubtitleText[3055]="Delta 62: Riechen tust du jedenfalls wie einer."
+
+SubtitleSound[3056]="CA1R3215"
+SubtitleText[3056]="Klonberater 1: Laut meiner Scans halten sich die meisten Trandoshaner im Zellentrakt auf."
+
+SubtitleSound[3057]="D40R3031"
+SubtitleText[3057]="Delta 40: Was wollen die nur mit dem Zellentrakt?"
+
+SubtitleSound[3058]="D38R3208"
+SubtitleText[3058]="Delta 38: Vielleicht mögen sie die Hitze."
+
+SubtitleSound[3059]="D07R3209"
+SubtitleText[3059]="Delta 07: Ich sorge schon dafür, dass ihnen heiß wird ..."
+
+SubtitleSound[3060]="D40R3032"
+SubtitleText[3060]="Delta 40: Sie kommen von allen Seiten!"
+
+SubtitleSound[3061]="D07R3210"
+SubtitleText[3061]="Delta 07: Achtung! Sechs Uhr!"
+
+SubtitleSound[3062]="D40R3033"
+SubtitleText[3062]="Delta 40: Hier ist noch so eine Tafel."
+
+SubtitleSound[3063]="D38R3209"
+SubtitleText[3063]="Delta 38: Das wäre dann Abschuss Nummer siebzehntausendvierhundertund ..."
+
+SubtitleSound[3064]="D62R3210"
+SubtitleText[3064]="Delta 62: Kommen Sie schon, Boss ... ich VERSUCHE, aufzuholen."
+
+SubtitleSound[3065]="CA1R3216"
+SubtitleText[3065]="Klonberater 1: Position halten, Delta."
+
+SubtitleSound[3066]="CA1R3217"
+SubtitleText[3066]="Klonberater 1: Ich überprüfe die Baupläne des Schiffs ..."
+
+SubtitleSound[3067]="CA1R3218"
+SubtitleText[3067]="Klonberater 1: Hinter Ihnen, Delta-Team. Sechs Uhr!"
+
+SubtitleSound[3068]="D62R3211"
+SubtitleText[3068]="Delta 62: Giftgas. Das Zeug versaut mir meine ganze Abschussstatistik."
+
+SubtitleSound[3069]="D62R3212"
+SubtitleText[3069]="Delta 62: Das Gas hat sie alle erwischt. Jetzt wissen wir wohl, wie lange Trandoshaner die Luft anhalten können."
+
+SubtitleSound[3070]="D07R3211"
+SubtitleText[3070]="Delta 07: Das war mein 200. Abschuss."
+
+SubtitleSound[3071]="D62R3213"
+SubtitleText[3071]="Delta 62: Den hatte ich schon vor 5 Minuten."
+
+SubtitleSound[3072]="D62R3214"
+SubtitleText[3072]="Delta 62: Das war's. Das Schiff ist sauber."
+
+SubtitleSound[3073]="D07R3212"
+SubtitleText[3073]="Delta 07: Da ist unser Missionsziel."
+
+SubtitleSound[3074]="D40R3034"
+SubtitleText[3074]="Delta 40: Trandoshanisches Landungsschiff in Sicht."
+
+SubtitleSound[3075]="CA1R3219"
+SubtitleText[3075]="Klonberater 1: Das Landungsschiff ist ihre Kommandozentrale. Sie werden es erbittert verteidigen."
+
+SubtitleSound[3076]="D38R3210"
+SubtitleText[3076]="Delta 38: Schwerer Söldner! Und er bewacht das Geschütz!"
+
+SubtitleSound[3077]="D38R3211"
+SubtitleText[3077]="Delta 38: Schon wieder diese verdammten Geschütze!"
+
+SubtitleSound[3078]="CA1R3220"
+SubtitleText[3078]="Klonberater 1: Team, ich kann noch einen schweren Söldner erkennen. Irgendwo im Hangar."
+
+SubtitleSound[3079]="D40R3035"
+SubtitleText[3079]="Delta 40: Schnappen wir uns das Stoßwellengewehr."
+
+SubtitleSound[3080]="D07R3213"
+SubtitleText[3080]="Delta 07: He, was hat der Trando vor?"
+
+SubtitleSound[3081]="D40R3036"
+SubtitleText[3081]="Delta 40: Team! Schafft ihn weg von der Konsole!"
+

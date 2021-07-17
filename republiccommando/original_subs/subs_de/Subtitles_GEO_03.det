@@ -1,0 +1,692 @@
+[Subtitles_GEO_03]
+
+SubtitleSound[2928]="CA1G3100"
+SubtitleText[2928]="Klonberater 1: Wir haben alle Daten analysiert. Es gibt zwei für den Betrieb der Fabrik kritische Ziele!"
+
+SubtitleSound[2929]="CA1G3101"
+SubtitleText[2929]="Klonberater 1: Sie müssen beide Ziele zerstören, um die Energiezufuhr der Fabrik zu unterbrechen."
+
+SubtitleSound[2930]="CA1G3102"
+SubtitleText[2930]="Klonberater 1: Die erste Leitung befindet sich vor dem Kontrollraum, in dem Sie sich aufhalten."
+
+SubtitleSound[2931]="CA1G3103"
+SubtitleText[2931]="Klonberater 1: Die zweite Leitung ist am Ende des Fließbands auf der Fertigungsebene."
+
+SubtitleSound[2932]="CA1G3104"
+SubtitleText[2932]="Klonberater 1: Sie gehen in die falsche Richtung, Delta."
+
+SubtitleSound[2933]="CA1G3106"
+SubtitleText[2933]="Klonberater 1: Meines Wissens kommen Sie über den Turm nicht in die Fabrik!"
+
+SubtitleSound[2934]="CA1G3107"
+SubtitleText[2934]="Klonberater 1: Ich denke, Sie müssen sich etwas einfallen lassen."
+
+SubtitleSound[2935]="CA1G3108"
+SubtitleText[2935]="Klonberater 1: Sie haben die Stromleitung passiert."
+
+SubtitleSound[2936]="CA1G3109"
+SubtitleText[2936]="Klonberater 1: Die Fabrik hat immer noch Energie."
+
+SubtitleSound[2937]="CA1G3110"
+SubtitleText[2937]="Klonberater 1: Sie befinden sich hinter Ihrem aktuellen Ziel!"
+
+SubtitleSound[2938]="CA1G3111"
+SubtitleText[2938]="Klonberater 1: Ich werde Sie nach Bedarf mit taktischen Informationen versorgen."
+
+SubtitleSound[2939]="CA1G3112"
+SubtitleText[2939]="Klonberater 1: Taktische Informationen erscheinen auf Ihren HUDs als holografische Projektionen."
+
+SubtitleSound[2940]="CA1G3113"
+SubtitleText[2940]="Klonberater 1: Bei jeder Projektion handelt es sich um einen Befehl, den Sie einem Teammitglied erteilen können."
+
+SubtitleSound[2941]="CA1G3114"
+SubtitleText[2941]="Klonberater 1: Möchten Sie einen Befehl erteilen, drücken Sie"Benutzen", solange das Hologramm angezeigt wird."
+
+SubtitleSound[2942]="CA1G3115"
+SubtitleText[2942]="Klonberater 1: Die Tür ist verriegelt. Sie müssen wohl oder übel den Schließmechanismus zerstören."
+
+SubtitleSound[2943]="CA1G3116"
+SubtitleText[2943]="Klonberater 1: Laut meiner Scans warten auf der anderen Seite dieser Tür mehrere Gegner!"
+
+SubtitleSound[2944]="CA1G3117"
+SubtitleText[2944]="Klonberater 1: Ich empfehle Ihnen, die Tür aufzubrechen, und den Raum schnellstmöglich zu säubern."
+
+SubtitleSound[2945]="CA1G3118"
+SubtitleText[2945]="Klonberater 1: Platzieren Sie den Sprengsatz und gehen Sie in Deckung."
+
+SubtitleSound[2946]="CA1G3120"
+SubtitleText[2946]="Klonberater 1: 3-8. Hier könnten Sie einen Scharfschützen in Stellung bringen."
+
+SubtitleSound[2947]="CA1G3121"
+SubtitleText[2947]="Klonberater 1: Schicken Sie ein Teammitglied zur Scharfschützen-Position."
+
+SubtitleSound[2948]="CA1G3122"
+SubtitleText[2948]="Klonberater 1: In Ihrer Nähe gibt es ein Terminal, über das die Energiezufuhr der Schilde kontrolliert wird."
+
+SubtitleSound[2949]="CA1G3123"
+SubtitleText[2949]="Klonberater 1: Hacken Sie das Terminal, um die Schilde zu deaktivieren."
+
+SubtitleSound[2950]="CA1G3132"
+SubtitleText[2950]="Klonberater 1: Der einzige Weg zur Fabrik scheint durch einen Sammelpunkt des Feindes zu führen!"
+
+SubtitleSound[2951]="CA1G3134"
+SubtitleText[2951]="Klonberater 1: Auf der anderen Seite des Raums müsste ein Durchgang sein."
+
+SubtitleSound[2952]="CA1G3136"
+SubtitleText[2952]="Klonberater 1: Sprengen Sie die Wand und rücken Sie durch die Öffnung vor."
+
+SubtitleSound[2953]="CA1G3137"
+SubtitleText[2953]="Klonberater 1: Aufpassen! Ich habe vermehrte Feindaktivitäten auf den Sensoren!"
+
+SubtitleSound[2954]="CA1G3138"
+SubtitleText[2954]="Klonberater 1: Auf der anderen Seite des Raums ist eine Öffnung. Beeilen Sie sich."
+
+SubtitleSound[2955]="CA1G3139"
+SubtitleText[2955]="Klonberater 1: Delta-Team, am Ende des Raums ist eine Öffnung."
+
+SubtitleSound[2956]="CA1G3140"
+SubtitleText[2956]="Klonberater 1: Von dort aus können Sie in die nächste Ebene springen."
+
+SubtitleSound[2957]="CA1G3141"
+SubtitleText[2957]="Klonberater 1: Sie müssten sich jetzt einem großen Raum nähern."
+
+SubtitleSound[2958]="CA1G3142"
+SubtitleText[2958]="Klonberater 1: Nichts ... oh, Moment ..."
+
+SubtitleSound[2959]="CA1G3143"
+SubtitleText[2959]="Klonberater 1: Gehen Sie einfach weiter."
+
+SubtitleSound[2960]="CA1G3144"
+SubtitleText[2960]="Klonberater 1: Auf der anderen Seite dieses Raums ist ein Loch in der Wand."
+
+SubtitleSound[2961]="CA1G3145"
+SubtitleText[2961]="Klonberater 1: Geonosianische Eliteeinheiten. Vorsicht vor ihren Lasern."
+
+SubtitleSound[2962]="CA1G3146"
+SubtitleText[2962]="Klonberater 1: Sie sind nur ein paar hundert Meter von der Fabrik entfernt."
+
+SubtitleSound[2963]="CA1G3147"
+SubtitleText[2963]="Klonberater 1: Die Fabrik ist gegenüber Ihrer aktuellen Position, Deltas."
+
+SubtitleSound[2964]="CA1G3148"
+SubtitleText[2964]="Klonberater 1: Über die Lüftungsschächte auf der anderen Seite des Turms müssten Sie in die Fabrik kommen!"
+
+SubtitleSound[2965]="CA1G3149"
+SubtitleText[2965]="Klonberater 1: Die Fabrik ist auf der anderen Seite dieses Lüftungsschachts. Los!"
+
+SubtitleSound[2966]="CA1G3150"
+SubtitleText[2966]="Klonberater 1: Positiv, 3-8. Alpha Wing hat eben einen Klasse-3-Kreuzer abgeschossen. Weitermachen!"
+
+SubtitleSound[2967]="CA1G3151"
+SubtitleText[2967]="Klonberater 1: Kampfdroiden. Sie fallen unseren Truppen an der Oberfläche in die Flanke. Rücken Sie zur Fabrik vor. Los."
+
+SubtitleSound[2968]="D07G3100"
+SubtitleText[2968]="Delta 07: Gute Arbeit, 6-2."
+
+SubtitleSound[2969]="D07G3101"
+SubtitleText[2969]="Delta 07: Gute Arbeit, 4-0."
+
+SubtitleSound[2970]="D07G3102"
+SubtitleText[2970]="Delta 07: Los, los, los ..."
+
+SubtitleSound[2971]="D07G3103"
+SubtitleText[2971]="Delta 07: Okay, los."
+
+SubtitleSound[2972]="D07G3104"
+SubtitleText[2972]="Delta 07: Ziel erfasst. Warte auf Schießbefehl."
+
+SubtitleSound[2973]="D07G3105"
+SubtitleText[2973]="Delta 07: Ganz schön unheimlich hier ..."
+
+SubtitleSound[2974]="D07G3109"
+SubtitleText[2974]="Delta 07: Kamino ist verdammt weit weg."
+
+SubtitleSound[2975]="D07G3115"
+SubtitleText[2975]="Delta 07: Was war das?"
+
+SubtitleSound[2976]="D07G3116"
+SubtitleText[2976]="Delta 07: Wir kümmern uns gleich darum."
+
+SubtitleSound[2977]="D07G3117"
+SubtitleText[2977]="Delta 07: Jetzt weiß ich, warum Sie uns anführen, Sir."
+
+SubtitleSound[2978]="D40G3101"
+SubtitleText[2978]="Delta 40: Gute Arbeit, 6-2."
+
+SubtitleSound[2979]="D40G3102"
+SubtitleText[2979]="Delta 40: Gute Arbeit, 0-7."
+
+SubtitleSound[2980]="D40G3103"
+SubtitleText[2980]="Delta 40: Los, los, los ..."
+
+SubtitleSound[2981]="D40G3104"
+SubtitleText[2981]="Delta 40: Okay, los."
+
+SubtitleSound[2982]="D40G3106"
+SubtitleText[2982]="Delta 40: Ziel erfasst. Warte auf Schießbefehl."
+
+SubtitleSound[2983]="D40G3107"
+SubtitleText[2983]="Delta 40: Ganz schön unheimlich hier ..."
+
+SubtitleSound[2984]="D40G3111"
+SubtitleText[2984]="Delta 40: Kamino ist verdammt weit weg."
+
+SubtitleSound[2985]="D62G3100"
+SubtitleText[2985]="Delta 62: Na klar."
+
+SubtitleSound[2986]="D62G3101"
+SubtitleText[2986]="Delta 62: Gute Arbeit, 4-0."
+
+SubtitleSound[2987]="D62G3102"
+SubtitleText[2987]="Delta 62: Gute Arbeit, 0-7."
+
+SubtitleSound[2988]="D62G3103"
+SubtitleText[2988]="Delta 62: Los, los, los ..."
+
+SubtitleSound[2989]="D62G3104"
+SubtitleText[2989]="Delta 62: Okay, los."
+
+SubtitleSound[2990]="D62G3106"
+SubtitleText[2990]="Delta 62: Kämpfer!"
+
+SubtitleSound[2991]="D62G3109"
+SubtitleText[2991]="Delta 62: Ziele erfasst. Gehe in Schussposition!"
+
+SubtitleSound[2992]="D62G3111"
+SubtitleText[2992]="Delta 62: Ziel erfasst. Warte auf Schießbefehl."
+
+SubtitleSound[2993]="D62G3112"
+SubtitleText[2993]="Delta 62: Ganz schön unheimlich hier ..."
+
+SubtitleSound[2994]="D62G3116"
+SubtitleText[2994]="Delta 62: Kamino ist verdammt weit weg."
+
+SubtitleSound[2995]="D62G3120"
+SubtitleText[2995]="Delta 62: Whoa!"
+
+SubtitleSound[2996]="D62G3122"
+SubtitleText[2996]="Delta 62: Wir kümmern uns gleich darum."
+
+SubtitleSound[2997]="D62G3123"
+SubtitleText[2997]="Delta 62: Jetzt weiß ich, warum Sie uns anführen, Sir."
+
+SubtitleSound[2998]="CA1G3003"
+SubtitleText[2998]="Klonberater 1: Laut Geheimdienst gibt es da unten ein paar Fabriken. Aber unsere großen Sturmtruppen kommen da nicht rein."
+
+SubtitleSound[2999]="CA1G3005"
+SubtitleText[2999]="Klonberater 1: Ausgehend von der Wärmesignatur dieses Turms muss darunter eine Fabrik sein."
+
+SubtitleSound[3000]="CA1G3004"
+SubtitleText[3000]="Klonberater 1: Die Neutralisierung einer der Fabriken könnte uns einen entscheidenden Vorteil verschaffen!"
+
+SubtitleSound[3001]="CA1G3006"
+SubtitleText[3001]="Klonberater 1: Unsere Scanner können die Fabrik nicht exakt orten. In der Nähe Ihrer Position muss ein Störsender sein!"
+
+SubtitleSound[3002]="CA1G3007"
+SubtitleText[3002]="Klonberater 1: Zuerst muss der Störsender deaktiviert werden."
+
+SubtitleSound[3003]="CA1G3008"
+SubtitleText[3003]="Klonberater 1: Anschließend bringe ich Sie zu Ihrem Primärziel."
+
+SubtitleSound[3004]="CA1G3009"
+SubtitleText[3004]="Klonberater 1: Die Kommunikation ... gestört ... sind da drin auf sich gestellt, bis ... deaktiviert haben."
+
+SubtitleSound[3005]="D62G3105"
+SubtitleText[3005]="Delta 62: Das Signal ist gestört, Sir. Schade, es wurde gerade interessant."
+
+SubtitleSound[3006]="D62G3001"
+SubtitleText[3006]="Delta 62: Ich glaube, wir brauchen ein größeres Team."
+
+SubtitleSound[3007]="D07G3001"
+SubtitleText[3007]="Delta 07: Oder größere Waffen."
+
+SubtitleSound[3008]="D40G3001"
+SubtitleText[3008]="Delta 40: Klappe halten, Leute."
+
+SubtitleSound[3009]="D38G3001"
+SubtitleText[3009]="Delta 38: Wir haben unsere Befehle. Legen wir los."
+
+SubtitleSound[3010]="D38G3100"
+SubtitleText[3010]="Delta 38: Konzentrieren Sie sich auf Ihre Ziele! Das ist keine Übung!"
+
+SubtitleSound[3011]="D07G3002"
+SubtitleText[3011]="Delta 07: Wir sind genau hinter Ihnen, Team-Leader."
+
+SubtitleSound[3012]="D62G3002"
+SubtitleText[3012]="Delta 62: Sieh mal einer an ..."
+
+SubtitleSound[3013]="CA1G3011"
+SubtitleText[3013]="Klonberater 1: Gute Arbeit. Die Kommunikationssysteme funktionieren wieder."
+
+SubtitleSound[3014]="CA1G3012"
+SubtitleText[3014]="Klonberater 1: Erste Scans zeigen einen großen Komplex in der Ebene unter Ihnen!"
+
+SubtitleSound[3015]="D62G3003"
+SubtitleText[3015]="Delta 62: Achtung!"
+
+SubtitleSound[3016]="D40G3002"
+SubtitleText[3016]="Delta 40: Flankiert das neue Ziel!"
+
+SubtitleSound[3017]="D07G3003"
+SubtitleText[3017]="Delta 07: Deckung!"
+
+SubtitleSound[3018]="CA1G3017"
+SubtitleText[3018]="Klonberater 1: Auf der anderen Seite des Turms führen Lüftungsschächte in die Fabrik."
+
+SubtitleSound[3019]="CA1G3018"
+SubtitleText[3019]="Klonberater 1: Dieser Schacht führt zum primären Belüftungssystem der Fabrik."
+
+SubtitleSound[3020]="D40G3003"
+SubtitleText[3020]="Delta 40: Greife auf Computer zu."
+
+SubtitleSound[3021]="D07G3005"
+SubtitleText[3021]="Delta 07: Sende Link an Berater."
+
+SubtitleSound[3022]="D40G3004"
+SubtitleText[3022]="Delta 40: Sende Link an Berater."
+
+SubtitleSound[3023]="D62G3005"
+SubtitleText[3023]="Delta 62: Greife auf Computer zu."
+
+SubtitleSound[3024]="D62G3006"
+SubtitleText[3024]="Delta 62: Sende Link an Berater."
+
+SubtitleSound[3025]="CA1G3023"
+SubtitleText[3025]="Klonberater 1: Zwei Hauptleitungen versorgen die Droidenmontage mit Energie."
+
+SubtitleSound[3026]="D38G3008"
+SubtitleText[3026]="Delta 38: Dieser Schild versperrt uns den Weg."
+
+SubtitleSound[3027]="D38G3009"
+SubtitleText[3027]="Delta 38: Schilde deaktiviert. Sprengen wir den Störsender."
+
+SubtitleSound[3028]="D38G3010"
+SubtitleText[3028]="Delta 38: 3-8 an Berater: Energiezufuhr unterbrochen."
+
+SubtitleSound[3029]="D40G3007"
+SubtitleText[3029]="Delta 40: Was soll das? Haben wir wieder Energie?"
+
+SubtitleSound[3030]="D40G3008"
+SubtitleText[3030]="Delta 40: Der Feind greift an, Leute! Aufpassen!"
+
+SubtitleSound[3031]="D62G3009"
+SubtitleText[3031]="Delta 62: Achtung, sie sind überall!"
+
+SubtitleSound[3032]="D07G3008"
+SubtitleText[3032]="Delta 07: Diese verdammten Bugs sind überall!"
+
+SubtitleSound[3033]="D38G3013"
+SubtitleText[3033]="Delta 38: 3-8 an Berater."
+
+SubtitleSound[3034]="D38G3014"
+SubtitleText[3034]="Delta 38: Wir müssen hier raus! Schnell!"
+
+SubtitleSound[3035]="D38G3015"
+SubtitleText[3035]="Delta 38: Wo sind Sie gerade?"
+
+SubtitleSound[3036]="CA1G3029"
+SubtitleText[3036]="Klonberater 1: Hier ..."
+
+SubtitleSound[3037]="D62G3010"
+SubtitleText[3037]="Delta 62: Schön, dass ihr vorbeischaut."
+
+SubtitleSound[3038]="CA1G3030"
+SubtitleText[3038]="Klonberater 1: Am Ende dieses Schachts ist ein Sims."
+
+SubtitleSound[3039]="CA1G3031"
+SubtitleText[3039]="Klonberater 1: Von dem Sims aus können Sie sich in die Ebene darunter abseilen."
+
+SubtitleSound[3040]="D38G3017"
+SubtitleText[3040]="Delta 38: Das ist unser Ausgang. Verschwinden wir."
+
+SubtitleSound[3041]="CA1G3034"
+SubtitleText[3041]="Klonberater 1: Rechnen Sie dort mit verschiedenen feindseligen Lebensformen."
+
+SubtitleSound[3042]="D07G3009"
+SubtitleText[3042]="Delta 07: Ich sehe keine ..."
+
+SubtitleSound[3043]="D38G3018"
+SubtitleText[3043]="Delta 38: Sie haben auf der Brücke eine Barrikade errichtet."
+
+SubtitleSound[3044]="D38G3019"
+SubtitleText[3044]="Delta 38: Platzieren wir da doch einen Sprengsatz!"
+
+SubtitleSound[3045]="D38G3020"
+SubtitleText[3045]="Delta 38: Da kommen wir nicht rüber ..."
+
+SubtitleSound[3046]="D38G3021"
+SubtitleText[3046]="Delta 38: Wir müssen uns wohl eine eigene Brücke bauen."
+
+SubtitleSound[3047]="CA1G3037"
+SubtitleText[3047]="Klonberater 1: Suchen Sie einen Computer und kopieren Sie die Fabrikpläne."
+
+SubtitleSound[3048]="CA1G3038"
+SubtitleText[3048]="Klonberater 1: Ich prüfe sie auf Schwachstellen."
+
+SubtitleSound[3049]="CA1G3039"
+SubtitleText[3049]="Klonberater 1: Mit dieser Konsole haben Sie Zugriff auf den Hauptcomputer der Fabrik."
+
+SubtitleSound[3050]="CA1G3040"
+SubtitleText[3050]="Klonberater 1: Sobald die Verbindung steht, kann ich die Türen öffnen."
+
+SubtitleSound[3051]="D07G3106"
+SubtitleText[3051]="Delta 07: Phindar-Harz. Hochexplosiv. Dämliche Bugs."
+
+SubtitleSound[3052]="D40G3108"
+SubtitleText[3052]="Delta 40: Phindar-Harz. Hochexplosiv."
+
+SubtitleSound[3053]="D40G3109"
+SubtitleText[3053]="Delta 40: Dieser Geruch. Sie ernten Phindar-Harz."
+
+SubtitleSound[3054]="D40G3110"
+SubtitleText[3054]="Delta 40: In der Rohform hochexplosiv."
+
+SubtitleSound[3055]="D62G3113"
+SubtitleText[3055]="Delta 62: Phindar-Harz. Hochexplosiv."
+
+SubtitleSound[3056]="D62G3114"
+SubtitleText[3056]="Delta 62: Riecht ihr das? Sie ernten Phindar-Harz."
+
+SubtitleSound[3057]="D62G3115"
+SubtitleText[3057]="Delta 62: In der Rohform hochexplosiv."
+
+SubtitleSound[3058]="D62G3107"
+SubtitleText[3058]="Delta 62: Wo ist er hin!?"
+
+SubtitleSound[3059]="D07G3107"
+SubtitleText[3059]="Delta 07: Dieser Geruch. Sie ernten Phindar-Harz."
+
+SubtitleSound[3060]="D07G3108"
+SubtitleText[3060]="Delta 07: In der Rohform hochexplosiv. Dämliche Bugs."
+
+SubtitleSound[3061]="D38G3023"
+SubtitleText[3061]="Delta 38: Unter uns sind Maschinen. Wir scheinen auf dem richtigen Weg zu sein."
+
+SubtitleSound[3062]="D07G3113"
+SubtitleText[3062]="Delta 07: Das heißt, wir müssen noch ein paar Bugs töten, was?"
+
+SubtitleSound[3063]="D62G3121"
+SubtitleText[3063]="Delta 62: Das heißt, wir sind fast fertig, oder?"
+
+SubtitleSound[3064]="D38G3116"
+SubtitleText[3064]="Delta 38: Wir müssen weiter, Deltas. Runter zur Fabrik!"
+
+SubtitleSound[3065]="D38G3139"
+SubtitleText[3065]="Delta 38: Das hört sich nicht gut an."
+
+SubtitleSound[3066]="D38G3138"
+SubtitleText[3066]="Delta 38: Da oben ist ganz schön was los!"
+
+SubtitleSound[3067]="D62G3011"
+SubtitleText[3067]="Delta 62: Mir gefällt's hier gar nicht!"
+
+SubtitleSound[3068]="D07G3110"
+SubtitleText[3068]="Delta 07: Iih, hier stinkt's ja erbärmlich!"
+
+SubtitleSound[3069]="D40G3112"
+SubtitleText[3069]="Delta 40: Ugh. Was ist das für ein Gestank?"
+
+SubtitleSound[3070]="D62G3117"
+SubtitleText[3070]="Delta 62: Shh. Riecht ihr das?"
+
+SubtitleSound[3071]="D07G3111"
+SubtitleText[3071]="Delta 07: Was sind das für Dinger?"
+
+SubtitleSound[3072]="D40G3113"
+SubtitleText[3072]="Delta 40: Was sind das für Dinger?"
+
+SubtitleSound[3073]="D62G3118"
+SubtitleText[3073]="Delta 62: Was sind das für Dinger? Sehen aus wie Eier!"
+
+SubtitleSound[3074]="D62G3110"
+SubtitleText[3074]="Delta 62: Unglaublich, das SIND Eier!"
+
+SubtitleSound[3075]="D07G3112"
+SubtitleText[3075]="Delta 07: Und ich dachte, schlimmer kann's nicht mehr werden ..."
+
+SubtitleSound[3076]="D38G3117"
+SubtitleText[3076]="Delta 38: Machen wir einen weiten Bogen um sie. Sicher ist sicher."
+
+SubtitleSound[3077]="D40G3114"
+SubtitleText[3077]="Delta 40: Das scheint eine Art geonosianische Brutkammer zu sein, Gentlemen ..."
+
+SubtitleSound[3078]="D62G3119"
+SubtitleText[3078]="Delta 62: Ich würde ungern den Nuna treffen, der die gelegt hat ..."
+
+SubtitleSound[3079]="D38G3024"
+SubtitleText[3079]="Delta 38: Haltet euch von den Eiern fern!"
+
+SubtitleSound[3080]="CA1G3127"
+SubtitleText[3080]="Klonberater 1: Sie ... Konsolen hacken ... am an ..."
+
+SubtitleSound[3081]="D38G3025"
+SubtitleText[3081]="Delta 38: Der Störsender ist abgeschirmt."
+
+SubtitleSound[3082]="D38G3119"
+SubtitleText[3082]="Delta 38: Da ist der Störsender. Er ist abgeschirmt."
+
+SubtitleSound[3083]="D38G3118"
+SubtitleText[3083]="Delta 38: Der Störsender stört meine Systeme ..."
+
+SubtitleSound[3084]="D38G3120"
+SubtitleText[3084]="Delta 38: Am anderen Ende des Raums ist eine Computerkonsole."
+
+SubtitleSound[3085]="D40G3105"
+SubtitleText[3085]="Delta 40: Sir, auf der anderen Seite des Raums ist eine Schildkonsole!"
+
+SubtitleSound[3086]="D07G3114"
+SubtitleText[3086]="Delta 07: Auf der anderen Seite des Raums ist eine Schalttafel."
+
+SubtitleSound[3087]="D62G3108"
+SubtitleText[3087]="Delta 62: Schildkonsole an der Rückseite der Höhle geortet, Sir!"
+
+SubtitleSound[3088]="D38G3121"
+SubtitleText[3088]="Delta 38: Ich muss den Schild des Störsenders deaktivieren."
+
+SubtitleSound[3089]="D38G3101"
+SubtitleText[3089]="Delta 38: Wir müssen den Schild deaktivieren, damit wir den Störsender zerstören können."
+
+SubtitleSound[3090]="D38G3102"
+SubtitleText[3090]="Delta 38: Sie haben die Energie auf die andere Leitung umgeleitet."
+
+SubtitleSound[3091]="D38G3026"
+SubtitleText[3091]="Delta 38: Die Konsole für den Schild muss hier irgendwo sein."
+
+SubtitleSound[3092]="D38G3127"
+SubtitleText[3092]="Delta 38: Wir müssen zum Sender zurück und die Mine platzieren!"
+
+SubtitleSound[3093]="D38G3125"
+SubtitleText[3093]="Delta 38: Wir müssen den Schild abschalten, bevor hier noch mehr Geonosianer auftauchen."
+
+SubtitleSound[3094]="D38G3104"
+SubtitleText[3094]="Delta 38: Schutzschild deaktiviert. Jetzt müssen wir nur noch den Sender sprengen."
+
+SubtitleSound[3095]="D38G3128"
+SubtitleText[3095]="Delta 38: Bringen Sie einen Sprengsatz am Störsender an."
+
+SubtitleSound[3096]="D38G3129"
+SubtitleText[3096]="Delta 38: 4-0, bringen Sie einen Sprengsatz am Störsender an."
+
+SubtitleSound[3097]="D38G3130"
+SubtitleText[3097]="Delta 38: 6-2, bringen Sie einen Sprengsatz am Störsender an."
+
+SubtitleSound[3098]="D38G3131"
+SubtitleText[3098]="Delta 38: 0-7, bringen Sie einen Sprengsatz am Störsender an."
+
+SubtitleSound[3099]="D38G3123"
+SubtitleText[3099]="Delta 38: Hinter dem Störsender ist ein Ausgang!"
+
+SubtitleSound[3100]="D38G3028"
+SubtitleText[3100]="Delta 38: Wir müssen den Schild abschalten und den Sprengsatz platzieren."
+
+SubtitleSound[3101]="CA1G3125"
+SubtitleText[3101]="Klonberater 1: Laut meiner Scans führt die Öffnung hinter dem Störsender in einen großen Raum."
+
+SubtitleSound[3102]="CA1G3126"
+SubtitleText[3102]="Klonberater 1: Von diesem Raum führen mehrere Gänge in die Fabrik."
+
+SubtitleSound[3103]="CA1G3131"
+SubtitleText[3103]="Klonberater 1: Ich habe ein Labyrinth aus Gängen auf den Sensoren. Unter uns."
+
+SubtitleSound[3104]="CA1G3130"
+SubtitleText[3104]="Klonberater 1: Gehen Sie zum Störsender zurück. In der Wand dahinter ist ein Ausgang."
+
+SubtitleSound[3105]="CA1G3129"
+SubtitleText[3105]="Klonberater 1: Sie können den Raum durch eine Öffnung hinter dem Störsender verlassen."
+
+SubtitleSound[3106]="CA1G3128"
+SubtitleText[3106]="Klonberater 1: Gehen Sie durch die Öffnung hinter dem Störsender."
+
+SubtitleSound[3107]="CA1G3041"
+SubtitleText[3107]="Klonberater 1: ... Störsender ... Immer no ... aktiv ..."
+
+SubtitleSound[3108]="CA1G3042"
+SubtitleText[3108]="Klonberater 1: ... rgendwas ... alsch gelauf ..."
+
+SubtitleSound[3109]="D38G3031"
+SubtitleText[3109]="Delta 38: Wir müssen den Störsender zerstören, bevor wir da durch können!"
+
+SubtitleSound[3110]="CA1G3043"
+SubtitleText[3110]="Klonberater 1: Ab da kann ich Sie führen!"
+
+SubtitleSound[3111]="CA1G3044"
+SubtitleText[3111]="Klonberater 1: Folgen Sie dem Schacht."
+
+SubtitleSound[3112]="CA1G3045"
+SubtitleText[3112]="Klonberater 1: Delta-Team. Deckung! Schnell!"
+
+SubtitleSound[3113]="D38G3034"
+SubtitleText[3113]="Delta 38: Deckung! Sonargeschütz am Ende der Brücke!"
+
+SubtitleSound[3114]="D38G3035"
+SubtitleText[3114]="Delta 38: Sprengen wir den Turm da!"
+
+SubtitleSound[3115]="D38G3036"
+SubtitleText[3115]="Delta 38: Was wollen wir mehr?!"
+
+SubtitleSound[3116]="CA1G3046"
+SubtitleText[3116]="Klonberater 1: Gute Arbeit, Deltas."
+
+SubtitleSound[3117]="D38G3037"
+SubtitleText[3117]="Delta 38: Das ist die erste Stromleitung."
+
+SubtitleSound[3118]="D38G3200"
+SubtitleText[3118]="Delta 38: Ich kann hier keine Mine platzieren."
+
+SubtitleSound[3119]="D38G3039"
+SubtitleText[3119]="Delta 38: Wir müssen weiter runter!"
+
+SubtitleSound[3120]="D38G3040"
+SubtitleText[3120]="Delta 38: Das ist die zweite Stromleitung."
+
+SubtitleSound[3121]="D38G3041"
+SubtitleText[3121]="Delta 38: Ein kleiner Sprengsatz müsste reichen!"
+
+SubtitleSound[3122]="D38G3042"
+SubtitleText[3122]="Delta 38: Unser Ziel ist da drüben. Auf der anderen Seite des Schilds."
+
+SubtitleSound[3123]="CA1G3200"
+SubtitleText[3123]="Klonberater 1: Ähem, 3-8. Sie haben Ihr Ziel verfehlt."
+
+SubtitleSound[3124]="CA1G3048"
+SubtitleText[3124]="Klonberater 1: Schalten Sie den Strom ab!"
+
+SubtitleSound[3125]="CA1G3049"
+SubtitleText[3125]="Klonberater 1: Gute Arbeit, Deltas."
+
+SubtitleSound[3126]="CA1G3050"
+SubtitleText[3126]="Klonberater 1: Laut meiner Sensoren steht die Fabrik!"
+
+SubtitleSound[3127]="CA1G3201"
+SubtitleText[3127]="Klonberater 1: Die Fabrik arbeitet noch immer!"
+
+SubtitleSound[3128]="CA1G3052"
+SubtitleText[3128]="Klonberater 1: Kehren Sie um und bringen Sie die Sache zu Ende!"
+
+SubtitleSound[3129]="CA1G3202"
+SubtitleText[3129]="Klonberater 1: Sie haben das Ziel verfehlt, 3-8."
+
+SubtitleSound[3130]="CA1G3054"
+SubtitleText[3130]="Klonberater 1: Zerstören Sie die Energiezufuhr!"
+
+SubtitleSound[3131]="CA1G3203"
+SubtitleText[3131]="Klonberater 1: Delta-Team, Ihre Brüder vom Theta-Team haben ihr Ziel nicht erreicht."
+
+SubtitleSound[3132]="D62G3124"
+SubtitleText[3132]="Delta 62: Was ist passiert? Waren Sie zu schlecht?"
+
+SubtitleSound[3133]="CA1G3204"
+SubtitleText[3133]="Klonberater 1: Sie hatten schwere Verluste, während sie IHNEN den Rücken freigehalten haben, Delta. Also erledigen SIE ihren Auftrag: Sabotieren Sie die Droidenfabrik."
+
+SubtitleSound[3134]="CA1G3205"
+SubtitleText[3134]="Klonberater 1: Diese Tür führt zum Kontrollraum der Fabrik."
+
+SubtitleSound[3135]="CA1G3206"
+SubtitleText[3135]="Klonberater 1: Die Türen sind nicht verriegelt. Stoßen Sie in Angriffsformation zu Ihrem Ziel vor."
+
+SubtitleSound[3136]="D38G3201"
+SubtitleText[3136]="Delta 38: Los, Team. Verschwinden wir."
+
+SubtitleSound[3137]="CA1G3207"
+SubtitleText[3137]="Klonberater 1: Einsatzziel-Anzeige wird aktualisiert."
+
+SubtitleSound[3138]="CA1G3208"
+SubtitleText[3138]="Klonberater 1: Die Fabrik wird immer noch mit Energie versorgt."
+
+SubtitleSound[3139]="CA1G3209"
+SubtitleText[3139]="Klonberater 1: Delta-Team, die Republik verlässt sich darauf, dass Sie diese Fabrik vom Netz nehmen."
+
+SubtitleSound[3140]="CA1G3210"
+SubtitleText[3140]="Klonberater 1: Prüfen Sie die dritte Position Ihres DC. Sie haben jetzt einen Scharfschützenaufsatz."
+
+SubtitleSound[3141]="D40G3115"
+SubtitleText[3141]="Delta 40: Leader, das ist hier eine gute Position für einen Scharfschützen."
+
+SubtitleSound[3142]="D38G3105"
+SubtitleText[3142]="Delta 38: Ich glaube, wir sind ziemlich dicht dran."
+
+SubtitleSound[3143]="D38G3106"
+SubtitleText[3143]="Delta 38: Weiter, Deltas!"
+
+SubtitleSound[3144]="D38G3108"
+SubtitleText[3144]="Delta 38: Decken sichern!"
+
+SubtitleSound[3145]="D38G3109"
+SubtitleText[3145]="Delta 38: Mehrere Ziele auf der Brücke."
+
+SubtitleSound[3146]="D38G3110"
+SubtitleText[3146]="Delta 38: Scharfschütze! Feuer!"
+
+SubtitleSound[3147]="D38G3111"
+SubtitleText[3147]="Delta 38: Guuuter Schuss ..."
+
+SubtitleSound[3148]="D38G3112"
+SubtitleText[3148]="Delta 38: Die haben uns gesehen!"
+
+SubtitleSound[3149]="D38G3113"
+SubtitleText[3149]="Delta 38: Guter Schuss, 6-2."
+
+SubtitleSound[3150]="D38G3114"
+SubtitleText[3150]="Delta 38: Guter Schuss, 4-0."
+
+SubtitleSound[3151]="D38G3115"
+SubtitleText[3151]="Delta 38: Guter Schuss, 0-7."
+
+SubtitleSound[3152]="D38G3132"
+SubtitleText[3152]="Delta 38: Sichert alle Quadranten! Ich hab ein verdammt ungutes Gefühl ..."
+
+SubtitleSound[3153]="D38G3133"
+SubtitleText[3153]="Delta 38: Die Sensoren zeigen keinen Ausgang an!"
+
+SubtitleSound[3154]="D38G3134"
+SubtitleText[3154]="Delta 38: Ich glaube, ich höre die Fabrik. Hinter dieser Öffnung."
+
+SubtitleSound[3155]="D38G3135"
+SubtitleText[3155]="Delta 38: Berater. Was sagen Ihre Sensoren?"
+
+SubtitleSound[3156]="D38G3136"
+SubtitleText[3156]="Delta 38: Was zum Teufel war das ..?"
+
+SubtitleSound[3157]="D38G3137"
+SubtitleText[3157]="Delta 38: Eine gut platzierte Bombe am Fuß des Turms ... und schon haben wir eine Brücke."
+

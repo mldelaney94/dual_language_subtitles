@@ -1,0 +1,505 @@
+[Subtitles_RAS_02]
+
+SubtitleSound[2928]="D38R2008"
+SubtitleText[2928]="Delta 38: Delta 4-0, ich bin auf dem Weg zum Treffpunkt."
+
+SubtitleSound[2929]="D38R2010"
+SubtitleText[2929]="Delta 38: Ich nähere mich dem Treffpunkt."
+
+SubtitleSound[2930]="D40R2005"
+SubtitleText[2930]="Delta 40: Hinter Ihnen, Leader!"
+
+SubtitleSound[2931]="D38R2011"
+SubtitleText[2931]="Delta 38: Finden wir unsere Jungs."
+
+SubtitleSound[2932]="D07R2004"
+SubtitleText[2932]="Delta 07: Ich habe seine Zelle gefunden."
+
+SubtitleSound[2933]="D38R2025"
+SubtitleText[2933]="Delta 38: Diese Tür führt zur Brücke."
+
+SubtitleSound[2934]="CA1R2001"
+SubtitleText[2934]="Klonberater 1: Delta-Team, rücken Sie zum Treffpunkt vor."
+
+SubtitleSound[2935]="CA1R2002"
+SubtitleText[2935]="Klonberater 1: Die Trandoshaner wissen, dass Sie da sind! Rechnen Sie mit erbittertem Widerstand."
+
+SubtitleSound[2936]="CA1R2003"
+SubtitleText[2936]="Klonberater 1: Sobald Sie am Treffpunkt sind, werde ich ... (knister ... knacks) ... Operation ... (knister ... knacks) ... Sie informieren ... (knister ... knacks)."
+
+SubtitleSound[2937]="D38R2001"
+SubtitleText[2937]="Delta 38: Delta 0-7: Rücken Sie zum Treffpunkt vor!"
+
+SubtitleSound[2938]="D38R2002"
+SubtitleText[2938]="Delta 38: Delta 0-7: Haben Sie verstanden?"
+
+SubtitleSound[2939]="D38R2003"
+SubtitleText[2939]="Delta 38: Delta 6-2: Bitte melden!"
+
+SubtitleSound[2940]="D38R2004"
+SubtitleText[2940]="Delta 38: Delta 6-2: Haben Sie verstanden?"
+
+SubtitleSound[2941]="D38R2005"
+SubtitleText[2941]="Delta 38: 4-0. Ich hab den Kontakt zu 0-7 und 6-2 verloren."
+
+SubtitleSound[2942]="D40R2001"
+SubtitleText[2942]="Delta 40: Roger. Ich erreiche sie auch nicht."
+
+SubtitleSound[2943]="D38R2006"
+SubtitleText[2943]="Delta 38: Berater, wir haben den Kontakt zu Delta 0-7 und 6-2 verloren. Was jetzt?"
+
+SubtitleSound[2944]="D38R2007"
+SubtitleText[2944]="Delta 38: Berater! Hören Sie mich?"
+
+SubtitleSound[2945]="D40R2002"
+SubtitleText[2945]="Delta 40: Sir, der Berater ist auch weg. Irgendwas stört die Funkfrequenzen!"
+
+SubtitleSound[2946]="D38R2200"
+SubtitleText[2946]="Delta 38: Delta 4-0! Ich rücke zum Treffpunkt vor."
+
+SubtitleSound[2947]="D40R2003"
+SubtitleText[2947]="Delta 40: Immer noch keine Nachricht von Delta 0-7 und 6-2."
+
+SubtitleSound[2948]="D40R2200"
+SubtitleText[2948]="Delta 40: Von oben auch nicht!"
+
+SubtitleSound[2949]="D38R2009"
+SubtitleText[2949]="Delta 38: Die Trandos warten auf uns! Achten Sie auf Hinterhalte."
+
+SubtitleSound[2950]="D40R2209"
+SubtitleText[2950]="Delta 40: Scheinen Sklavenhändler zu sein."
+
+SubtitleSound[2951]="D38R2224"
+SubtitleText[2951]="Delta 38: Woher wissen Sie das?"
+
+SubtitleSound[2952]="D40R2210"
+SubtitleText[2952]="Delta 40: Die meisten Trandos haben einen sehr athletischen Körperbau. Aber Sklavenhändler werden mit der Zeit faul ... weil sie nichts mehr selbst machen müssen."
+
+SubtitleSound[2953]="D38R2225"
+SubtitleText[2953]="Delta 38: Fixxer! Ich bin beeindruckt."
+
+SubtitleSound[2954]="D38R2201"
+SubtitleText[2954]="Delta 38: Nähere mich dem Treffpunkt."
+
+SubtitleSound[2955]="D40R2201"
+SubtitleText[2955]="Delta 40: 6 Uhr, Leader! 6 Uhr!"
+
+SubtitleSound[2956]="D40R2006"
+SubtitleText[2956]="Delta 40: Sieht aus wie ein Träger für Kampfdroiden."
+
+SubtitleSound[2957]="D38R2202"
+SubtitleText[2957]="Delta 38: Das wird hier ja immer besser."
+
+SubtitleSound[2958]="D38R2029"
+SubtitleText[2958]="Delta 38: Beeilung!"
+
+SubtitleSound[2959]="D38R2030"
+SubtitleText[2959]="Delta 38: Freut mich, dass Sie mitkommen."
+
+SubtitleSound[2960]="D38R2203"
+SubtitleText[2960]="Delta 38: Los, suchen wir die anderen."
+
+SubtitleSound[2961]="D40R2013"
+SubtitleText[2961]="Delta 40: Die Infiltrationspunkte von 0-7 und 6-2 waren im oberen Teil des Schiffs, Sir."
+
+SubtitleSound[2962]="D40R2014"
+SubtitleText[2962]="Delta 40: Wir sollten durch die Türen zurückgehen, die ich eben geöffnet habe."
+
+SubtitleSound[2963]="D40R2015"
+SubtitleText[2963]="Delta 40: 0-7 müsste irgendwo in diesem Teil des Schiffs sein."
+
+SubtitleSound[2964]="D40R2202"
+SubtitleText[2964]="Delta 40: Ich wünschte, wir hätten ein paar Scans."
+
+SubtitleSound[2965]="D40R2204"
+SubtitleText[2965]="Delta 40: 0-7 ist gerade auf meinen Sensoren aufgetaucht. Sieht ziemlich fertig aus. Wir müssen uns beeilen."
+
+SubtitleSound[2966]="D38R2012"
+SubtitleText[2966]="Delta 38: Das da unten ist 0-7!"
+
+SubtitleSound[2967]="D38R2204"
+SubtitleText[2967]="Delta 38: Sie verhören ihn!"
+
+SubtitleSound[2968]="D38R2205"
+SubtitleText[2968]="Delta 38: Erteilen wir diesen Echsen eine Lektion!"
+
+SubtitleSound[2969]="D40R2007"
+SubtitleText[2969]="Delta 40: Die Automatikgeschütze sind online, aber dieser Trando hat die Steuerung zerstört. Wir können sie nicht abschalten."
+
+SubtitleSound[2970]="D40R2008"
+SubtitleText[2970]="Delta 40: Vorsicht vor den Geschützen!"
+
+SubtitleSound[2971]="D38R2015"
+SubtitleText[2971]="Delta 38: Sieben müsste hinter dieser Tür sein. Los, beeilen wir uns."
+
+SubtitleSound[2972]="D38R2016"
+SubtitleText[2972]="Delta 38: Suchen wir Delta 6-2."
+
+SubtitleSound[2973]="D07R2001"
+SubtitleText[2973]="Delta 07: Diese dämlichen Echsen dachten, ich verrate ihnen die Betriebsdaten des Schiffs ..."
+
+SubtitleSound[2974]="D38R2017"
+SubtitleText[2974]="Delta 38: Schon gut, Kommando. Sie sind in Sicherheit."
+
+SubtitleSound[2975]="D07R2202"
+SubtitleText[2975]="Delta 07: Gut. Ich muss noch ein paar Echsen töten."
+
+SubtitleSound[2976]="D07R2002"
+SubtitleText[2976]="Delta 07: Ich glaube, sie halten 6-2 im Zellentrakt fest."
+
+SubtitleSound[2977]="D38R2018"
+SubtitleText[2977]="Delta 38: Dann nichts wie hin, bevor ihn die Schuppies in die Mangel nehmen."
+
+SubtitleSound[2978]="D07R2003"
+SubtitleText[2978]="Delta 07: Geschütze!"
+
+SubtitleSound[2979]="D38R2019"
+SubtitleText[2979]="Delta 38: Die Trandos wissen, dass wir 6-2 zu Hilfe kommen."
+
+SubtitleSound[2980]="D38R2020"
+SubtitleText[2980]="Delta 38: Rechnen Sie mit heftigem Widerstand."
+
+SubtitleSound[2981]="D38R2021"
+SubtitleText[2981]="Delta 38: Sie halten 6-2 in einer dieser Zellen fest!"
+
+SubtitleSound[2982]="D38R2022"
+SubtitleText[2982]="Delta 38: Finden Sie die Steuerung des Zellentrakts."
+
+SubtitleSound[2983]="D07R2200"
+SubtitleText[2983]="Delta 07: Ich hab seine Zelle gefunden!"
+
+SubtitleSound[2984]="D07R2005"
+SubtitleText[2984]="Delta 07: Er sitzt in Zelle 2187. Rechte Seite. Am Ende des Gangs."
+
+SubtitleSound[2985]="D40R2009"
+SubtitleText[2985]="Delta 40: Delta 6-2 geortet!"
+
+SubtitleSound[2986]="D62R2200"
+SubtitleText[2986]="Delta 62: Hab ich irgendwas verpasst?"
+
+SubtitleSound[2987]="D38R2243"
+SubtitleText[2987]="Delta 38: Nein. Haben Sie die Daten?"
+
+SubtitleSound[2988]="D62R2201"
+SubtitleText[2988]="Delta 62: Ja. Sie haben mich durchsucht, aber ich hatte die Daten gut versteckt."
+
+SubtitleSound[2989]="D38R2244"
+SubtitleText[2989]="Delta 38: Wo genau?"
+
+SubtitleSound[2990]="D62R2202"
+SubtitleText[2990]="Delta 62: Das wollen Sie gar nicht wissen."
+
+SubtitleSound[2991]="D38R2245"
+SubtitleText[2991]="Delta 38: Alles klar. Deltas, Bewegung."
+
+SubtitleSound[2992]="D40R2010"
+SubtitleText[2992]="Delta 40: Alle Einheiten in Sicherheit, Sir."
+
+SubtitleSound[2993]="D38R2031"
+SubtitleText[2993]="Delta 38: Wir müssen ihren Störsender vernichten."
+
+SubtitleSound[2994]="D38R2023"
+SubtitleText[2994]="Delta 38: Weiter zur Brücke, Team."
+
+SubtitleSound[2995]="D38R2206"
+SubtitleText[2995]="Delta 38: Sie stören das Signal des Beraters von der Brücke aus."
+
+SubtitleSound[2996]="D62R2001"
+SubtitleText[2996]="Delta 62: Ihr wisst, was das bedeutet ... mehr Geschütze."
+
+SubtitleSound[2997]="D62R2005"
+SubtitleText[2997]="Delta 62: Vorsicht! Sie haben die Geschütze aktiviert!"
+
+SubtitleSound[2998]="D40R2017"
+SubtitleText[2998]="Delta 40: Verdammt, noch ein Träger für Kampfdroiden."
+
+SubtitleSound[2999]="D62R2002"
+SubtitleText[2999]="Delta 62: Zerstört den Träger, sonst wimmelt es hier gleich von Droiden!"
+
+SubtitleSound[3000]="D38R2207"
+SubtitleText[3000]="Delta 38: Das muss die Tür zur Brücke sein."
+
+SubtitleSound[3001]="D38R2208"
+SubtitleText[3001]="Delta 38: Findet den Störsender."
+
+SubtitleSound[3002]="D38R2026"
+SubtitleText[3002]="Delta 38: Wir müssen da rauf, Team. Rechnet mit allem!"
+
+SubtitleSound[3003]="D38R2027"
+SubtitleText[3003]="Delta 38: Störsender lokalisiert."
+
+SubtitleSound[3004]="D62R2003"
+SubtitleText[3004]="Delta 62: Ich hasse das. Verdammte Höhenangst!"
+
+SubtitleSound[3005]="D40R2203"
+SubtitleText[3005]="Delta 40: Halt endlich die Klappe, 6-2."
+
+SubtitleSound[3006]="D07R2201"
+SubtitleText[3006]="Delta 07: Oben, unten, wo ist der Unterschied? Solange wir leben und sie sterben."
+
+SubtitleSound[3007]="D38R2209"
+SubtitleText[3007]="Delta 38: Ruhe jetzt, Deltas."
+
+SubtitleSound[3008]="D38R2210"
+SubtitleText[3008]="Delta 38: Ich bin im Steuerbord-Fahrwerk."
+
+SubtitleSound[3009]="D38R2211"
+SubtitleText[3009]="Delta 38: Wir treffen uns bei den angegebenen Koordinaten."
+
+SubtitleSound[3010]="D40R2205"
+SubtitleText[3010]="Delta 40: Roger, Boss. Bin schon unterwegs."
+
+SubtitleSound[3011]="D38R2212"
+SubtitleText[3011]="Delta 38: So 'ne Schweinerei."
+
+SubtitleSound[3012]="D38R2213"
+SubtitleText[3012]="Delta 38: Verdammte Geschütze."
+
+SubtitleSound[3013]="D38R2214"
+SubtitleText[3013]="Delta 38: Hier wimmelt es vor Trandos!"
+
+SubtitleSound[3014]="D40R2206"
+SubtitleText[3014]="Delta 40: Wem sagen Sie das."
+
+SubtitleSound[3015]="D38R2215"
+SubtitleText[3015]="Delta 38: Die Echsen sind einfallsreich."
+
+SubtitleSound[3016]="D38R2216"
+SubtitleText[3016]="Delta 38: Dann räumen wir hier mal auf."
+
+SubtitleSound[3017]="D38R2217"
+SubtitleText[3017]="Delta 38: Verdammt. Aufpassen. Da sind noch mehr explosive Fässer."
+
+SubtitleSound[3018]="D38R2218"
+SubtitleText[3018]="Delta 38: IEGs: Improvisierte Explosionsgeräte!"
+
+SubtitleSound[3019]="D38R2219"
+SubtitleText[3019]="Delta 38: Schon wieder Sammler! Ich hasse diese verdammten Droiden!"
+
+SubtitleSound[3020]="D40R2207"
+SubtitleText[3020]="Delta 40: Delta-Boss, hier 4-0. Bin hier auf heftigen Widerstand gestoßen."
+
+SubtitleSound[3021]="D40R2208"
+SubtitleText[3021]="Delta 40: Ich werde mich ein wenig verspäten."
+
+SubtitleSound[3022]="D38R2220"
+SubtitleText[3022]="Delta 38: Keine Sorge, Fixxer. Ich warte auf Sie."
+
+SubtitleSound[3023]="D38R2221"
+SubtitleText[3023]="Delta 38: Hoffentlich hat Scorch es zum Backbord-Datenkern geschafft."
+
+SubtitleSound[3024]="D38R2222"
+SubtitleText[3024]="Delta 38: Keine Aktivität ... halten Sie die Augen offen."
+
+SubtitleSound[3025]="D38R2223"
+SubtitleText[3025]="Delta 38: Hinterhalt!"
+
+SubtitleSound[3026]="D38R2226"
+SubtitleText[3026]="Delta 38: Noch mehr Trandos! Schalten Sie sie aus!"
+
+SubtitleSound[3027]="D40R2211"
+SubtitleText[3027]="Delta 40: Mit Vergnügen!"
+
+SubtitleSound[3028]="D38R2227"
+SubtitleText[3028]="Delta 38: Schöne Aussicht ... erinnert mich an Kamino."
+
+SubtitleSound[3029]="D38R2228"
+SubtitleText[3029]="Delta 38: Trandoshanische Umgebungsmine. Unangenehm."
+
+SubtitleSound[3030]="D38R2229"
+SubtitleText[3030]="Delta 38: Verdammt!"
+
+SubtitleSound[3031]="D40R2212"
+SubtitleText[3031]="Delta 40: Wie bitte, Sir? Ich habe Sie nicht verstanden."
+
+SubtitleSound[3032]="D38R2230"
+SubtitleText[3032]="Delta 38: Äh ... war wohl nur eine Verbindungsstörung."
+
+SubtitleSound[3033]="D38R2231"
+SubtitleText[3033]="Delta 38: Wenn die das nur endlich lassen könnten."
+
+SubtitleSound[3034]="D38R2232"
+SubtitleText[3034]="Delta 38: Noch mehr Minen ... verdammt noch mal ..."
+
+SubtitleSound[3035]="D38R2233"
+SubtitleText[3035]="Delta 38: Noch eine Barrikade?"
+
+SubtitleSound[3036]="D38R2234"
+SubtitleText[3036]="Delta 38: Diese Echsen gehen mir langsam auf den Wecker."
+
+SubtitleSound[3037]="D38R2235"
+SubtitleText[3037]="Delta 38: Was zur Hölle ist das?!"
+
+SubtitleSound[3038]="CTRR2001"
+SubtitleText[3038]="Klontruppe: Achtung!"
+
+SubtitleSound[3039]="CTRR2002"
+SubtitleText[3039]="Klontruppe: Wir brauchen Verstärkung!"
+
+SubtitleSound[3040]="CTRR2003"
+SubtitleText[3040]="Klontruppe: Da! Kommandos!"
+
+SubtitleSound[3041]="CTRR2004"
+SubtitleText[3041]="Klontruppe: Wir könnten Ihre Hilfe gebrauchen, Sir!"
+
+SubtitleSound[3042]="CTRR2005"
+SubtitleText[3042]="Klontruppe: Stirb, du kaltblütiger -ARGH!"
+
+SubtitleSound[3043]="D38R2236"
+SubtitleText[3043]="Delta 38: Fixxer, ich bin gerade auf einen schwer bewaffneten Trandoshaner gestoßen."
+
+SubtitleSound[3044]="D38R2237"
+SubtitleText[3044]="Delta 38: Und es war ganz sicher kein Sklavenhändler."
+
+SubtitleSound[3045]="D40R2213"
+SubtitleText[3045]="Delta 40: Roger. War vermutlich ein Schwerer Angriffssöldner. Trandoshanische Elitekämpfer."
+
+SubtitleSound[3046]="D40R2214"
+SubtitleText[3046]="Delta 40: Ich habe gehört, dass sie mit LS-150 ACP-Repetiergewehren ausgerüstet sind."
+
+SubtitleSound[3047]="D38R2238"
+SubtitleText[3047]="Delta 38: Sie haben richtig gehört. Eklige Waffen."
+
+SubtitleSound[3048]="D38R2239"
+SubtitleText[3048]="Delta 38: Verdammt! Ich hasse diese Sammler!"
+
+SubtitleSound[3049]="D38R2240"
+SubtitleText[3049]="Delta 38: Was ist da gerade in die Luft geflogen?"
+
+SubtitleSound[3050]="D40R2215"
+SubtitleText[3050]="Delta 40: Hinter Ihnen!"
+
+SubtitleSound[3051]="D40R2216"
+SubtitleText[3051]="Delta 40: Verschwinden wir hier!"
+
+SubtitleSound[3052]="D40R2217"
+SubtitleText[3052]="Delta 40: Vergessen Sie es, Sir. Verschwinden wir!"
+
+SubtitleSound[3053]="D40R2218"
+SubtitleText[3053]="Delta 40: Vergessen Sie die Droiden. Verschwinden wir hier, Sir!"
+
+SubtitleSound[3054]="D40R2219"
+SubtitleText[3054]="Delta 40: Schwere Schäden am ganzen Schiff."
+
+SubtitleSound[3055]="D40R2220"
+SubtitleText[3055]="Delta 40: Sieht wie eine Sicherheitskonsole aus."
+
+SubtitleSound[3056]="D38R2241"
+SubtitleText[3056]="Delta 38: Das wird ihnen eine Lehre sein."
+
+SubtitleSound[3057]="D40R2221"
+SubtitleText[3057]="Delta 40: Vorsicht! Noch mehr Sklavenhändler!"
+
+SubtitleSound[3058]="D07R2203"
+SubtitleText[3058]="Delta 07: Hinterhalt! Hinterhalt! Alle Mann in Deckung!"
+
+SubtitleSound[3059]="D40R2222"
+SubtitleText[3059]="Delta 40: Laut der Baupläne führt diese Tür zum Kontrollraum des Zellentraktes."
+
+SubtitleSound[3060]="D38R2242"
+SubtitleText[3060]="Delta 38: Verdammt, noch mehr Geschütze!"
+
+SubtitleSound[3061]="D07R2204"
+SubtitleText[3061]="Delta 07: Die Feinde haben gerade die Barrikade gesprengt!"
+
+SubtitleSound[3062]="D07R2205"
+SubtitleText[3062]="Delta 07: Vorsicht, der Feind hat Verstärkung angefordert!"
+
+SubtitleSound[3063]="D38R2246"
+SubtitleText[3063]="Delta 38: Sie sind überall!"
+
+SubtitleSound[3064]="D38R2247"
+SubtitleText[3064]="Delta 38: Sieht aus wie eine Sicherheitskonsole."
+
+SubtitleSound[3065]="D38R2248"
+SubtitleText[3065]="Delta 38: Hmm ... die Echse hat uns in eine Falle gelockt."
+
+SubtitleSound[3066]="D38R2249"
+SubtitleText[3066]="Delta 38: Hinter dieser Tür wartet eine Mine."
+
+SubtitleSound[3067]="D38R2250"
+SubtitleText[3067]="Delta 38: Hmm ... eine Sicherheitskonsole."
+
+SubtitleSound[3068]="D38R2251"
+SubtitleText[3068]="Delta 38: Noch ein Träger für Kampfdroiden!"
+
+SubtitleSound[3069]="D38R2252"
+SubtitleText[3069]="Delta 38: Woher kriegen die Trandoshaner die ganzen Waffen?"
+
+SubtitleSound[3070]="D38R2253"
+SubtitleText[3070]="Delta 38: Wir sollten mit einer Begrüßungsfeier rechnen."
+
+SubtitleSound[3071]="D07R2206"
+SubtitleText[3071]="Delta 07: Jetzt erledige ich erst mal reihenweise Feinde."
+
+SubtitleSound[3072]="D62R2203"
+SubtitleText[3072]="Delta 62: Wenn ich sie nicht vor dir erledige."
+
+SubtitleSound[3073]="D40R2223"
+SubtitleText[3073]="Delta 40: Konzentrier dich bloß nicht so stark aufs Zählen, dass du vergisst, mir Deckung zu geben."
+
+SubtitleSound[3074]="D40R2224"
+SubtitleText[3074]="Delta 40: Alles gesichert!"
+
+SubtitleSound[3075]="D07R2207"
+SubtitleText[3075]="Delta 07: Sieht jemand den Störsender?"
+
+SubtitleSound[3076]="D40R2225"
+SubtitleText[3076]="Delta 40: Vielleicht da oben, bei der Plattform."
+
+SubtitleSound[3077]="D62R2204"
+SubtitleText[3077]="Delta 62: Noch mehr Droiden! Deckung!"
+
+SubtitleSound[3078]="D38R2254"
+SubtitleText[3078]="Delta 38: Ich hab da irgendwas. Sehen Sie auch was?"
+
+SubtitleSound[3079]="CA1R2004"
+SubtitleText[3079]="Klonberater 1: Roger, Leader. Der unbekannte Feind hat eine seltsame Wärmesignatur. Organisch ... aber auch Panzerungen ... ich weiß es nicht."
+
+SubtitleSound[3080]="CA1R2005"
+SubtitleText[3080]="Klonberater 1: Auf Geonosis haben wir so was Ähnliches schon mal gesehen."
+
+SubtitleSound[3081]="D38R2255"
+SubtitleText[3081]="Delta 38: Die Transaktion ist abgeschlossen. Er verschwindet, Sir."
+
+SubtitleSound[3082]="CA1R2006"
+SubtitleText[3082]="Klonberater 1: Verraten Sie sich nicht, Delta."
+
+SubtitleSound[3083]="CA1R2007"
+SubtitleText[3083]="Klonberater 1: Konzentrieren Sie sich. Er ist nicht ihr Ziel. Noch nicht. Ich rede mit der Zentrale."
+
+SubtitleSound[3084]="D38R2256"
+SubtitleText[3084]="Delta 38: Eine elegante Waffe für zivilisiertere Zeiten, was? Tja, die Zeiten haben sich geändert!"
+
+SubtitleSound[3085]="D40R1053"
+SubtitleText[3085]="Delta 40: Delta 4-0 am Treffpunkt eingetroffen."
+
+SubtitleSound[3086]="RSCR1035"
+SubtitleText[3086]="RAS-Schiffscomputer: Dies ist ein Sperrgebiet. Automatische Sicherheitssysteme sind online."
+
+SubtitleSound[3087]="D38R3001"
+SubtitleText[3087]="Delta 38: Sir, Delta 3-8 hier. Wir haben die Brücke erreicht und den Störsender ausgeschaltet. Können Sie mich hören?"
+
+SubtitleSound[3088]="CA1R3001"
+SubtitleText[3088]="Klonberater 1: Laut und deutlich, 3-8. Ich greife auf die Systeme des Schiffs zu, um seinen Status zu überprüfen."
+
+SubtitleSound[3089]="D40R1054"
+SubtitleText[3089]="Delta 40: Die Türsteuerung ist blockiert."
+
+SubtitleSound[3090]="D40R1055"
+SubtitleText[3090]="Delta 40: Ich versuche sie zu hacken."
+
+SubtitleSound[3091]="D40R1056"
+SubtitleText[3091]="Delta 40: Sir, halten Sie Ihre Position."
+
+SubtitleSound[3092]="D40R1060"
+SubtitleText[3092]="Delta 40: Steuerung gehackt. Tür öffnet sich."
+
+SubtitleSound[3093]="D40R1061"
+SubtitleText[3093]="Delta 40: Halten Sie sie noch ein paar Sekunden zurück."
+
+SubtitleSound[2942]="D40R1062"
+SubtitleText[2942]="Delta 40: Bin gleich da."
+
+SubtitleSound[2943]="D40R1063"
+SubtitleText[2943]="Delta 40: Sir, ich decke Sie!"

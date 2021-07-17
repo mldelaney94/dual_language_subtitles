@@ -1,0 +1,410 @@
+[Subtitles_GEO_05]
+
+SubtitleSound[2928]="CA1G5500"
+SubtitleText[2928]="Klonberater 1: An Bord des Kernschiffs haben Sie zwei neue Einsatzziele!"
+
+SubtitleSound[2929]="CA1G5501"
+SubtitleText[2929]="Klonberater 1: Ihr Primärziel ist der Download der Startcodes auf der Brücke des Schiffs."
+
+SubtitleSound[2930]="CA1G5502"
+SubtitleText[2930]="Klonberater 1: Mit den Codes können wir die Evakuierung der Droidenarmee stoppen."
+
+SubtitleSound[2931]="CA1G5503"
+SubtitleText[2931]="Klonberater 1: Ihr Sekundärziel ist die permanente Deaktivierung des Kernschiffs."
+
+SubtitleSound[2932]="CA1G5504"
+SubtitleText[2932]="Klonberater 1: Auf dem Weg zur Brücke wird jeder vom Delta-Team einige kritische Systeme des Schiffs sabotieren."
+
+SubtitleSound[2933]="CA1G5505"
+SubtitleText[2933]="Klonberater 1: Dieser Aufzug bringt Sie in das Kampfdroiden-Magazin."
+
+SubtitleSound[2934]="CA1G5506"
+SubtitleText[2934]="Klonberater 1: Rücken Sie zum Kontrollraum vor und deaktivieren Sie die Systeme des Magazins."
+
+SubtitleSound[2935]="CA1G5507"
+SubtitleText[2935]="Klonberater 1: Sobald Sie den Droiden-Lader deaktiviert haben, stoßen Sie zu Ihrem Team und rücken zur Brücke vor."
+
+SubtitleSound[2936]="CA1G5508"
+SubtitleText[2936]="Klonberater 1: Wir zählen auf Sie, 3-8. Viel Glück. Berater Ende."
+
+SubtitleSound[2937]="D38G5517"
+SubtitleText[2937]="Delta 38: Alleine gegen die ganzen Droiden ... Hah, die haben keine Chance."
+
+SubtitleSound[2938]="D07G5506"
+SubtitleText[2938]="Delta 07: 0-7 hier. Nähere mich meinem Ziel. Bis jetzt keine Droiden ..."
+
+SubtitleSound[2939]="D07G5507"
+SubtitleText[2939]="Delta 07: Hier 0-7. Ich bin im Kontrollraum des Repulsorlifts und hacke mich jetzt in das System."
+
+SubtitleSound[2940]="D07G5508"
+SubtitleText[2940]="Delta 07: Jetzt sind sie wach."
+
+SubtitleSound[2941]="D38G5500"
+SubtitleText[2941]="Delta 38: Team, der Feind weiß jetzt, dass wir hier sind. Haltet die Augen offen!"
+
+SubtitleSound[2942]="D38G5501"
+SubtitleText[2942]="Delta 38: Ich bin im Kontrollraum des Ladeblocks."
+
+SubtitleSound[2943]="CA1G5509"
+SubtitleText[2943]="Klonberater 1: Verstanden, 3-8. Hacken Sie sich in das System und sabotieren Sie ihre Laderoutinen."
+
+SubtitleSound[2944]="CA1G5514"
+SubtitleText[2944]="Klonberater 1: Roger, 3-8. Ich lade einen Protokoll-Wurm hoch, der ihre Laderoutinen außer Gefecht setzt."
+
+SubtitleSound[2945]="CA1G5515"
+SubtitleText[2945]="Klonberater 1: Finden Sie ein Terminal und hacken Sie sich hinein."
+
+SubtitleSound[2946]="D38G5502"
+SubtitleText[2946]="Delta 38: Roger."
+
+SubtitleSound[2947]="D38G5503"
+SubtitleText[2947]="Delta 38: Ich glaube, hier bin ich richtig!"
+
+SubtitleSound[2948]="D62G5506"
+SubtitleText[2948]="Delta 62: 6-2 hier. Ich bin jetzt am Einlassventil für das Kühlmittel."
+
+SubtitleSound[2949]="D62G5507"
+SubtitleText[2949]="Delta 62: Oh, nein. Das ist die Auslassöffnung."
+
+SubtitleSound[2950]="D40G5505"
+SubtitleText[2950]="Delta 40: 6-2. Könntest du die Klappe halten, bis du was Wichtiges zu sagen hast?"
+
+SubtitleSound[2951]="D62G5508"
+SubtitleText[2951]="Delta 62: Hier 6-2. Ich habe das Einlassventil für das Kühlmittel gefunden. Platziere jetzt die Sprengsätze."
+
+SubtitleSound[2952]="D40G5506"
+SubtitleText[2952]="Delta 40: 4-0 hier. Ich hab hier ein kleines Droidenproblem ..."
+
+SubtitleSound[2953]="D40G5507"
+SubtitleText[2953]="Delta 40: Hier 4-0. Rücke jetzt zur primären Stromleitung vor."
+
+SubtitleSound[2954]="D40G5508"
+SubtitleText[2954]="Delta 40: Hier 4-0. Hacke jetzt die primäre Energieversorgung."
+
+SubtitleSound[2955]="D38G5504"
+SubtitleText[2955]="Delta 38: Okay, Team. Sekundärziele erreicht. Wir treffen uns auf Subebene 1157."
+
+SubtitleSound[2956]="D62G5500"
+SubtitleText[2956]="Delta 62: Roger."
+
+SubtitleSound[2957]="D07G5500"
+SubtitleText[2957]="Delta 07: Ja, Sir."
+
+SubtitleSound[2958]="D40G5509"
+SubtitleText[2958]="Delta 40: Alles klar."
+
+SubtitleSound[2959]="D07G5501"
+SubtitleText[2959]="Delta 07: Droidekas!"
+
+SubtitleSound[2960]="D40G5500"
+SubtitleText[2960]="Delta 40: Zerstörer-Droiden!"
+
+SubtitleSound[2961]="D62G5501"
+SubtitleText[2961]="Delta 62: Droiden!"
+
+SubtitleSound[2962]="D07G5502"
+SubtitleText[2962]="Delta 07: Wir werden angegriffen, Sir!"
+
+SubtitleSound[2963]="D40G5501"
+SubtitleText[2963]="Delta 40: Wir werden angegriffen, Sir!"
+
+SubtitleSound[2964]="D62G5502"
+SubtitleText[2964]="Delta 62: Es gibt hier ein Droidenproblem, Boss!"
+
+SubtitleSound[2965]="D07G5509"
+SubtitleText[2965]="Delta 07: Die Droidekas meinen es ernst, Sir!"
+
+SubtitleSound[2966]="D40G5510"
+SubtitleText[2966]="Delta 40: Danke für die Hilfe, Sir!"
+
+SubtitleSound[2967]="D38G5505"
+SubtitleText[2967]="Delta 38: Sekundärziele erreicht. Warte auf weitere Befehle."
+
+SubtitleSound[2968]="CA1G5510"
+SubtitleText[2968]="Klonberater 1: Gute Arbeit, 3-8."
+
+SubtitleSound[2969]="CA1G5511"
+SubtitleText[2969]="Klonberater 1: Irgendwo auf dieser Ebene muss eine Verladestation sein. Von dort führt ein Aufzug direkt zur Brücke."
+
+SubtitleSound[2970]="D38G5506"
+SubtitleText[2970]="Delta 38: Ich schätze, wir müssen durch die Tür da."
+
+SubtitleSound[2971]="D38G5507"
+SubtitleText[2971]="Delta 38: Hier muss irgendwo eine Steuerkonsole sein."
+
+SubtitleSound[2972]="D38G5508"
+SubtitleText[2972]="Delta 38: An die Arbeit, Deltas."
+
+SubtitleSound[2973]="D07G5503"
+SubtitleText[2973]="Delta 07: Spinne! Zerquetscht sie!"
+
+SubtitleSound[2974]="D40G5502"
+SubtitleText[2974]="Delta 40: Spinnendroide! Bewegung!"
+
+SubtitleSound[2975]="D62G5503"
+SubtitleText[2975]="Delta 62: Diese Typen gehen mir langsam auf die Nerven ..."
+
+SubtitleSound[2976]="D38G5509"
+SubtitleText[2976]="Delta 38: Delta-Team befindet sich auf Subebene 0001."
+
+SubtitleSound[2977]="CA1G5512"
+SubtitleText[2977]="Klonberater 1: Gute Arbeit, 3-8. Finden Sie jetzt die Brücke und besorgen Sie die Codes."
+
+SubtitleSound[2978]="ASVG5500"
+SubtitleText[2978]="Automatische Schiffsstimme: Rumpfintegrität beeinträchtigt. Sofort evakuieren."
+
+SubtitleSound[2979]="ASVG5501"
+SubtitleText[2979]="Automatische Schiffsstimme: Störung der Stabilisatoren. Systemausfall wahrscheinlich!"
+
+SubtitleSound[2980]="ASVG5502"
+SubtitleText[2980]="Automatische Schiffsstimme: Alarm. Rumpfzustand kritisch! Ausfall der kritischen Systeme in 5 Minuten."
+
+SubtitleSound[2981]="ASVG5503"
+SubtitleText[2981]="Automatische Schiffsstimme: Sofort evakuieren."
+
+SubtitleSound[2982]="ASVG5504"
+SubtitleText[2982]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 4 Minuten."
+
+SubtitleSound[2983]="ASVG5505"
+SubtitleText[2983]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 3 Minuten."
+
+SubtitleSound[2984]="ASVG5506"
+SubtitleText[2984]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 2 Minuten."
+
+SubtitleSound[2985]="ASVG5507"
+SubtitleText[2985]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 1 Minute."
+
+SubtitleSound[2986]="ASVG5508"
+SubtitleText[2986]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 30 Sekunden."
+
+SubtitleSound[2987]="ASVG5509"
+SubtitleText[2987]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 20 Sekunden."
+
+SubtitleSound[2988]="ASVG5510"
+SubtitleText[2988]="Automatische Schiffsstimme: Ausfall der kritischen Systeme in 10"
+
+SubtitleSound[2989]="ASVG5511"
+SubtitleText[2989]="Automatische Schiffsstimme: 9"
+
+SubtitleSound[2990]="ASVG5512"
+SubtitleText[2990]="Automatische Schiffsstimme: 8"
+
+SubtitleSound[2991]="ASVG5513"
+SubtitleText[2991]="Automatische Schiffsstimme: 7"
+
+SubtitleSound[2992]="ASVG5514"
+SubtitleText[2992]="Automatische Schiffsstimme: 6"
+
+SubtitleSound[2993]="ASVG5515"
+SubtitleText[2993]="Automatische Schiffsstimme: 5"
+
+SubtitleSound[2994]="ASVG5516"
+SubtitleText[2994]="Automatische Schiffsstimme: 4"
+
+SubtitleSound[2995]="ASVG5517"
+SubtitleText[2995]="Automatische Schiffsstimme: 3"
+
+SubtitleSound[2996]="ASVG5518"
+SubtitleText[2996]="Automatische Schiffsstimme: 2"
+
+SubtitleSound[2997]="ASVG5519"
+SubtitleText[2997]="Automatische Schiffsstimme: 1"
+
+SubtitleSound[2998]="ASVG5520"
+SubtitleText[2998]="Automatische Schiffsstimme: Systemausfall."
+
+SubtitleSound[2999]="D07G5504"
+SubtitleText[2999]="Delta 07: Wir haben die Codes, Sir!"
+
+SubtitleSound[3000]="D40G5503"
+SubtitleText[3000]="Delta 40: Wir haben die Codes, Sir!"
+
+SubtitleSound[3001]="D62G5504"
+SubtitleText[3001]="Delta 62: Wir haben die Codes, Boss!"
+
+SubtitleSound[3002]="D07G5505"
+SubtitleText[3002]="Delta 07: Die Achtertüren sind offen! Raus hier!"
+
+SubtitleSound[3003]="D40G5504"
+SubtitleText[3003]="Delta 40: Die Türen auf achtern sind offen! Raus hier!"
+
+SubtitleSound[3004]="D62G5505"
+SubtitleText[3004]="Delta 62: Die Türen achtern sind offen! Können wir jetzt gehen?"
+
+SubtitleSound[3005]="GP1G5500"
+SubtitleText[3005]="Kampfschiff-Pilot 1: Delta 3-8. Auf Exfiltration vorbereiten. Wir sprengen den hinteren Andockring!"
+
+SubtitleSound[3006]="GP1G5501"
+SubtitleText[3006]="Kampfschiff-Pilot 1: Zurück!"
+
+SubtitleSound[3007]="D38G5510"
+SubtitleText[3007]="Delta 38: Schön, Sie zu sehen, 4-2!"
+
+SubtitleSound[3008]="D38G5511"
+SubtitleText[3008]="Delta 38: Wir waren große Klasse auf dem Schiff."
+
+SubtitleSound[3009]="D38G5512"
+SubtitleText[3009]="Delta 38: Wir müssen uns beeilen. Los, Deltas. Schnappen wir uns die Codes und dann nichts wie weg!"
+
+SubtitleSound[3010]="D38G5513"
+SubtitleText[3010]="Delta 38: Wenn wir ein Kontrollterminal finden, können wir die Verladestation lahm legen."
+
+SubtitleSound[3011]="D38G5514"
+SubtitleText[3011]="Delta 38: Die Droiden sind in Bereitschaft ... Ich wäre besser vorsichtig, sie nicht zu alarmieren!"
+
+SubtitleSound[3012]="D07G5510"
+SubtitleText[3012]="Delta 07: Schön, Sie zu sehen, Sir."
+
+SubtitleSound[3013]="D62G5509"
+SubtitleText[3013]="Delta 62: Wir hatten Sie schon vermisst!"
+
+SubtitleSound[3014]="D62G5510"
+SubtitleText[3014]="Delta 62: Wir sitzen in der Falle!"
+
+SubtitleSound[3015]="D40G5511"
+SubtitleText[3015]="Delta 40: Sie sind hinter uns her, Sir!"
+
+SubtitleSound[3016]="D38G5515"
+SubtitleText[3016]="Delta 38: Bewegung, Deltas. Das Schiff ist gleich Geschichte!"
+
+SubtitleSound[3017]="D38G5516"
+SubtitleText[3017]="Delta 38: Wir haben die Codes!"
+
+SubtitleSound[3018]="CA1G5513"
+SubtitleText[3018]="Klonberater 1: Gute Arbeit, Deltas. Bringen Sie sich in Sicherheit!"
+
+SubtitleSound[3019]="D38G5518"
+SubtitleText[3019]="Delta 38: Nicht schlecht, was die auf die Beine gestellt haben ..."
+
+SubtitleSound[3020]="D62G5511"
+SubtitleText[3020]="Delta 62: Die Handelsföderation ist wohl nicht sehr glücklich darüber, dass wir hier sind."
+
+SubtitleSound[3021]="D62G5512"
+SubtitleText[3021]="Delta 62: So wie die Droiden sich aufführen, könnte man meinen, wir sind hier nicht willkommen."
+
+SubtitleSound[3022]="D40G5512"
+SubtitleText[3022]="Delta 40: Ich hab hier ein kleines Problem ..."
+
+SubtitleSound[3023]="D07G5511"
+SubtitleText[3023]="Delta 07: Stirb, du kleiner Schrotthaufen!"
+
+SubtitleSound[3024]="D38G5519"
+SubtitleText[3024]="Delta 38: Vorsicht, Deltas! Wir haben das Schiff ziemlich zugerichtet. Das gefällt ihnen nicht."
+
+SubtitleSound[3025]="D38G5520"
+SubtitleText[3025]="Delta 38: Haltet sie einfach in Schach. Keine Heldentaten!"
+
+SubtitleSound[3026]="D38G5521"
+SubtitleText[3026]="Delta 38: Wenn wir wieder zusammentreffen, schlagen wir uns zur Brücke vor und verschwinden von diesem Monster."
+
+SubtitleSound[3027]="D40G5513"
+SubtitleText[3027]="Delta 40: Roger."
+
+SubtitleSound[3028]="D62G5513"
+SubtitleText[3028]="Delta 62: Alles klar, Boss."
+
+SubtitleSound[3029]="D07G5512"
+SubtitleText[3029]="Delta 07: Verstanden."
+
+SubtitleSound[3030]="D07G5513"
+SubtitleText[3030]="Delta 07: Droidekas! Ich kümmere mich darum, Sir!"
+
+SubtitleSound[3031]="D38G5522"
+SubtitleText[3031]="Delta 38: Gute Arbeit, 0-7."
+
+SubtitleSound[3032]="D07G5514"
+SubtitleText[3032]="Delta 07: Danke für die Hilfe, Sir!"
+
+SubtitleSound[3033]="D07G5515"
+SubtitleText[3033]="Delta 07: In Deckung! Sie kommen zurück!"
+
+SubtitleSound[3034]="D07G5516"
+SubtitleText[3034]="Delta 07: Das da unten sind Fixxer und 6-2!"
+
+SubtitleSound[3035]="D40G5514"
+SubtitleText[3035]="Delta 40: Schön, Sie zu sehen, Sir."
+
+SubtitleSound[3036]="D07G5517"
+SubtitleText[3036]="Delta 07: Was ist das?"
+
+SubtitleSound[3037]="D40G5515"
+SubtitleText[3037]="Delta 40: Ein Droiden-Träger, 0-7. Lies beim nächsten Mal den Einsatzbefehl."
+
+SubtitleSound[3038]="D62G5514"
+SubtitleText[3038]="Delta 62: Boss, eine kleine Sprengladung müsste das Problem lösen."
+
+SubtitleSound[3039]="D38G5523"
+SubtitleText[3039]="Delta 38: Gute Arbeit. Hoffentlich begegnen uns nicht noch mehr von den Dingern."
+
+SubtitleSound[3040]="D38G5524"
+SubtitleText[3040]="Delta 38: Also gut, die Tür ist offen. Los los los!"
+
+SubtitleSound[3041]="D40G5516"
+SubtitleText[3041]="Delta 40: Achtung! Noch ein Spinnendroide, 12 Uhr!"
+
+SubtitleSound[3042]="D38G5525"
+SubtitleText[3042]="Delta 38: Das müsste der Aufzug zur Brücke sein."
+
+SubtitleSound[3043]="D62G5515"
+SubtitleText[3043]="Delta 62: Alle Mann an Bord!"
+
+SubtitleSound[3044]="CA1G5516"
+SubtitleText[3044]="Klonberater 1: Kampfschiff Wing Delta ist auf Abruf und wartet darauf, Sie einzusammeln."
+
+SubtitleSound[3045]="D62G5516"
+SubtitleText[3045]="Delta 62: Erinnert mich nächstes Mal daran, vom Schiff zu verschwinden, bevor wir es zerstören."
+
+SubtitleSound[3046]="D38G5526"
+SubtitleText[3046]="Delta 38: Durchhalten, Deltas, wir sind gleich da."
+
+SubtitleSound[3047]="D38G5527"
+SubtitleText[3047]="Delta 38: Die Brücke müsste hinter dieser Tür sein."
+
+SubtitleSound[3048]="D40G5517"
+SubtitleText[3048]="Delta 40: Sir, uns bleibt nicht mehr viel Zeit."
+
+SubtitleSound[3049]="D38G5528"
+SubtitleText[3049]="Delta 38: Alles klar, wir haben die Codes!"
+
+SubtitleSound[3050]="GP1G5502"
+SubtitleText[3050]="Kampfschiff-Pilot 1: Delta-Team, wir nähern uns jetzt dem Kernschiff."
+
+SubtitleSound[3051]="GP1G5503"
+SubtitleText[3051]="Kampfschiff-Pilot 1: Kommen Sie zum hinteren Andockring. Wir sprengen ihn auf."
+
+SubtitleSound[3052]="GP1G5504"
+SubtitleText[3052]="Kampfschiff-Pilot 1: Zurück!"
+
+SubtitleSound[3053]="D40G5518"
+SubtitleText[3053]="Delta 40: Passt auf die Konsole auf! Anders kommen wir hier nicht raus!"
+
+SubtitleSound[3054]="D07G5518"
+SubtitleText[3054]="Delta 07: Ja, kommt schon, ihr kleinen Blechdosen! Gebt euer Schlechtestes!"
+
+SubtitleSound[3055]="D38G5529"
+SubtitleText[3055]="Delta 38: Beeilung! Das dauert mir alles zu lange."
+
+SubtitleSound[3056]="D07G5519"
+SubtitleText[3056]="Delta 07: Ich mache so schnell ich kann, Sir!"
+
+SubtitleSound[3057]="D40G5519"
+SubtitleText[3057]="Delta 40: Ich mache so schnell ich kann, Sir!"
+
+SubtitleSound[3058]="D62G5517"
+SubtitleText[3058]="Delta 62: Ich mache so schnell ich kann, Sir!"
+
+SubtitleSound[3059]="D62G5518"
+SubtitleText[3059]="Delta 62: Ich freue mich schon wieder auf die Prosecutor."
+
+SubtitleSound[3060]="D07G5520"
+SubtitleText[3060]="Delta 07: SO war das nicht gedacht ... !"
+
+SubtitleSound[3061]="D07G5521"
+SubtitleText[3061]="Delta 07: Hier ist noch eine Konsole, Boss."
+
+SubtitleSound[3062]="D38G5530"
+SubtitleText[3062]="Delta 38: Verdammt! Wir brauchen die Codes."
+
+SubtitleSound[3063]="D38G5531"
+SubtitleText[3063]="Delta 38: Beeilung, Deltas!"
+

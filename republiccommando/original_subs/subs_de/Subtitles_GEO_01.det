@@ -1,0 +1,1001 @@
+[Subtitles_GEO_01]
+
+SubtitleSound[2928]="CA1G1500"
+SubtitleText[2928]="Klonberater 1: Ich werde Sie nach Bedarf mit taktischen Informationen versorgen."
+
+SubtitleSound[2929]="CA1G1501"
+SubtitleText[2929]="Klonberater 1: Taktische Informationen erscheinen auf Ihren HUDs als holografische Projektionen."
+
+SubtitleSound[2930]="CA1G1504"
+SubtitleText[2930]="Klonberater 1: Ihre Standardtaktik in feindlichem Gebiet ist Suchen und Zerstören."
+
+SubtitleSound[2931]="CA1G1505"
+SubtitleText[2931]="Klonberater 1: 38, deaktivieren Sie die Flugabwehrstellungen, damit wir dem Kampfschiff Arbusto helfen können."
+
+SubtitleSound[2932]="CA1G1506"
+SubtitleText[2932]="Klonberater 1: Ziel an Einsatzziel-Anzeige übertragen."
+
+SubtitleSound[2933]="CA1G1507"
+SubtitleText[2933]="Klonberater 1: Diese Kanister bieten Ihren Scharfschützen Deckung."
+
+SubtitleSound[2934]="CA1G1508"
+SubtitleText[2934]="Klonberater 1: Befehlen Sie einem Ihrer Leute, ein Scharfschützenmanöver einzuleiten."
+
+SubtitleSound[2935]="D62G1500"
+SubtitleText[2935]="Delta 62: Initiiere Scharfschützenmanöver."
+
+SubtitleSound[2936]="D40G1500"
+SubtitleText[2936]="Delta 40: Initiiere Scharfschützenmanöver."
+
+SubtitleSound[2937]="D07G1500"
+SubtitleText[2937]="Delta 07: Initiiere Scharfschützenmanöver."
+
+SubtitleSound[2938]="CA1G1509"
+SubtitleText[2938]="Klonberater 1: Verwenden Sie den Rückrufbefehl, um alle Manöver abzubrechen."
+
+SubtitleSound[2939]="CA1G1510"
+SubtitleText[2939]="Klonberater 1: Hat ein Teamkollege ein Manöver eingeleitet, führt er dieses aus, bis er einen neuen Befehl erhält."
+
+SubtitleSound[2940]="D62G1501"
+SubtitleText[2940]="Delta 62: Arbeite als Scharfschütze, bis ich neue Befehle erhalte."
+
+SubtitleSound[2941]="D40G1501"
+SubtitleText[2941]="Delta 40: Arbeite als Scharfschütze, bis ich neue Befehle erhalte."
+
+SubtitleSound[2942]="D07G1501"
+SubtitleText[2942]="Delta 07: Arbeite als Scharfschütze, bis ich neue Befehle erhalte."
+
+SubtitleSound[2943]="D36G1500"
+SubtitleText[2943]="Delta 36: Delta-Team, 01/136 hier."
+
+SubtitleSound[2944]="D36G1501"
+SubtitleText[2944]="Delta 36: Ich habe beim Absturz zwei Männer und den Piloten verloren."
+
+SubtitleSound[2945]="CA1G1511"
+SubtitleText[2945]="Klonberater 1: Roger, Drei-Sechs, das Team von 38 ist unterwegs."
+
+SubtitleSound[2946]="D38G1502"
+SubtitleText[2946]="Delta 38: Hacken Sie sich in den Computer, Kommando."
+
+SubtitleSound[2947]="D62G1502"
+SubtitleText[2947]="Delta 62: Roger, 38, bin auf dem Weg zur Konsole."
+
+SubtitleSound[2948]="D40G1502"
+SubtitleText[2948]="Delta 40: Roger, 38, bin auf dem Weg zur Konsole."
+
+SubtitleSound[2949]="D07G1502"
+SubtitleText[2949]="Delta 07: Roger, 38, bin auf dem Weg zur Konsole."
+
+SubtitleSound[2950]="D62G1503"
+SubtitleText[2950]="Delta 62: Ich brauche nur ein paar Sekunden, halten Sie mir die Kerle vom Leib."
+
+SubtitleSound[2951]="D40G1503"
+SubtitleText[2951]="Delta 40: Ich brauche nur ein paar Sekunden, halten Sie mir die Kerle vom Leib."
+
+SubtitleSound[2952]="D07G1503"
+SubtitleText[2952]="Delta 07: Ich brauche nur ein paar Sekunden, halten Sie mir die Kerle vom Leib."
+
+SubtitleSound[2953]="CA1G1515"
+SubtitleText[2953]="Klonberater 1: Roger."
+
+SubtitleSound[2954]="D36G1503"
+SubtitleText[2954]="Delta 36: Halten Sie sich von der zerstörten Säule fern, 3-8. Ich sprenge eine Öffnung durch die Wand."
+
+SubtitleSound[2955]="CA1G1517"
+SubtitleText[2955]="Klonberater 1: 38, begeben Sie sich zu dem Schiff von 3-6."
+
+SubtitleSound[2956]="D36G1504"
+SubtitleText[2956]="Delta 36: Willkommen auf Geonosis, 3-8."
+
+SubtitleSound[2957]="D36G1505"
+SubtitleText[2957]="Delta 36: Hinter dieser Säule befindet sich eine Stellung von Kampfdroiden."
+
+SubtitleSound[2958]="CA1G1518"
+SubtitleText[2958]="Klonberater 1: 38, sichern Sie die Stellung Ihres Teams am Fuß der Säule."
+
+SubtitleSound[2959]="D62G1504"
+SubtitleText[2959]="Delta 62: Position gesichert."
+
+SubtitleSound[2960]="D40G1504"
+SubtitleText[2960]="Delta 40: Position gesichert."
+
+SubtitleSound[2961]="D07G1505"
+SubtitleText[2961]="Delta 07: Position gesichert."
+
+SubtitleSound[2962]="CA1G1519"
+SubtitleText[2962]="Klonberater 1: Zerstören Sie die Säule mit einem Sprengmanöver."
+
+SubtitleSound[2963]="D62G1505"
+SubtitleText[2963]="Delta 62: Platziere Sprengladung."
+
+SubtitleSound[2964]="D40G1505"
+SubtitleText[2964]="Delta 40: Platziere Sprengladung."
+
+SubtitleSound[2965]="D07G1506"
+SubtitleText[2965]="Delta 07: Platziere Sprengladung."
+
+SubtitleSound[2966]="D62G1506"
+SubtitleText[2966]="Delta 62: Ladung platziert."
+
+SubtitleSound[2967]="D40G1506"
+SubtitleText[2967]="Delta 40: Ladung platziert."
+
+SubtitleSound[2968]="D07G1507"
+SubtitleText[2968]="Delta 07: Ladung platziert."
+
+SubtitleSound[2969]="D62G1507"
+SubtitleText[2969]="Delta 62: Aktiviere Detonator."
+
+SubtitleSound[2970]="D40G1507"
+SubtitleText[2970]="Delta 40: Aktiviere Detonator."
+
+SubtitleSound[2971]="D07G1508"
+SubtitleText[2971]="Delta 07: Aktiviere Detonator."
+
+SubtitleSound[2972]="D62G1508"
+SubtitleText[2972]="Delta 62: Weg hier! Das Ding ist scharf."
+
+SubtitleSound[2973]="D40G1508"
+SubtitleText[2973]="Delta 40: Weg hier! Das Ding ist scharf."
+
+SubtitleSound[2974]="D07G1509"
+SubtitleText[2974]="Delta 07: Weg hier! Das Ding ist scharf."
+
+SubtitleSound[2975]="CA1G1563"
+SubtitleText[2975]="Klonberater 1: Geben Sie den Befehl zur Sprengung, wenn Sie bereit sind, 3-8."
+
+SubtitleSound[2976]="CA1G1521"
+SubtitleText[2976]="Klonberater 1: Der Eingang zum Turm befindet sich 80 Meter von Ihrem Standort."
+
+SubtitleSound[2977]="CA1G1522"
+SubtitleText[2977]="Klonberater 1: Einsatzziel-Anzeige wird aktualisiert."
+
+SubtitleSound[2978]="CA1G1523"
+SubtitleText[2978]="Klonberater 1: Gehen Sie wieder in Suchen und Zerstören-Formation, 3-8."
+
+SubtitleSound[2979]="D38G1504"
+SubtitleText[2979]="Delta 38: Roger, Suchen und Zerstören."
+
+SubtitleSound[2980]="D36G1508"
+SubtitleText[2980]="Delta 36: In Deckung!!"
+
+SubtitleSound[2981]="D36G1509"
+SubtitleText[2981]="Delta 36: Spinnendroide nähert sich unserem Standort."
+
+SubtitleSound[2982]="D38G1505"
+SubtitleText[2982]="Delta 38: Berater, die haben hier schwere Geschütze."
+
+SubtitleSound[2983]="CA1G1524"
+SubtitleText[2983]="Klonberater 1: Kampfschiff Harken ist unterwegs."
+
+SubtitleSound[2984]="CA1G1525"
+SubtitleText[2984]="Klonberater 1: Ziel zerstört."
+
+SubtitleSound[2985]="CA1G1526"
+SubtitleText[2985]="Klonberater 1: Da müssen Sie sich wohl bücken, Team-Leader."
+
+SubtitleSound[2986]="CA1G1527"
+SubtitleText[2986]="Klonberater 1: Ich überwache vom Kampfschiff aus Ihre Fortschritte und liefere Ihnen wichtige Informationen."
+
+SubtitleSound[2987]="CA1G1528"
+SubtitleText[2987]="Klonberater 1: Im Moment ist keine Verstärkung verfügbar. Geben Sie sich gegenseitig Deckung!"
+
+SubtitleSound[2988]="CA1G1529"
+SubtitleText[2988]="Klonberater 1: Alle Teammitglieder haben bereits einen Befehl erhalten."
+
+SubtitleSound[2989]="CA1G1530"
+SubtitleText[2989]="Klonberater 1: Dieser Bactaspender funktioniert genau wie die auf dem Landungsschiff."
+
+SubtitleSound[2990]="CA1G1531"
+SubtitleText[2990]="Klonberater 1: Dieser geonosianische Bactaspender ähnelt denen auf dem Landungsschiff."
+
+SubtitleSound[2991]="CA1G1532"
+SubtitleText[2991]="Klonberater 1: Ein Teammitglied braucht medizinische Hilfe."
+
+SubtitleSound[2992]="CA1G1533"
+SubtitleText[2992]="Klonberater 1: 38, Ihre Vitaldaten werden schwächer. Sie brauchen bald eine Dosis Bacta."
+
+SubtitleSound[2993]="CA1G1534"
+SubtitleText[2993]="Klonberater 1: Delta-Team. 38 am Boden, geben Sie ihm eine Dosis Bacta."
+
+SubtitleSound[2994]="CA1G1535"
+SubtitleText[2994]="Klonberater 1: Halten Sie durch, 38. Hilfe ist unterwegs."
+
+SubtitleSound[2995]="CA1G1536"
+SubtitleText[2995]="Klonberater 1: 38, Ihre Vitaldaten sind gefährlich schwach, Sie brauchen sofort eine Dosis Bacta."
+
+SubtitleSound[2996]="CA1G1537"
+SubtitleText[2996]="Klonberater 1: Die Tür ist verriegelt. Sie müssen den Schließmechanismus zerstören."
+
+SubtitleSound[2997]="CA1G1538"
+SubtitleText[2997]="Klonberater 1: Laut meiner Scans warten auf der anderen Seite dieser Tür mehrere Gegner!"
+
+SubtitleSound[2998]="CA1G1539"
+SubtitleText[2998]="Klonberater 1: Ich empfehle Ihnen, die Tür aufzubrechen, und den Raum schnellstmöglich zu säubern."
+
+SubtitleSound[2999]="CA1G1540"
+SubtitleText[2999]="Klonberater 1: Platzieren Sie den Sprengsatz und gehen Sie in Deckung."
+
+SubtitleSound[3000]="CA1G1541"
+SubtitleText[3000]="Klonberater 1: Ihr Primärziel ist der geonosianische Anführer Sun Fac."
+
+SubtitleSound[3001]="CA1G1542"
+SubtitleText[3001]="Klonberater 1: Die Geheimdienstinformationen besagen, dass er die Evakuierung des Kernschiffs von diesem Turm aus koordiniert."
+
+SubtitleSound[3002]="CA1G1543"
+SubtitleText[3002]="Klonberater 1: Die Geonosianer wissen noch nichts von Ihrer Anwesenheit. Versuchen Sie, das Überraschungsmoment zu bewahren."
+
+SubtitleSound[3003]="CA1G1544"
+SubtitleText[3003]="Klonberater 1: Team formieren und Führung übernehmen."
+
+SubtitleSound[3004]="CA1G1545"
+SubtitleText[3004]="Klonberater 1: Wir versuchen immer noch, Sun Facs genauen Standort zu ermitteln."
+
+SubtitleSound[3005]="CA1G1546"
+SubtitleText[3005]="Klonberater 1: Sie nähern sich einer Sicherheitstür, die zum Hangar führt."
+
+SubtitleSound[3006]="CA1G1547"
+SubtitleText[3006]="Klonberater 1: Die Aktivität im Hangar weist darauf hin, dass Ihre Anwesenheit noch nicht bemerkt wurde."
+
+SubtitleSound[3007]="CA1G1548"
+SubtitleText[3007]="Klonberater 1: Ich schlage vor, Sie hacken sich in das Türsystem und öffnen unauffällig die Tür."
+
+SubtitleSound[3008]="D38G1506"
+SubtitleText[3008]="Delta 38: Berater, wir haben ein paar geonosianische Jäger im Hangar gefunden."
+
+SubtitleSound[3009]="CA1G1549"
+SubtitleText[3009]="Klonberater 1: Zerstören Sie sie, damit sie nicht gegen uns eingesetzt werden können."
+
+SubtitleSound[3010]="D38G1507"
+SubtitleText[3010]="Delta 38: Dieser Korridor wird durch einen Schild blockiert."
+
+SubtitleSound[3011]="CA1G1550"
+SubtitleText[3011]="Klonberater 1: Es muss eine Kontrollkonsole in der Nähe geben."
+
+SubtitleSound[3012]="CA1G1551"
+SubtitleText[3012]="Klonberater 1: 38, gehen Sie zum Computer und zielen Sie auf den Bildschirm."
+
+SubtitleSound[3013]="CA1G1552"
+SubtitleText[3013]="Klonberater 1: Wenn Sie nah genug dran sind, zeigt Ihr HUD die Dauer des Hackvorgangs an."
+
+SubtitleSound[3014]="CA1G1553"
+SubtitleText[3014]="Klonberater 1: In Ihrer Nähe befinden sich mehrere Lebensformen. Passen Sie auf."
+
+SubtitleSound[3015]="D38G1508"
+SubtitleText[3015]="Delta 38: Langsam wird es dunkel."
+
+SubtitleSound[3016]="CA1G1554"
+SubtitleText[3016]="Klonberater 1: Aktivieren Sie Ihre Lampen, Deltas."
+
+SubtitleSound[3017]="CA1G1555"
+SubtitleText[3017]="Klonberater 1: Seien Sie vorsichtig, Deltas. Die Lampen machen Sie zu deutlichen Zielen."
+
+SubtitleSound[3018]="CA1G1556"
+SubtitleText[3018]="Klonberater 1: Wir konnten eine Nachricht aus Sun Facs Kontrollraum abfangen."
+
+SubtitleSound[3019]="CA1G1557"
+SubtitleText[3019]="Klonberater 1: Er befindet sich eine Ebene unter Ihrem aktuellen Standort."
+
+SubtitleSound[3020]="CA1G1558"
+SubtitleText[3020]="Klonberater 1: Die Geonosianer haben Ihre Anwesenheit bemerkt und die höchste Alarmstufe ausgerufen."
+
+SubtitleSound[3021]="CA1G1559"
+SubtitleText[3021]="Klonberater 1: Sie werden auf Widerstand stoßen."
+
+SubtitleSound[3022]="CA1G1560"
+SubtitleText[3022]="Klonberater 1: Die Öffnung am Ende dieses Gangs liegt direkt über Sun Facs Kontrollraum."
+
+SubtitleSound[3023]="CA1G1561"
+SubtitleText[3023]="Klonberater 1: Sie können sich von der Kante abseilen."
+
+SubtitleSound[3024]="D38G1509"
+SubtitleText[3024]="Delta 38: Superkampfdroiden!!!"
+
+SubtitleSound[3025]="CA1G1562"
+SubtitleText[3025]="Klonberater 1: Lassen Sie alle Teammitglieder auf ein einziges Ziel feuern, um seine Panzerung zu durchbrechen."
+
+SubtitleSound[3026]="CA1G1700"
+SubtitleText[3026]="Klonberater 1: Wir haben bereits ein Kampfschiff verloren. Wir dürfen uns keine Fehler erlauben."
+
+SubtitleSound[3027]="CA1G1701"
+SubtitleText[3027]="Klonberater 1: Wir sind über dem Zielgebiet, seilen Sie sich ab!"
+
+SubtitleSound[3028]="D38G1500"
+SubtitleText[3028]="Delta 38: 0-7, VORSICHT!!!!!"
+
+SubtitleSound[3029]="CA1G1702"
+SubtitleText[3029]="Klonberater 1: Hier wird der Status und der Standort Ihres Teams angezeigt."
+
+SubtitleSound[3030]="CA1G1703"
+SubtitleText[3030]="Klonberater 1: Hier wird der Granatentyp und das Inventar angezeigt."
+
+SubtitleSound[3031]="CA1G1704"
+SubtitleText[3031]="Klonberater 1: Textnachrichten werden in diesem Bereich angezeigt."
+
+SubtitleSound[3032]="CA1G1705"
+SubtitleText[3032]="Klonberater 1: Die Einsatzziel-Anzeige zeigt in Richtung Ihres nächsten Ziels."
+
+SubtitleSound[3033]="CA1G1707"
+SubtitleText[3033]="Klonberater 1: Droiden nähern sich Ihrem Standort."
+
+SubtitleSound[3034]="CA1G1708"
+SubtitleText[3034]="Klonberater 1: Benutzen Sie diese Kanister, um eine defensive Scharfschützenposition einzurichten."
+
+SubtitleSound[3035]="CA1G1709"
+SubtitleText[3035]="Klonberater 1: Gut, räumen Sie jetzt mit einer Sprengladung den Weg frei."
+
+SubtitleSound[3036]="CA1G1710"
+SubtitleText[3036]="Klonberater 1: 1136, wie lautet Ihr Status?"
+
+SubtitleSound[3037]="CA1G1711"
+SubtitleText[3037]="Klonberater 1: Vorsicht, Team! Krieger nähern sich Ihrer Position."
+
+SubtitleSound[3038]="CA1G1712"
+SubtitleText[3038]="Klonberater 1: Ordnen Sie ein Scharfschützenmanöver an, um das Zielgebiet abzudecken."
+
+SubtitleSound[3039]="CA1G1713"
+SubtitleText[3039]="Klonberater 1: Halten Sie durch, 36. Hilfe ist unterwegs."
+
+SubtitleSound[3040]="CA1G1714"
+SubtitleText[3040]="Klonberater 1: 38, versuchen Sie das Geschütz zu deaktivieren."
+
+SubtitleSound[3041]="D38G1510"
+SubtitleText[3041]="Delta 38: Es gibt keine sichtbare Energiequelle."
+
+SubtitleSound[3042]="D38G1511"
+SubtitleText[3042]="Delta 38: Vielleicht können wir diese Säule auf den Geschützturm stürzen lassen."
+
+SubtitleSound[3043]="CA1G1715"
+SubtitleText[3043]="Klonberater 1: Roger, 38. Ich markiere den Zielpunkt auf Ihrem HUD."
+
+SubtitleSound[3044]="CA1G1716"
+SubtitleText[3044]="Klonberater 1: Sehr beeindruckend, 38."
+
+SubtitleSound[3045]="CA1G1717"
+SubtitleText[3045]="Klonberater 1: Gehen Sie zum abgestürzten Kampfschiff."
+
+SubtitleSound[3046]="CA1G1718"
+SubtitleText[3046]="Klonberater 1: 38, sichern Sie das Gebiet vor dem abgestürzten Kampfschiff."
+
+SubtitleSound[3047]="CA1G1720"
+SubtitleText[3047]="Klonberater 1: Der Schutt versperrt uns den Weg zu 36."
+
+SubtitleSound[3048]="CA1G1721"
+SubtitleText[3048]="Klonberater 1: Nutzen Sie die neue Öffnung, um zu 36 vorzustoßen."
+
+SubtitleSound[3049]="CA1G1722"
+SubtitleText[3049]="Klonberater 1: 38, verschwinden Sie und zünden Sie den Sprengsatz!"
+
+SubtitleSound[3050]="CA1G1723"
+SubtitleText[3050]="Klonberater 1: 0-7 ist außer Gefecht. Verabreichen Sie ihm sofort eine Dosis Bacta."
+
+SubtitleSound[3051]="CA1G1724"
+SubtitleText[3051]="Klonberater 1: 40 ist außer Gefecht. Verabreichen Sie ihm sofort eine Dosis Bacta."
+
+SubtitleSound[3052]="CA1G1725"
+SubtitleText[3052]="Klonberater 1: 62 ist außer Gefecht. Verabreichen Sie ihm sofort eine Dosis Bacta."
+
+SubtitleSound[3053]="CA1G1726"
+SubtitleText[3053]="Klonberater 1: Sun Fac versucht zu fliehen. Halten Sie ihn auf!!"
+
+SubtitleSound[3054]="D38G1512"
+SubtitleText[3054]="Delta 38: Er hat es geschafft."
+
+SubtitleSound[3055]="CA1G1727"
+SubtitleText[3055]="Klonberater 1: Halten Sie sich ran, 38. Ich empfange einen Energietransfer zu Sun Facs Jäger."
+
+SubtitleSound[3056]="CA1G1728"
+SubtitleText[3056]="Klonberater 1: 38, der äußere Schild wurde aktiviert."
+
+SubtitleSound[3057]="D38G1513"
+SubtitleText[3057]="Delta 38: Da ist er, außerhalb des Schilds."
+
+SubtitleSound[3058]="CA1G1729"
+SubtitleText[3058]="Klonberater 1: Wir dürfen Sun Fac nicht entkommen lassen."
+
+SubtitleSound[3059]="CA1G1730"
+SubtitleText[3059]="Klonberater 1: Dieser Aufzug führt zu den unteren Ebenen."
+
+SubtitleSound[3060]="CA1G1731"
+SubtitleText[3060]="Klonberater 1: Wir haben keine Zeit zum Jubeln, Deltas."
+
+SubtitleSound[3061]="CA1G1732"
+SubtitleText[3061]="Klonberater 1: Wie Sie bereits wissen, ist das Team von 36 außer Gefecht."
+
+SubtitleSound[3062]="CA1G1733"
+SubtitleText[3062]="Klonberater 1: Sie sollten eine Droidenfabrik in diesem Sektor ausschalten."
+
+SubtitleSound[3063]="CA1G1734"
+SubtitleText[3063]="Klonberater 1: Ihr Team wurde jetzt mit dieser Aufgabe betraut."
+
+SubtitleSound[3064]="CA1G1735"
+SubtitleText[3064]="Klonberater 1: Begeben Sie sich zum Aufzug."
+
+SubtitleSound[3065]="CA1G1736"
+SubtitleText[3065]="Klonberater 1: 38, meine Scanner zeigen eine Explosion an."
+
+SubtitleSound[3066]="CA1G1737"
+SubtitleText[3066]="Klonberater 1: Bestätige. Ziel terminiert."
+
+SubtitleSound[3067]="D40G1509"
+SubtitleText[3067]="Delta 40: Feindkontakt!"
+
+SubtitleSound[3068]="D62G1509"
+SubtitleText[3068]="Delta 62: Boss! Er hat sich Sieben geschnappt."
+
+SubtitleSound[3069]="D38G1514"
+SubtitleText[3069]="Delta 38: Freundest du dich mit den Einheimischen an, Sieben?"
+
+SubtitleSound[3070]="D07G1510"
+SubtitleText[3070]="Delta 07: Ja. Einen habe ich, nur noch 200.000!"
+
+SubtitleSound[3071]="D62G1510"
+SubtitleText[3071]="Delta 62: Werd' nur nicht zu arrogant. Ich komm' auch noch dran."
+
+SubtitleSound[3072]="CA1G1564"
+SubtitleText[3072]="Klonberater 1: Delta, ich brauche einen Lagebericht. Wie geht es Ihrem Verwundeten?"
+
+SubtitleSound[3073]="D38G1515"
+SubtitleText[3073]="Delta 38: Er ist in Ordnung. Delta-Team ist am Boden und in Bewegung."
+
+SubtitleSound[3074]="CA1G1565"
+SubtitleText[3074]="Klonberater 1: Wir können mit dem Kampfschiff wegen der Luftabwehrstellungen nicht näher ran."
+
+SubtitleSound[3075]="CA1G1566"
+SubtitleText[3075]="Klonberater 1: ... Sie müssen also zu Fuß gehen."
+
+SubtitleSound[3076]="D38G1516"
+SubtitleText[3076]="Delta 38: Hier gibt es jede Menge Munition."
+
+SubtitleSound[3077]="T17G1001"
+SubtitleText[3077]="Truppe 17: Hey, 3-5, schau mal: Kommandos."
+
+SubtitleSound[3078]="T35G1001"
+SubtitleText[3078]="Truppe 35: Wenn die wirklich so gut sind, wie es heißt, gewinnen sie den Krieg quasi im Alleingang."
+
+SubtitleSound[3079]="D07G1511"
+SubtitleText[3079]="Delta 07: Schau dir die armen Kerle an. Die sind völlig ahnungslos."
+
+SubtitleSound[3080]="D38G1517"
+SubtitleText[3080]="Delta 38: Schluss mit dem Geplapper. Wir haben unsere Befehle, die haben ihre."
+
+SubtitleSound[3081]="TPRG1001"
+SubtitleText[3081]="Truppe: Einen Arzt! Wir brauchen einen Arzt!"
+
+SubtitleSound[3082]="TPRG1002"
+SubtitleText[3082]="Truppe: Der Feind hat unsere Linien durchbrochen."
+
+SubtitleSound[3083]="TPRG1003"
+SubtitleText[3083]="Truppe: Sie sind im Schützengraben! Rückzug zum Gammasektor! Rückzug!"
+
+SubtitleSound[3084]="TPRG1004"
+SubtitleText[3084]="Truppe: Irgendwas geht hier vor sich. Schau mal, sie haben die Kommandos angefordert."
+
+SubtitleSound[3085]="TPRG1005"
+SubtitleText[3085]="Truppe: Wir können die Hilfe gebrauchen. Wie lautet Ihr Rufname?"
+
+SubtitleSound[3086]="D38G1518"
+SubtitleText[3086]="Delta 38: Delta-Team. Aber wir sind nicht Ihre Verstärkung."
+
+SubtitleSound[3087]="D07G1512"
+SubtitleText[3087]="Delta 07: Ziele auf dem Kamm gesichtet."
+
+SubtitleSound[3088]="CA1G1567"
+SubtitleText[3088]="Klonberater 1: Greifen Sie den Feind nur an, wenn es unbedingt notwendig ist."
+
+SubtitleSound[3089]="D07G1513"
+SubtitleText[3089]="Delta 07: Wie sieht es mit Zielübungen aus?"
+
+SubtitleSound[3090]="CA1G1568"
+SubtitleText[3090]="Klonberater 1: Timing ist alles, Delta. Bleiben Sie in Bewegung."
+
+SubtitleSound[3091]="CA1G1569"
+SubtitleText[3091]="Klonberater 1: Wir haben nicht viel Zeit. Tempo, Delta."
+
+SubtitleSound[3092]="D38G1519"
+SubtitleText[3092]="Delta 38: Berater, wir haben das abgestürzte Kampfschiff erreicht."
+
+SubtitleSound[3093]="D38G1520"
+SubtitleText[3093]="Delta 38: Kommando am Boden! Er muss sofort behandelt werden."
+
+SubtitleSound[3094]="CA1G1570"
+SubtitleText[3094]="Klonberater 1: 3-8, greifen Sie den Feind an, bevor er Ihren Standort aufgespürt hat."
+
+SubtitleSound[3095]="CA1G1571"
+SubtitleText[3095]="Klonberater 1: Sie sind der Anführer. Befehlen Sie Ihrem Team, in Suchen und Zerstören-Formation fortzufahren."
+
+SubtitleSound[3096]="TPRG1006"
+SubtitleText[3096]="Truppe: Sir! Sie begeben sich in feindliches Gebiet. Da wimmelt es von Droiden und Bugs."
+
+SubtitleSound[3097]="TPRG1007"
+SubtitleText[3097]="Truppe: Wir errichten Barrikaden als provisorische Verteidigungslinien."
+
+SubtitleSound[3098]="TPRG1008"
+SubtitleText[3098]="Truppe: Feindkontakt! Wir werden angegriffen!"
+
+SubtitleSound[3099]="TPRG1009"
+SubtitleText[3099]="Truppe: Es sind zu viele!"
+
+SubtitleSound[3100]="CA1G1572"
+SubtitleText[3100]="Klonberater 1: Wir empfangen ein Droidenkontrollsignal - 20 Meter nordwestlich von Ihrem Vektor."
+
+SubtitleSound[3101]="CA1G1573"
+SubtitleText[3101]="Klonberater 1: Dieser Graben führt zum hinteren Bereich der feindlichen Linien."
+
+SubtitleSound[3102]="CA1G1574"
+SubtitleText[3102]="Klonberater 1: Anführer. Wir empfangen ein Droidenkontrollsignal. Direkt neben Ihnen."
+
+SubtitleSound[3103]="CA1G1575"
+SubtitleText[3103]="Klonberater 1: Anführer, ich habe die Position für den Sprengsatz auf Ihren Visor geladen."
+
+SubtitleSound[3104]="D38G1521"
+SubtitleText[3104]="Delta 38: Scorch, ich brauche ein großes Loch, genau hier."
+
+SubtitleSound[3105]="D62G1511"
+SubtitleText[3105]="Delta 62: Gut. Ich kann's kaum erwarten, etwas in die Luft zu jagen."
+
+SubtitleSound[3106]="D62G1512"
+SubtitleText[3106]="Delta 62: Möchten Sie einen großen oder einen kleinen Krater, Sir?"
+
+SubtitleSound[3107]="D38G1522"
+SubtitleText[3107]="Delta 38: Bringen Sie uns einfach rein, ohne das ganze Team in die Luft zu jagen."
+
+SubtitleSound[3108]="D62G1513"
+SubtitleText[3108]="Delta 62: Ein Jumbo-Feuerball. Kommt sofort."
+
+SubtitleSound[3109]="D62G1514"
+SubtitleText[3109]="Delta 62: Der Sprengsatz ist scharf! Sie sind dran, Boss."
+
+SubtitleSound[3110]="D62G1515"
+SubtitleText[3110]="Delta 62: Nur zu, Boss. Drücken Sie einfach aufs Knöpfchen."
+
+SubtitleSound[3111]="D62G1516"
+SubtitleText[3111]="Delta 62: Boss, wenn wir hier keine Wurzeln schlagen wollen, müssen Sie die Ladung zünden."
+
+SubtitleSound[3112]="D62G1517"
+SubtitleText[3112]="Delta 62: Wuu-huu! Ja, ich liebe diesen Geruch."
+
+SubtitleSound[3113]="D40G1510"
+SubtitleText[3113]="Delta 40: Ich rieche nur verbrannten Geonosianer."
+
+SubtitleSound[3114]="TPRG1010"
+SubtitleText[3114]="Truppe: Ahh! In Deckung!"
+
+SubtitleSound[3115]="CA1G1576"
+SubtitleText[3115]="Klonberater 1: Wir planen einen Doppelangriff."
+
+SubtitleSound[3116]="CA1G1577"
+SubtitleText[3116]="Klonberater 1: Das Theta-Team zerstört die Droidenfabrik. Unser Team hat den geonosianischen Anführer Sun Fac zum Ziel."
+
+SubtitleSound[3117]="CA1G1578"
+SubtitleText[3117]="Klonberater 1: Theta-Team ist schon weit in feindliches Gebiet vorgerückt. Sie versuchen gerade, eine Tür zwischen Ihnen und Ihrem Ziel zu sprengen."
+
+SubtitleSound[3118]="CA1G1579"
+SubtitleText[3118]="Klonberater 1: Geonosianische Krieger auf Abfangkurs. Befehlen Sie einem Scharfschützen, sie auszuschalten."
+
+SubtitleSound[3119]="D38G1523"
+SubtitleText[3119]="Delta 38: Scorch, wie sieht's aus?"
+
+SubtitleSound[3120]="D62G1518"
+SubtitleText[3120]="Delta 62: Ziemlich massiv. Da kommen wir nicht durch."
+
+SubtitleSound[3121]="D40G1511"
+SubtitleText[3121]="Delta 40: Sir, erbitte Genehmigung, mich in das Türterminal zu hacken."
+
+SubtitleSound[3122]="D38G1524"
+SubtitleText[3122]="Delta 38: Greifen Sie ruhig in Ihre Trickkiste. Bringen Sie uns rein."
+
+SubtitleSound[3123]="CA1G1580"
+SubtitleText[3123]="Klonberater 1: Anführer, improvisiertes Missionsziel. Luftabwehrgeschütze gefährden unsere Luftüberlegenheit."
+
+SubtitleSound[3124]="CA1G1581"
+SubtitleText[3124]="Klonberater 1: Schalten Sie sie aus. Mit allen Mitteln."
+
+SubtitleSound[3125]="D40G1512"
+SubtitleText[3125]="Delta 40: Greife auf Luftabwehrsystem zu."
+
+SubtitleSound[3126]="D40G1513"
+SubtitleText[3126]="Delta 40: Ooh, cool. Einfach nur"ausschalten" wäre ja langweilig."
+
+SubtitleSound[3127]="D40G1514"
+SubtitleText[3127]="Delta 40: Geschütztürme der Separatisten nehmen jetzt ... separatistische Schiffe ins Visier."
+
+SubtitleSound[3128]="D62G1519"
+SubtitleText[3128]="Delta 62: Fixxer, du bist krank. Das gefällt mir!"
+
+SubtitleSound[3129]="CA1G1582"
+SubtitleText[3129]="Klonberater 1: Fantastisch. Da will wohl jemand befördert werden!"
+
+SubtitleSound[3130]="CA1G1583"
+SubtitleText[3130]="Klonberater 1: Weiter so, Kommandos."
+
+SubtitleSound[3131]="D38G1525"
+SubtitleText[3131]="Delta 38: Sicherheitsschild deaktiviert. Wir sind drin."
+
+SubtitleSound[3132]="D40G1515"
+SubtitleText[3132]="Delta 40: So gefällt mir das. Wir sind Kommandos, und keine einfachen Infanteriesoldaten."
+
+SubtitleSound[3133]="D07G1514"
+SubtitleText[3133]="Delta 07: Wen interessiert's, solange es was zu kämpfen gibt?"
+
+SubtitleSound[3134]="D38G1526"
+SubtitleText[3134]="Delta 38: Habt ihr das auch gehört?"
+
+SubtitleSound[3135]="CA1G1584"
+SubtitleText[3135]="Klonberater 1: Delta! Klontruppensignaturen ... ganz in Ihrer Nähe."
+
+SubtitleSound[3136]="CA1G1585"
+SubtitleText[3136]="Klonberater 1: Suchen Sie nach Gefangenen."
+
+SubtitleSound[3137]="TPRG1011"
+SubtitleText[3137]="Truppe: Kommandos! Mann, sind wir froh, Euch zu sehen."
+
+SubtitleSound[3138]="TPRG1012"
+SubtitleText[3138]="Truppe: Ihr müsst uns hier rausholen."
+
+SubtitleSound[3139]="D62G1520"
+SubtitleText[3139]="Delta 62: Ts, muss das peinlich sein."
+
+SubtitleSound[3140]="D40G1516"
+SubtitleText[3140]="Delta 40: Lass gut sein, 6-2."
+
+SubtitleSound[3141]="CA1G1586"
+SubtitleText[3141]="Klonberater 1: Delta-Team. Schalten Sie auf Visormodus um."
+
+SubtitleSound[3142]="CA1G1587"
+SubtitleText[3142]="Klonberater 1: Delta-Team, da unten muss es dunkel sein. Schalten Sie auf Spektrumsicht um. Visoren an, Jungs."
+
+SubtitleSound[3143]="D38G1527"
+SubtitleText[3143]="Delta 38: Berater, wir haben hier was. Sieht aus wie ein Kontrollraum. Sollen wir auf Informationssuche gehen?"
+
+SubtitleSound[3144]="CA1G1588"
+SubtitleText[3144]="Klonberater 1: Negativ, Delta. Halten Sie sich an Ihr Primärziel. Finden Sie Sun Fac."
+
+SubtitleSound[3145]="D38G1528"
+SubtitleText[3145]="Delta 38: Da draußen ist ein geonosianischer Jäger. Wetten, dass Sun Fac damit fliehen will?"
+
+SubtitleSound[3146]="D38G1529"
+SubtitleText[3146]="Delta 38: Wir müssen ihn zerstören, bevor er entkommt."
+
+SubtitleSound[3147]="D38G1530"
+SubtitleText[3147]="Delta 38: Ziel gesichtet. Aber da ist ein Sicherheitsschild ..."
+
+SubtitleSound[3148]="CA1G1589"
+SubtitleText[3148]="Klonberater 1: Delta-Leader, holen Sie den Jäger mit dem Flugabwehrgeschütz vom Himmel."
+
+SubtitleSound[3149]="CA1G1590"
+SubtitleText[3149]="Klonberater 1: Terminieren Sie ihn. Mit allen Mitteln."
+
+SubtitleSound[3150]="D38G1531"
+SubtitleText[3150]="Delta 38: Fixxer, können Sie sich in die Geschütztürme hacken?"
+
+SubtitleSound[3151]="D40G1517"
+SubtitleText[3151]="Delta 40: Roger."
+
+SubtitleSound[3152]="CA1G1591"
+SubtitleText[3152]="Klonberater 1: Delta-Leader, Sun Fac darf auf keinen Fall entkommen."
+
+SubtitleSound[3153]="CA1G1592"
+SubtitleText[3153]="Klonberater 1: Sun Facs Jäger läuft schon warm ... Delta, was treiben Sie da eigentlich?"
+
+SubtitleSound[3154]="D38G1532"
+SubtitleText[3154]="Delta 38: Moment, Berater. Wir sind gleich da."
+
+SubtitleSound[3155]="D40G1518"
+SubtitleText[3155]="Delta 40: Habt ihr das gesehen? Das sah nicht aus wie ein geonosianisches Schiff."
+
+SubtitleSound[3156]="CA1G1593"
+SubtitleText[3156]="Klonberater 1: Bestätige, keine Identifikation möglich. Ich überprüfe die Datenbanken. Machen Sie weiter, Deltas."
+
+SubtitleSound[3157]="CA1G1738"
+SubtitleText[3157]="Klonberater 1: 3-8, Delta-Leader, denken Sie daran. Sie haben Befehl, sich mit Ihrem Kameraden zu treffen. Halten Sie die Augen offen."
+
+SubtitleSound[3158]="CA1G1739"
+SubtitleText[3158]="Klonberater 1: Jagen Sie das Fass in die Luft, Delta-Leader."
+
+SubtitleSound[3159]="CA1G1740"
+SubtitleText[3159]="Klonberater 1: Die Explosion räumt den Weg frei."
+
+SubtitleSound[3160]="CA1G1741"
+SubtitleText[3160]="Klonberater 1: Delta-Leader, Einheit 6-2 ist in Ihrer Nähe. Sie müssten ihn bald erreichen."
+
+SubtitleSound[3161]="D38G1533"
+SubtitleText[3161]="Delta 38: Verstanden, Berater."
+
+SubtitleSound[3162]="D62G1521"
+SubtitleText[3162]="Delta 62: Wuu-huu! Fresst Plasma, ihr dreckigen Droiden! Ja! Nehmt das!"
+
+SubtitleSound[3163]="D62G1522"
+SubtitleText[3163]="Delta 62: Oh, hi, Boss. Hab Sie gar nicht gesehen."
+
+SubtitleSound[3164]="D38G1534"
+SubtitleText[3164]="Delta 38: Schön, Sie zu sehen, Scorch. Lagebericht bitte."
+
+SubtitleSound[3165]="D62G1523"
+SubtitleText[3165]="Delta 62: Delta 4-0 hat sich in das Separatisten-Netzwerk gehackt. Er hat Informationen über Sun Fac gefunden. Gehen wir ihn suchen."
+
+SubtitleSound[3166]="D62G1524"
+SubtitleText[3166]="Delta 62: Ich klinke mich in Ihr HUD ein, Boss."
+
+SubtitleSound[3167]="CA1G1742"
+SubtitleText[3167]="Klonberater 1: Delta-Leader, Sie sollten 6-2 befehlen, dieses Hindernis zu zerstören. Er hat die nötige Ausrüstung."
+
+SubtitleSound[3168]="D38G1535"
+SubtitleText[3168]="Delta 38: Scorch, zerstören Sie den Bunker für mich."
+
+SubtitleSound[3169]="D62G1525"
+SubtitleText[3169]="Delta 62: Verstanden. Das ist Musik in meinen Ohren, Boss."
+
+SubtitleSound[3170]="D62G1526"
+SubtitleText[3170]="Delta 62: Was zur ... Mann, das Kampfschiff hat mir meinen Abschuss geklaut."
+
+SubtitleSound[3171]="D62G1527"
+SubtitleText[3171]="Delta 62: Ich mache die ganze Arbeit und dann kommt so ein Raketenclown an und heimst den Ruhm ein."
+
+SubtitleSound[3172]="D38G1536"
+SubtitleText[3172]="Delta 38: Vielleicht überlasse ich diesen Job lieber 6-2."
+
+SubtitleSound[3173]="CA1G1743"
+SubtitleText[3173]="Klonberater 1: Delta-Leader! Einheit 4-0 ist jetzt in Ihrer Nähe."
+
+SubtitleSound[3174]="D40G1519"
+SubtitleText[3174]="Delta 40: 3-8! 6-2!"
+
+SubtitleSound[3175]="D38G1537"
+SubtitleText[3175]="Delta 38: Bereit für ein bisschen Action, Fixxer?"
+
+SubtitleSound[3176]="D40G1520"
+SubtitleText[3176]="Delta 40: Ja, Sir! Ich habe mich in das Netzwerk gehackt und 0-7 gesagt, in welche Richtung er gehen soll. Er ist unterwegs zu Sun Fac. Wir sollten uns beeilen."
+
+SubtitleSound[3177]="D62G1528"
+SubtitleText[3177]="Delta 62: Ja, wenn wir uns nicht beeilen, bleiben vielleicht keine Feinde für uns übrig!"
+
+SubtitleSound[3178]="D40G1521"
+SubtitleText[3178]="Delta 40: Ich klinke mich in Ihr HUD ein, Sir."
+
+SubtitleSound[3179]="CA1G1744"
+SubtitleText[3179]="Klonberater 1: Delta-Leader: 4-0 soll den Sicherheitsschild hacken. Wenn das einer kann, dann er."
+
+SubtitleSound[3180]="D38G1538"
+SubtitleText[3180]="Delta 38: Fixxer, hacken Sie dieses Terminal."
+
+SubtitleSound[3181]="D40G1522"
+SubtitleText[3181]="Delta 40: Ja, Sir. Dauert nur eine Minute."
+
+SubtitleSound[3182]="D40G1523"
+SubtitleText[3182]="Delta 40: Geschafft! Wir sind drin!"
+
+SubtitleSound[3183]="D38G1539"
+SubtitleText[3183]="Delta 38: Ich verstehe nur Bahnhof. Vielleicht sollte 4-0 fürs Erste das Hacken übernehmen."
+
+SubtitleSound[3184]="D38G1542"
+SubtitleText[3184]="Delta 38: Nee. Sieben LEBT dafür, als Scharfschütze zu arbeiten. Das kann ich ihm nicht nehmen."
+
+SubtitleSound[3185]="CA1G1745"
+SubtitleText[3185]="Klonberater 1: Delta-Leader. Einheit 0-7 ist jetzt in Ihrer Nähe und bleibt weiter in Deckung. Seien Sie vorsichtig."
+
+SubtitleSound[3186]="D62G1529"
+SubtitleText[3186]="Delta 62: Guter alter Sieben ... seht ihr? Brutalität hat DOCH eine schöne Seite!"
+
+SubtitleSound[3187]="D07G1515"
+SubtitleText[3187]="Delta 07: Wovon redet der Typ eigentlich?"
+
+SubtitleSound[3188]="D38G1540"
+SubtitleText[3188]="Delta 38: Wo ist Sun Fac?"
+
+SubtitleSound[3189]="D07G1516"
+SubtitleText[3189]="Delta 07: Im nächsten Raum, Boss. Keine Sorge, ich habe den Jungs noch ein paar Ziele übrig gelassen."
+
+SubtitleSound[3190]="D07G1517"
+SubtitleText[3190]="Delta 07: 0-7, verbinde mich mit Ihrem HUD, Sir."
+
+SubtitleSound[3191]="CA1G1746"
+SubtitleText[3191]="Klonberater 1: Delta-Leader, weisen Sie 0-7 eine Scharfschützenposition zu. Er soll Sun Fac ins Visier nehmen."
+
+SubtitleSound[3192]="D38G1541"
+SubtitleText[3192]="Delta 38: Sieben, wollen Sie ein paar Feinde ins Visier nehmen?"
+
+SubtitleSound[3193]="D07G1518"
+SubtitleText[3193]="Delta 07: Allzeit bereit, Sir. Allzeit bereit ..."
+
+SubtitleSound[3194]="D07G1519"
+SubtitleText[3194]="Delta 07: Position eingenommen. Gehen Sie ruhig weiter, wenn Sie möchten."
+
+SubtitleSound[3195]="D62G1530"
+SubtitleText[3195]="Delta 62: Kommt ihm nur nicht ins Fadenkreuz ..."
+
+SubtitleSound[3196]="D40G1524"
+SubtitleText[3196]="Delta 40: Ruhe, 6-2. Deltas bereit!"
+
+SubtitleSound[3197]="CA1G1747"
+SubtitleText[3197]="Klonberater 1: In Ihrer Nähe ist eine Krankenstation."
+
+SubtitleSound[3198]="CA1G1748"
+SubtitleText[3198]="Klonberater 1: Besorgen Sie sich über das Interface ein bisschen Bacta."
+
+SubtitleSound[3199]="CA1G1749"
+SubtitleText[3199]="Klonberater 1: Heilen Sie sich mit dem Bacta, bevor Sie weitergehen."
+
+SubtitleSound[3200]="CA1G1750"
+SubtitleText[3200]="Klonberater 1: Standort des Bactaspenders auf die Einsatzziel-Anzeige geladen."
+
+SubtitleSound[3201]="CA1G1751"
+SubtitleText[3201]="Klonberater 1: Sie nähern sich einer Geschützstellung, die Ihnen Ärger machen könnte."
+
+SubtitleSound[3202]="CA1G1752"
+SubtitleText[3202]="Klonberater 1: Geschützstellung anvisiert."
+
+SubtitleSound[3203]="CA1G1753"
+SubtitleText[3203]="Klonberater 1: Schalten Sie sie mit ein paar Thermalgranaten aus."
+
+SubtitleSound[3204]="CA1G1754"
+SubtitleText[3204]="Klonberater 1: Delta-Leader. Sie müssen sie wohl mit Granaten vernichten."
+
+SubtitleSound[3205]="CA1G1755"
+SubtitleText[3205]="Klonberater 1: Sie müssen diese Geschützstellung zerstören."
+
+SubtitleSound[3206]="CA1G1756"
+SubtitleText[3206]="Klonberater 1: Die Einsatzziel-Anzeige zeigt Ihr Ziel an."
+
+SubtitleSound[3207]="CA1G1757"
+SubtitleText[3207]="Klonberater 1: Sie können diese Geschützstellung nur mit Granaten ausschalten."
+
+SubtitleSound[3208]="CA1G1758"
+SubtitleText[3208]="Klonberater 1: Ihr Granatenvorrat wird auf Ihrem Visor angezeigt."
+
+SubtitleSound[3209]="CA1G1759"
+SubtitleText[3209]="Klonberater 1: Granaten zum Inventar hinzugefügt."
+
+SubtitleSound[3210]="CA1G1760"
+SubtitleText[3210]="Klonberater 1: Nehmen Sie die Thermalgranaten von der Munitionspalette und zerstören Sie die Geschützstellung."
+
+SubtitleSound[3211]="CA1G1761"
+SubtitleText[3211]="Klonberater 1: Ausgezeichnet. Werfen Sie die Granaten jetzt auf die Geschützstellung."
+
+SubtitleSound[3212]="CA1G1762"
+SubtitleText[3212]="Klonberater 1: Sie sind direkt hinter den Sonargeschützen."
+
+SubtitleSound[3213]="CA1G1763"
+SubtitleText[3213]="Klonberater 1: Unsere Soldaten haben keine Chance gegen die Sonargeschütze."
+
+SubtitleSound[3214]="CA1G1764"
+SubtitleText[3214]="Klonberater 1: Laut unserer Scans sind hinter dieser Tür republikanische Soldaten."
+
+SubtitleSound[3215]="CA1G1765"
+SubtitleText[3215]="Klonberater 1: Delta 4-0 ist auf der anderen Seite der Tür."
+
+SubtitleSound[3216]="CA1G1766"
+SubtitleText[3216]="Klonberater 1: Sprengen Sie die Tür. Ich sage ihm, er soll sich in Sicherheit bringen."
+
+SubtitleSound[3217]="CA1G1767"
+SubtitleText[3217]="Klonberater 1: Befreien Sie alle Soldaten, bevor Sie das Gebiet verlassen."
+
+SubtitleSound[3218]="CA1G1768"
+SubtitleText[3218]="Klonberater 1: Sun Fac versucht zu fliehen!"
+
+SubtitleSound[3219]="CA1G1769"
+SubtitleText[3219]="Klonberater 1: Delta-Leader, Sie haben die Verantwortung für Ihr Team. Ihre Missionsziele erreichen Sie nur, wenn Sie die richtigen Befehle erteilen."
+
+SubtitleSound[3220]="CA1G1770"
+SubtitleText[3220]="Klonberater 1: Mit"Neu formieren" bewegt sich das Team vorsichtig als Gruppe fort. Das ist im Feindgebiet sehr nützlich."
+
+SubtitleSound[3221]="CA1G1771"
+SubtitleText[3221]="Klonberater 1: Mit"Suchen und Zerstören" befehlen Sie Ihrem Team, auf jeden sichtbaren Feind zu feuern."
+
+SubtitleSound[3222]="CA1G1772"
+SubtitleText[3222]="Klonberater 1: Wenn Ihr Team anhalten und eine bestimmte Stellung verteidigen soll, erteilen Sie den Befehl"Stellung sichern"."
+
+SubtitleSound[3223]="CA1G1773"
+SubtitleText[3223]="Klonberater 1: Und wenn Sie alle Befehle widerrufen und Ihr Team sich sammeln möchte, geben Sie den Befehl"Rückruf"."
+
+SubtitleSound[3224]="CA1G1774"
+SubtitleText[3224]="Klonberater 1: Denken Sie daran: Das sind clevere Kerle, aber SIE sind der Anführer. Nur durch IHRE Befehle können sie volle Leistung bringen."
+
+SubtitleSound[3225]="CA1G1775"
+SubtitleText[3225]="Klonberater 1: Delta-Leader am Boden!"
+
+SubtitleSound[3226]="CA1G1776"
+SubtitleText[3226]="Klonberater 1: Delta-Leader schwer verletzt! Leader schwer verletzt!"
+
+SubtitleSound[3227]="CA1G1777"
+SubtitleText[3227]="Klonberater 1: Delta am Boden!"
+
+SubtitleSound[3228]="CA1G1778"
+SubtitleText[3228]="Klonberater 1: Halten Sie durch, 3-8. Ihr Team gibt Ihnen Bacta."
+
+SubtitleSound[3229]="CA1G1779"
+SubtitleText[3229]="Klonberater 1: Durchhalten, Leader. Ihr Team ist mit der Medizin schon unterwegs."
+
+SubtitleSound[3230]="CA1G1780"
+SubtitleText[3230]="Klonberater 1: Halten Sie durch, Soldat! Bald sind Sie wieder auf den Beinen."
+
+SubtitleSound[3231]="CA1G1781"
+SubtitleText[3231]="Klonberater 1: Ein paar Worte zu Ihrem Visor. Ihre Helme wurden erheblich verbessert, also sperren Sie die Ohren auf."
+
+SubtitleSound[3232]="CA1G1782"
+SubtitleText[3232]="Klonberater 1: Der taktische Visor verwendet einen Scanner, um Ziele, Munition und Einheiten anzuzeigen."
+
+SubtitleSound[3233]="CA1G1783"
+SubtitleText[3233]="Klonberater 1: Dank der Restlichtfunktion können Sie auch in dunklen Umgebungen etwas sehen."
+
+SubtitleSound[3234]="CA1G1784"
+SubtitleText[3234]="Klonberater 1: Schalten Sie den Visor ab, Delta. Hier drin ist es sehr hell."
+
+SubtitleSound[3235]="CA1G1785"
+SubtitleText[3235]="Klonberater 1: Der Schild wurde bereits gehackt. Delta 4-0 war schon hier."
+
+SubtitleSound[3236]="CA1G1786"
+SubtitleText[3236]="Klonberater 1: Delta-Leader! Geht es Ihnen gut?"
+
+SubtitleSound[3237]="CA1G1787"
+SubtitleText[3237]="Klonberater 1: Sie wurden getroffen. Ihre Vitaldaten sehen nicht gut aus."
+
+SubtitleSound[3238]="CA1G1788"
+SubtitleText[3238]="Klonberater 1: Kümmern Sie sich sofort um diese Verletzungen!"
+
+SubtitleSound[3239]="CA1G1789"
+SubtitleText[3239]="Klonberater 1: Gehen Sie zur nächsten Bactastation und heilen Sie sich. Suchen Sie ein großes Gerät mit einem Kreuz darauf."
+
+SubtitleSound[3240]="CA1G1790"
+SubtitleText[3240]="Klonberater 1: Sie machen erst weiter, wenn Ihre Gesundheit und Ihre Rüstung wieder bei 100% stehen. Verstanden, Soldat?"
+
+SubtitleSound[3241]="CA1G1791"
+SubtitleText[3241]="Klonberater 1: Leader, Ihre Vitaldaten stehen bei 100%. Sie können weitermachen."
+
+SubtitleSound[3242]="CA1G1792"
+SubtitleText[3242]="Klonberater 1: Sie sind hinter den feindlichen Linien, Delta-Leader. Sie sind auf sich allein gestellt."
+
+SubtitleSound[3243]="CA1G1793"
+SubtitleText[3243]="Klonberater 1: Delta-Leader, die Fässer in Ihrer Nähe sind explosiv."
+
+SubtitleSound[3244]="CA1G1794"
+SubtitleText[3244]="Klonberater 1: Delta-Leader, zielen Sie auf die Fässer dort. Der Scan deutet darauf hin, dass sie hochexplosiv sind."
+
+SubtitleSound[3245]="CA1G1795"
+SubtitleText[3245]="Klonberater 1: Denken Sie daran, Delta-Leader. Ihr Primärziel ist Sun Fac, aber Ihr NÄCHSTES Ziel ist es, Delta 4-0 zu finden!"
+
+SubtitleSound[3246]="CA1G1796"
+SubtitleText[3246]="Klonberater 1: Vergessen Sie's, Leader! Auf diese Entfernung richten Sie mit Ihrem Gewehr nichts aus."
+
+SubtitleSound[3247]="CA1G1797"
+SubtitleText[3247]="Klonberater 1: Setzen Sie Ihren Scharfschützen ein! Lassen Sie 0-7 seinen Job machen!"
+
+SubtitleSound[3248]="CA1G1798"
+SubtitleText[3248]="Klonberater 1: Danke, Delta. Unsere Soldaten saßen seit mehr als einer Stunde fest!"
+
+SubtitleSound[3249]="CMDG1001"
+SubtitleText[3249]="Klon-Sanitäter: Moment, Kommando. Sie gehen nirgends hin, bevor Sie nicht Ihr Bacta bekommen haben."
+
+SubtitleSound[3250]="CMDG1002"
+SubtitleText[3250]="Klon-Sanitäter: Ihr Rang ist mir ganz egal. Sie kommen erst an dieser Barrikade vorbei, wenn Sie sich erholt haben."
+
+SubtitleSound[3251]="CMDG1003"
+SubtitleText[3251]="Klon-Sanitäter: Ja, in Ordnung. Im Moment sehen Sie gesund aus."
+
+SubtitleSound[3252]="CMDG1004"
+SubtitleText[3252]="Klon-Sanitäter: Okay, Soldat. Laut Scan sind Ihre Vitaldaten und Ihre Schilde okay."
+
+SubtitleSound[3253]="CMDG1005"
+SubtitleText[3253]="Klon-Sanitäter: Sie können durch. Aber kommen Sie nicht zu mir, wenn man Ihnen die Beine wegpustet. Das hier ist Feindgebiet."
+
+SubtitleSound[3254]="D40G1525"
+SubtitleText[3254]="Delta 40: Roger. Ziel terminiert."
+
+SubtitleSound[3255]="D40G1526"
+SubtitleText[3255]="Delta 40: Frachtaufzug. Ich kann mich in das Terminal hacken, den Aufzug raufschicken und die Spalte überbrücken."
+
+SubtitleSound[3256]="D40G1527"
+SubtitleText[3256]="Delta 40: 0-7, hör auf, mit ihm zu spielen!"
+
+SubtitleSound[3257]="D40G1528"
+SubtitleText[3257]="Delta 40: Lass die Scherze und mach ihn alle!"
+
+SubtitleSound[3258]="D40G1529"
+SubtitleText[3258]="Delta 40: Sieben! Das reicht!"
+
+SubtitleSound[3259]="D40G1530"
+SubtitleText[3259]="Delta 40: Er hebt ab! Jetzt hast du ... oh."
+
+SubtitleSound[3260]="D40G1531"
+SubtitleText[3260]="Delta 40: Äh ... gute Arbeit, Sieben."
+

@@ -1,0 +1,587 @@
+[Subtitles_RAS_04]
+
+SubtitleSound[2928]="CA1R4500"
+SubtitleText[2928]="Klonberater 1: Ich habe eine Idee."
+
+SubtitleSound[2929]="D07R4500"
+SubtitleText[2929]="Delta 07: Wenigstens sind diese Echsen weg."
+
+SubtitleSound[2930]="CA1R4501"
+SubtitleText[2930]="Klonberater 1: Delta, die Separatisten können jeden Moment hier sein ..."
+
+SubtitleSound[2931]="D62R4500"
+SubtitleText[2931]="Delta 62: Was Sie nicht sagen."
+
+SubtitleSound[2932]="CA1R4502"
+SubtitleText[2932]="Klonberater 1: Ich sende ein Notsignal. Wir können nicht auf Hilfe von Coruscant warten."
+
+SubtitleSound[2933]="CA1R4503"
+SubtitleText[2933]="Klonberater 1: Verbarrikadieren Sie sich im nächsten Hangar! Vorwärts!"
+
+SubtitleSound[2934]="D40R4500"
+SubtitleText[2934]="Delta 40: Sir, hier. Nehmen wir die Abkürzung durch die Wartungstunnel!"
+
+SubtitleSound[2935]="CA1R4504"
+SubtitleText[2935]="Klonberater 1: An alle Schiffe der Republik in der Nähe des Corbantis-Systems. Dies ist ein Notfall."
+
+SubtitleSound[2936]="CA1R4505"
+SubtitleText[2936]="Klonberater 1: An alle republikanischen Schiffe in der Nähe des Corbantis-Systems. Bitte melden!"
+
+SubtitleSound[2937]="D38R4500"
+SubtitleText[2937]="Delta 38: Ich glaube, wir sind auf uns allein gestellt ..."
+
+SubtitleSound[2938]="CPTR4500"
+SubtitleText[2938]="Captain Talbot: Hier ist Captain Talbot von der RAS Arrestor. Mit wem spreche ich?"
+
+SubtitleSound[2939]="CA1R4506"
+SubtitleText[2939]="Klonberater 1: Ich bin Berater 01/425 des Delta-Geschwaders. Separatisten wollen unser Schiff kapern!"
+
+SubtitleSound[2940]="CPTR4501"
+SubtitleText[2940]="Captain Talbot: Verstanden. Hilfe ist unterwegs."
+
+SubtitleSound[2941]="CA1R4507"
+SubtitleText[2941]="Klonberater 1: Ich schicke unsere Koordinaten."
+
+SubtitleSound[2942]="CA1R4508"
+SubtitleText[2942]="Klonberater 1: 3-8, die Droiden-Träger können jeden Moment landen!"
+
+SubtitleSound[2943]="D62R4501"
+SubtitleText[2943]="Delta 62: Na, dann werden wir sie mal begrüßen."
+
+SubtitleSound[2944]="D38R4501"
+SubtitleText[2944]="Delta 38: Vielleicht schaffen wir es bis zu diesem Geschütz ..."
+
+SubtitleSound[2945]="D40R4501"
+SubtitleText[2945]="Delta 40: Träger gelandet! Droiden marschieren auf!"
+
+SubtitleSound[2946]="D07R4501"
+SubtitleText[2946]="Delta 07: Verdammt! Da ist noch einer! Er sichert nach hinten ab!"
+
+SubtitleSound[2947]="CA1R4509"
+SubtitleText[2947]="Klonberater 1: 3-8, ich habe im Kraftfeld des Hangars eine Schwachstelle entdeckt."
+
+SubtitleSound[2948]="CA1R4510"
+SubtitleText[2948]="Klonberater 1: Der Regler auf der linken Seite des Hangars kontrolliert den Energiefluss."
+
+SubtitleSound[2949]="CA1R4511"
+SubtitleText[2949]="Klonberater 1: Wenn Sie ihn sprengen, können Sie den Hangar hermetisch abriegeln."
+
+SubtitleSound[2950]="CA1R4512"
+SubtitleText[2950]="Klonberater 1: Exzellente Arbeit, Team."
+
+SubtitleSound[2951]="CA1R4513"
+SubtitleText[2951]="Klonberater 1: Kümmern Sie sich jetzt um die übrigen Träger und rücken Sie zum nächsten Hangar vor!"
+
+SubtitleSound[2952]="CA1R4514"
+SubtitleText[2952]="Klonberater 1: Sie nähern sich jetzt dem nächsten Hangar."
+
+SubtitleSound[2953]="CA1R4515"
+SubtitleText[2953]="Klonberater 1: Ich habe einen Droiden-Träger auf den Sensoren. Er ist bereits leer."
+
+SubtitleSound[2954]="D62R4502"
+SubtitleText[2954]="Delta 62: Ein Nachzügler. Er will Hilfe holen."
+
+SubtitleSound[2955]="D07R4502"
+SubtitleText[2955]="Delta 07: Nimm das ..."
+
+SubtitleSound[2956]="D40R4502"
+SubtitleText[2956]="Delta 40: Verdammt, da ist noch einer unterwegs."
+
+SubtitleSound[2957]="D38R4502"
+SubtitleText[2957]="Delta 38: Wir müssen zu diesem Kraftfeld-Regler."
+
+SubtitleSound[2958]="CA1R4516"
+SubtitleText[2958]="Klonberater 1: Je schneller Sie ihn deaktivieren, desto weniger Droiden müssen Sie neutralisieren!"
+
+SubtitleSound[2959]="CA1R4517"
+SubtitleText[2959]="Klonberater 1: Der Regler ist auf der anderen Seite des Hangars."
+
+SubtitleSound[2960]="CA1R4518"
+SubtitleText[2960]="Klonberater 1: Alles wie gehabt! Schalten Sie ihn aus!"
+
+SubtitleSound[2961]="CA1R4519"
+SubtitleText[2961]="Klonberater 1: Alarm! Neuer Träger nähert sich!"
+
+SubtitleSound[2962]="D07R4503"
+SubtitleText[2962]="Delta 07: Ob der Speeder noch funktioniert?"
+
+SubtitleSound[2963]="D62R4503"
+SubtitleText[2963]="Delta 62: Keine Ahnung ... aber das Modell ist lebensgefährlich!"
+
+SubtitleSound[2964]="D38R4503"
+SubtitleText[2964]="Delta 38: Versuchen Sie Ihr Glück."
+
+SubtitleSound[2965]="D07R4508"
+SubtitleText[2965]="Delta 07: Nur ein Haufen Schrott ..."
+
+SubtitleSound[2966]="D40R4508"
+SubtitleText[2966]="Delta 40: Nichts passiert ..."
+
+SubtitleSound[2967]="D62R4510"
+SubtitleText[2967]="Delta 62: Ich hab doch gesagt, dass das Ding nichts taugt."
+
+SubtitleSound[2968]="D07R4509"
+SubtitleText[2968]="Delta 07: Droideka-Träger! Er will in die obere Ebene!"
+
+SubtitleSound[2969]="D40R4509"
+SubtitleText[2969]="Delta 40: Droideka-Träger! Er will in die obere Ebene!"
+
+SubtitleSound[2970]="D62R4511"
+SubtitleText[2970]="Delta 62: Droideka-Träger! Er will in die obere Ebene!"
+
+SubtitleSound[2971]="D38R4504"
+SubtitleText[2971]="Delta 38: Ihr wisst, was das heißt! Wir müssen weiter zum letzten Hangar!"
+
+SubtitleSound[2972]="CA1R4520"
+SubtitleText[2972]="Klonberater 1: Achtung, Deltas. Alle Droiden im letzten Hangar sind einsatzbereit ..."
+
+SubtitleSound[2973]="CA1R4521"
+SubtitleText[2973]="Klonberater 1: ... und verteilen sich über das ganze Schiff!"
+
+SubtitleSound[2974]="CA1R4522"
+SubtitleText[2974]="Klonberater 1: Ich scanne die Systemdateien nach intakten Geschützen!"
+
+SubtitleSound[2975]="CA1R4558"
+SubtitleText[2975]="Klonberater 1: Lassen Sie sich nicht in die Enge treiben."
+
+SubtitleSound[2976]="D40R4503"
+SubtitleText[2976]="Delta 40: Droidekas. Sie haben uns nicht gesehen."
+
+SubtitleSound[2977]="D38R4505"
+SubtitleText[2977]="Delta 38: Die kommen zurück. Bereiten wir uns vor."
+
+SubtitleSound[2978]="D07R4504"
+SubtitleText[2978]="Delta 07: Wir sind dicht dran. Ich spüre es."
+
+SubtitleSound[2979]="D40R4504"
+SubtitleText[2979]="Delta 40: Wir haben hier keine Deckung!"
+
+SubtitleSound[2980]="D38R4506"
+SubtitleText[2980]="Delta 38: Weg von dem Droideka. Zur Rückseite des Hangars!"
+
+SubtitleSound[2981]="CA1R4523"
+SubtitleText[2981]="Klonberater 1: Deltas, ich habe etwas gefunden, aber ich kann den Aufzug nicht umprogrammieren!"
+
+SubtitleSound[2982]="CA1R4524"
+SubtitleText[2982]="Klonberater 1: Versuchen Sie sich in das Terminal zu hacken."
+
+SubtitleSound[2983]="CA1R4525"
+SubtitleText[2983]="Klonberater 1: Die Artillerie ist unterwegs. Springen Sie an Bord und bringen Sie die Sache zu Ende, 3-8."
+
+SubtitleSound[2984]="D62R4504"
+SubtitleText[2984]="Delta 62: Artillerie ... das ist ein Kampfläufer!"
+
+SubtitleSound[2985]="D38R4507"
+SubtitleText[2985]="Delta 38: Das wars! Angriffsschiff gesichert!"
+
+SubtitleSound[2986]="CA1R4526"
+SubtitleText[2986]="Klonberater 1: Sie rufen die Träger zurück."
+
+SubtitleSound[2987]="D62R4505"
+SubtitleText[2987]="Delta 62: Droiden, die sich zurückziehen? Ungewöhnlich."
+
+SubtitleSound[2988]="D07R4510"
+SubtitleText[2988]="Delta 07: Was zum ... ?"
+
+SubtitleSound[2989]="D40R4510"
+SubtitleText[2989]="Delta 40: Was zum ... ?"
+
+SubtitleSound[2990]="D62R4512"
+SubtitleText[2990]="Delta 62: Was jetzt?"
+
+SubtitleSound[2991]="D40R4505"
+SubtitleText[2991]="Delta 40: Sie entwischen uns!"
+
+SubtitleSound[2992]="D38R4508"
+SubtitleText[2992]="Delta 38: Wo bleibt der Kreuzer?"
+
+SubtitleSound[2993]="CA1R4527"
+SubtitleText[2993]="Klonberater 1: Wir können nicht auf Talbot warten. Wir müssen kämpfen!"
+
+SubtitleSound[2994]="CA1R4528"
+SubtitleText[2994]="Klonberater 1: Team, rücken Sie zur Rückseite des Hangars vor und steigen Sie in den Aufzug."
+
+SubtitleSound[2995]="CA1R4529"
+SubtitleText[2995]="Klonberater 1: Moment, ich schicke den Aufzug runter."
+
+SubtitleSound[2996]="CA1R4530"
+SubtitleText[2996]="Klonberater 1: Folgen Sie dem Wartungstunnel. Er führt zu Ihrem nächsten Ziel."
+
+SubtitleSound[2997]="D62R4506"
+SubtitleText[2997]="Delta 62: Sagen Sie uns bei Gelegenheit, worum's geht?"
+
+SubtitleSound[2998]="CA1R4531"
+SubtitleText[2998]="Klonberater 1: Vielleicht geht die Sache schief, aber das ist unsere einzige Chance."
+
+SubtitleSound[2999]="CA1R4532"
+SubtitleText[2999]="Klonberater 1: Dieser Tunnel bringt Sie in die Nähe der Defensivsysteme des Schiffs."
+
+SubtitleSound[3000]="BD1R4500"
+SubtitleText[3000]="Kampfdroide 1: Analysiere Kontrollsystem ..."
+
+SubtitleSound[3001]="D62R4507"
+SubtitleText[3001]="Delta 62: Das ist doch ... eine Schalttafel für Geschütze."
+
+SubtitleSound[3002]="D07R4505"
+SubtitleText[3002]="Delta 07: Vielleicht wollen Sie sie gegen uns einsetzen."
+
+SubtitleSound[3003]="CA1R4533"
+SubtitleText[3003]="Klonberater 1: Hier werden die Defensivsysteme des Schiffs koordiniert."
+
+SubtitleSound[3004]="CA1R4534"
+SubtitleText[3004]="Klonberater 1: Hacken Sie die drei Computer, um den automatischen Feuermodus der Geschütze zu aktivieren!"
+
+SubtitleSound[3005]="CA1R4535"
+SubtitleText[3005]="Klonberater 1: Bemannte Geschütze sind zwar effektiver, aber das ist besser als nichts."
+
+SubtitleSound[3006]="CA1R4536"
+SubtitleText[3006]="Klonberater 1: Ich habe mehrere Feinde geortet. Sie bekommen Besuch!"
+
+SubtitleSound[3007]="CA1R4537"
+SubtitleText[3007]="Klonberater 1: Hacken Sie die Computer gleichzeitig. Das geht schneller!"
+
+SubtitleSound[3008]="CPTR4502"
+SubtitleText[3008]="Captain Talbot: Hier ist Captain Talbot. Wir gehen in Position!"
+
+SubtitleSound[3009]="CPTR4503"
+SubtitleText[3009]="Captain Talbot: Haben Sie Probleme mit den Geschützen, Delta?"
+
+SubtitleSound[3010]="CA1R4538"
+SubtitleText[3010]="Klonberater 1: Wir arbeiten gerade daran."
+
+SubtitleSound[3011]="CPTR4504"
+SubtitleText[3011]="Captain Talbot: Feuer auf die Separatisten eröffnen. Die haben nicht vor, aufzugeben."
+
+SubtitleSound[3012]="CPTR4505"
+SubtitleText[3012]="Captain Talbot: Delta-Berater, wenn Sie uns nicht bald helfen, müssen wir abdrehen! Wie ist Ihr Status?"
+
+SubtitleSound[3013]="CA1R4539"
+SubtitleText[3013]="Klonberater 1: Wir arbeiten daran, Captain."
+
+SubtitleSound[3014]="D38R4509"
+SubtitleText[3014]="Delta 38: Waffen online! Eröffne Feuer!"
+
+SubtitleSound[3015]="CPTR4506"
+SubtitleText[3015]="Captain Talbot: Ihre Schilde brechen zusammen! Die sind erledigt!"
+
+SubtitleSound[3016]="CA1R4540"
+SubtitleText[3016]="Klonberater 1: Wir haben gewonnen, Deltas."
+
+SubtitleSound[3017]="D38R4510"
+SubtitleText[3017]="Delta 38: Danke für die Hilfe, Captain."
+
+SubtitleSound[3018]="CPTR4507"
+SubtitleText[3018]="Captain Talbot: Gern geschehen, Delta-Team."
+
+SubtitleSound[3019]="D07R4506"
+SubtitleText[3019]="Delta 07: NIEMAND stiehlt ein Schiff der Republik, wenn wir in der Nähe sind."
+
+SubtitleSound[3020]="D38R4511"
+SubtitleText[3020]="Delta 38: Was haben wir denn da?"
+
+SubtitleSound[3021]="CA1R4541"
+SubtitleText[3021]="Klonberater 1: 3-8, hacken Sie das Terminal und verschaffen Sie mir Zugriff auf die Deckenschiene!"
+
+SubtitleSound[3022]="CA1R4542"
+SubtitleText[3022]="Klonberater 1: Nicht bewegen. Ich hole einen Skyhawk aus der Wartungshalle!"
+
+SubtitleSound[3023]="CA1R4543"
+SubtitleText[3023]="Klonberater 1: Da kommt er, 3-8. Tun Sie Ihr Schlimmstes!"
+
+SubtitleSound[3024]="D40R4506"
+SubtitleText[3024]="Delta 40: Zweiter Träger zerstört. Gleich kommen Superkampfdroiden!"
+
+SubtitleSound[3025]="D38R4512"
+SubtitleText[3025]="Delta 38: Wir müssen den Regler sprengen!"
+
+SubtitleSound[3026]="CA1R4544"
+SubtitleText[3026]="Klonberater 1: Noch ein Droiden-Träger. Er will durchbrechen!"
+
+SubtitleSound[3027]="D07R4511"
+SubtitleText[3027]="Delta 07: Friss Plasma, Blechbüchse!"
+
+SubtitleSound[3028]="D40R4511"
+SubtitleText[3028]="Delta 40: Darauf fallen sie nicht noch mal rein."
+
+SubtitleSound[3029]="D62R4513"
+SubtitleText[3029]="Delta 62: Ein erschreckend dämlicher Droide."
+
+SubtitleSound[3030]="D38R4513"
+SubtitleText[3030]="Delta 38: Beseitigen Sie die Trümmer, Delta!"
+
+SubtitleSound[3031]="D38R4514"
+SubtitleText[3031]="Delta 38: Beeilung. Wir geben Ihnen Deckung."
+
+SubtitleSound[3032]="D38R4515"
+SubtitleText[3032]="Delta 38: Eingang sichern. Sie dürfen uns nicht umzingeln."
+
+SubtitleSound[3033]="D38R4516"
+SubtitleText[3033]="Delta 38: Bringen Sie den Speeder zum Laufen!"
+
+SubtitleSound[3034]="D07R4507"
+SubtitleText[3034]="Delta 07: Warum verrecken diese Droiden nicht einfach?"
+
+SubtitleSound[3035]="CA1R4545"
+SubtitleText[3035]="Klonberater 1: Beeilung, Team. Der letzte Träger kehrt um."
+
+SubtitleSound[3036]="D40R4507"
+SubtitleText[3036]="Delta 40: Sie kommen zurück. Lagebericht?"
+
+SubtitleSound[3037]="D62R4508"
+SubtitleText[3037]="Delta 62: Ich komme nicht in die Nähe des Reglers. Da drüben ist die Hölle los."
+
+SubtitleSound[3038]="CA1R4546"
+SubtitleText[3038]="Klonberater 1: Delta 3-8. Ziehen Sie sich zur Rückseite des Hangars zurück!"
+
+SubtitleSound[3039]="CA1R4547"
+SubtitleText[3039]="Klonberater 1: Ich habe etwas gefunden, das Ihnen helfen wird ..."
+
+SubtitleSound[3040]="CA1R4548"
+SubtitleText[3040]="Klonberater 1: ... aber ich kann den Fahrstuhl nicht umprogrammieren!"
+
+SubtitleSound[3041]="CA1R4549"
+SubtitleText[3041]="Klonberater 1: In Ihrer Nähe müsste ein Terminal sein."
+
+SubtitleSound[3042]="CA1R4550"
+SubtitleText[3042]="Klonberater 1: Hacken Sie es und schicken Sie den Aufzug hoch!"
+
+SubtitleSound[3043]="CA1R4551"
+SubtitleText[3043]="Klonberater 1: Aufzug ist unterwegs. Warten Sie, bis er da ist."
+
+SubtitleSound[3044]="CA1R4552"
+SubtitleText[3044]="Klonberater 1: Die Kavallerie ist unterwegs, 3-8."
+
+SubtitleSound[3045]="D62R4509"
+SubtitleText[3045]="Delta 62: Dieses Biest erledigt den Regler mit einem Schuss."
+
+SubtitleSound[3046]="CA1R4553"
+SubtitleText[3046]="Klonberater 1: In den Wartungstunnel, Deltas."
+
+SubtitleSound[3047]="CA1R4554"
+SubtitleText[3047]="Klonberater 1: Der Tunnel führt zu einem der Turbolaser des Schiffs."
+
+SubtitleSound[3048]="CA1R4555"
+SubtitleText[3048]="Klonberater 1: Das ist die Schaltzentrale für einen der Turbolaser."
+
+SubtitleSound[3049]="CA1R4556"
+SubtitleText[3049]="Klonberater 1: Beeilen Sie sich, Delta. Ich halte Ihnen den Rücken frei!"
+
+SubtitleSound[3050]="CA1R4557"
+SubtitleText[3050]="Klonberater 1: Stellung halten, Team. Das wird nicht lange dauern."
+
+SubtitleSound[3051]="CA1R4559"
+SubtitleText[3051]="Klonberater 1: Droiden aus dem nächsten Hangar dringen in Ihren Sektor vor. Beeilung und verschwinden Sie, 3-8."
+
+SubtitleSound[3052]="CA1R4560"
+SubtitleText[3052]="Klonberater 1: Ich öffne den Zugang zu den Wartungstunneln."
+
+SubtitleSound[3053]="D40R4512"
+SubtitleText[3053]="Delta 40: Was ist mit dem Energiefeld los?"
+
+SubtitleSound[3054]="D07R4512"
+SubtitleText[3054]="Delta 07: Sir, hier drüben."
+
+SubtitleSound[3055]="D07R4513"
+SubtitleText[3055]="Delta 07: Ich glaube ... ich kann es sehen. Ein Schlachtschiff der Handelsföderation."
+
+SubtitleSound[3056]="D38R4517"
+SubtitleText[3056]="Delta 38: Okay, Team, was haben wir denn hier?"
+
+SubtitleSound[3057]="D62R4514"
+SubtitleText[3057]="Delta 62: Wir können ein paar Fallen legen, uns freie Sicht verschaffen ..."
+
+SubtitleSound[3058]="D62R4516"
+SubtitleText[3058]="Delta 62: Nicht mal du siehst bis in den Hyperraum, Sieben."
+
+SubtitleSound[3059]="D07R4514"
+SubtitleText[3059]="Delta 07: Nein, es liegt am Rand des Systems. Schau ..."
+
+SubtitleSound[3060]="D38R4518"
+SubtitleText[3060]="Delta 38: Sie könnten überall landen. Also legen wir überall Fallen."
+
+SubtitleSound[3061]="D40R4513"
+SubtitleText[3061]="Delta 40: Wir können nicht gehen, Sir! Wir sind noch nicht fertig."
+
+SubtitleSound[3062]="D62R4517"
+SubtitleText[3062]="Delta 62: Oh, verdammt ..."
+
+SubtitleSound[3063]="D38R4520"
+SubtitleText[3063]="Delta 38: Das wird eine Herausforderung."
+
+SubtitleSound[3064]="D40R4514"
+SubtitleText[3064]="Delta 40: Vorsicht, Sir. Das Energiefeld ist instabil."
+
+SubtitleSound[3065]="D62R4515"
+SubtitleText[3065]="Delta 62: Fertig! Energiefeld ... ernsthaft ... im Eimer, Sir."
+
+SubtitleSound[3066]="D38R4519"
+SubtitleText[3066]="Delta 38: Der Hangar ist abgeriegelt. Versuchen wir's beim nächsten."
+
+SubtitleSound[3067]="D40R4515"
+SubtitleText[3067]="Delta 40: Kaum zu glauben, dass das unser altes Schiff ist."
+
+SubtitleSound[3068]="D62R4518"
+SubtitleText[3068]="Delta 62: Hier fliegt alles auseinander."
+
+SubtitleSound[3069]="D07R4515"
+SubtitleText[3069]="Delta 07: Sir, es sind noch mehr Träger zu den anderen Hangars unterwegs."
+
+SubtitleSound[3070]="CA1R4561"
+SubtitleText[3070]="Klonberater 1: Delta-Leader, Sie sind noch nicht fertig. Zurück zum Hangar!"
+
+SubtitleSound[3071]="D40R4516"
+SubtitleText[3071]="Delta 40: Sir, kommen Sie zurück. Wir sind noch nicht fertig."
+
+SubtitleSound[3072]="D62R4519"
+SubtitleText[3072]="Delta 62: Verdammte Widerlinge! Stinken mein ganzes Schiff voll!"
+
+SubtitleSound[3073]="D62R4520"
+SubtitleText[3073]="Delta 62: Die Situation gerät außer Kontrolle!"
+
+SubtitleSound[3074]="D38R4521"
+SubtitleText[3074]="Delta 38: Richten Sie beim nächsten Hangar eine Verteidigungsposition ein. Los!"
+
+SubtitleSound[3075]="D62R4521"
+SubtitleText[3075]="Delta 62: Warum fliegen wir nicht einfach weg?"
+
+SubtitleSound[3076]="D38R4522"
+SubtitleText[3076]="Delta 38: Der Antrieb des Schiffs wurde übel zugerichtet. Wir brauchen ein Reparaturteam, wenn wir es nach Coruscant bringen wollen."
+
+SubtitleSound[3077]="CA1R4562"
+SubtitleText[3077]="Klonberater 1: Alarm! Das Schiff der Handelsföderation setzt einen neuen Träger aus!"
+
+SubtitleSound[3078]="D62R4522"
+SubtitleText[3078]="Delta 62: Dir hilft niemand mehr ..."
+
+SubtitleSound[3079]="D07R4516"
+SubtitleText[3079]="Delta 07: Du entwischst mir nicht, Schuppie!"
+
+SubtitleSound[3080]="D38R4523"
+SubtitleText[3080]="Delta 38: Machen wir's auf die einfache Tour."
+
+SubtitleSound[3081]="D62R4523"
+SubtitleText[3081]="Delta 62: Wie viele Abschüsse schreibe ich mir für einen Droiden-Träger auf?"
+
+SubtitleSound[3082]="D07R4517"
+SubtitleText[3082]="Delta 07: Nur einen, Scorch. Schlafende zählen nicht."
+
+SubtitleSound[3083]="D62R4524"
+SubtitleText[3083]="Delta 62: Warum nicht? Es sind doch Feinde ... nur eben schlafende Feinde ..."
+
+SubtitleSound[3084]="D40R4517"
+SubtitleText[3084]="Delta 40: Moment ..."
+
+SubtitleSound[3085]="CA1R4563"
+SubtitleText[3085]="Klonberater 1: Delta-Leader, greifen Sie diese Träger nicht direkt an!"
+
+SubtitleSound[3086]="D38R4524"
+SubtitleText[3086]="Delta 38: Keine Heldentaten! Alle Mann in Deckung bleiben!"
+
+SubtitleSound[3087]="D38R4525"
+SubtitleText[3087]="Delta 38: Zur Ladebucht da hinten!"
+
+SubtitleSound[3088]="D07R4518"
+SubtitleText[3088]="Delta 07: Okay, da wären wir, Boss. Was jetzt?"
+
+SubtitleSound[3089]="D62R4525"
+SubtitleText[3089]="Delta 62: Ich weiß ja, dass Sie sich da oben amüsieren, aber ..."
+
+SubtitleSound[3090]="D62R4526"
+SubtitleText[3090]="Delta 62: ... vergessen Sie nicht, den Regulator zu zerstören, Sir!"
+
+SubtitleSound[3091]="D07R4519"
+SubtitleText[3091]="Delta 07: Geschützstation 12 B."
+
+SubtitleSound[3092]="D07R4520"
+SubtitleText[3092]="Delta 07: Hier hab ich damals viele schöne Stunden verbracht."
+
+SubtitleSound[3093]="D07R4521"
+SubtitleText[3093]="Delta 07: Sir, noch ein Angriffsschiff in Sicht!"
+
+SubtitleSound[3094]="D40R4518"
+SubtitleText[3094]="Delta 40: Was ist los??"
+
+SubtitleSound[3095]="D38R4526"
+SubtitleText[3095]="Delta 38: Es ist das Schlachtschiff. Ihre Droidenkontrollsysteme sind außer Betrieb!"
+
+SubtitleSound[3096]="D07R4522"
+SubtitleText[3096]="Delta 07: Irgendjemand hat genau die richtige Stelle getroffen!"
+
+SubtitleSound[3097]="D62R4527"
+SubtitleText[3097]="Delta 62: Schaut euch das an. Ist das nicht wuuunderschön ..."
+
+SubtitleSound[3098]="D62R4528"
+SubtitleText[3098]="Delta 62: Taufen wir dieses Schiff um - die RAS Lucky Bantha!"
+
+SubtitleSound[3099]="D07R4523"
+SubtitleText[3099]="Delta 07: Könnten Sie mir eben mit diesen Droidekas helfen, Sir?"
+
+SubtitleSound[3100]="CA1R4564"
+SubtitleText[3100]="Klonberater 1: Sie müssen sich in alle drei Terminals hacken."
+
+SubtitleSound[3101]="CA1R4565"
+SubtitleText[3101]="Klonberater 1: Dadurch konzentrieren sich alle Geschütze des Schiffs auf das größte feindliche Ziel."
+
+SubtitleSound[3102]="D40R4519"
+SubtitleText[3102]="Delta 40: Unbemannte Geschütze gegen einen Kreuzer?"
+
+SubtitleSound[3103]="D38R4527"
+SubtitleText[3103]="Delta 38: Wir können ihnen zumindest ein blaues Auge verpassen."
+
+SubtitleSound[3104]="D62R4529"
+SubtitleText[3104]="Delta 62: Denen wird noch Leid tun, dass sie sich mit dem Delta-Team angelegt haben."
+
+SubtitleSound[3105]="CA1R4566"
+SubtitleText[3105]="Klonberater 1: Delta-Leader! Zurück in den Kontrollraum, sofort!"
+
+SubtitleSound[3106]="D62R4530"
+SubtitleText[3106]="Delta 62: Boss, wir schaffen das nicht allein!"
+
+SubtitleSound[3107]="D40R4520"
+SubtitleText[3107]="Delta 40: Tut mir Leid, Sir, wir haben unser Bestes gegeben ..."
+
+SubtitleSound[3108]="D40R4521"
+SubtitleText[3108]="Delta 40: DAS hat gut getan."
+
+SubtitleSound[3109]="CA1R4567"
+SubtitleText[3109]="Klonberater 1: An alle republikanischen Schiffe nahe des Corbantis-Systems. Das ist ein Notfall."
+
+SubtitleSound[3110]="CA1R4568"
+SubtitleText[3110]="Klonberater 1: An alle republikanischen Schiffe nahe des Corbantis-Systems. Sofort melden!"
+
+SubtitleSound[3111]="RSCR4001"
+SubtitleText[3111]="RAS-Schiffscomputer: Rumpfintegrität beeinträchtigt."
+
+SubtitleSound[3112]="RSCR4002"
+SubtitleText[3112]="RAS-Schiffscomputer: Rumpfintegrität liegt bei 75%"
+
+SubtitleSound[3113]="RSCR4003"
+SubtitleText[3113]="RAS-Schiffscomputer: Rumpfintegrität liegt bei 50%"
+
+SubtitleSound[3114]="RSCR4004"
+SubtitleText[3114]="RAS-Schiffscomputer: Rumpfintegrität liegt bei 25%"
+
+SubtitleSound[3115]="RSCR4005"
+SubtitleText[3115]="RAS-Schiffscomputer: Navigationssysteme ... ausgefallen."
+
+SubtitleSound[3116]="RSCR4006"
+SubtitleText[3116]="RAS-Schiffscomputer: Lebenserhaltende Systeme ... ausgefallen."
+
+SubtitleSound[3117]="RSCR4007"
+SubtitleText[3117]="RAS-Schiffscomputer: Atmosphärische Kompensatoren ... ausgefallen."
+
+SubtitleSound[3118]="D62R4531"
+SubtitleText[3118]="Delta 62: Kann mal jemand dem Computer das Maul stopfen??"
+
+SubtitleSound[3119]="RSCR4008"
+SubtitleText[3119]="RAS-Schiffscomputer: Reaktorkontrollsysteme ... ausgefallen."
+
+SubtitleSound[3120]="RSCR4011"
+SubtitleText[3120]="RAS-Schiffscomputer: Antrieb offline."
+
+SubtitleSound[3121]="RSCR4012"
+SubtitleText[3121]="RAS-Schiffscomputer: Schilde offline."
+
+SubtitleSound[3122]="CA1R4569"
+SubtitleText[3122]="Klonberater 1: Moment ... führt zu einem Landeplatz."
+

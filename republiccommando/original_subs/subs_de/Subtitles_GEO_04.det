@@ -1,0 +1,575 @@
+[Subtitles_GEO_04]
+
+SubtitleSound[2928]="CA1G4001"
+SubtitleText[2928]="Klonberater 1: Die Separatisten evakuieren. Wir müssen verhindern, dass die Kernschiffe abheben!"
+
+SubtitleSound[2929]="CA1G4002"
+SubtitleText[2929]="Klonberater 1: Wir haben nur eine Chance. Gehen Sie an Bord der Schiffe und laden Sie die Startcodes herunter."
+
+SubtitleSound[2930]="CA1G4003"
+SubtitleText[2930]="Klonberater 1: Das wird nicht einfach."
+
+SubtitleSound[2931]="D07G4001"
+SubtitleText[2931]="Delta 07: Das sind wir gewöhnt, Sir."
+
+SubtitleSound[2932]="CA1G4004"
+SubtitleText[2932]="Klonberater 1: Wir haben einen Eingang identifiziert. Er ist mit einem Flugabwehrgeschütz gesichert."
+
+SubtitleSound[2933]="CA1G4005"
+SubtitleText[2933]="Klonberater 1: Wir setzen Sie ein paar Klicks entfernt in den Schluchten ab."
+
+SubtitleSound[2934]="CA1G4006"
+SubtitleText[2934]="Klonberater 1: Ihr Primärziel ist das Flugabwehrgeschütz am Eingang des Kernschiffs. Zerstören Sie es!"
+
+SubtitleSound[2935]="CA1G4007"
+SubtitleText[2935]="Klonberater 1: Wenn Sie das Geschütz erledigt haben, kann Ihnen unser Kampfschiff helfen!"
+
+SubtitleSound[2936]="CA1G4008"
+SubtitleText[2936]="Klonberater 1: Neutralisieren Sie unterwegs alle Gegner."
+
+SubtitleSound[2937]="D62G4001"
+SubtitleText[2937]="Delta 62: Genau nach meinem Geschmack."
+
+SubtitleSound[2938]="CA1G4009"
+SubtitleText[2938]="Klonberater 1: Wir müssen verhindern, dass die Kernschiffe die Droidenarmee evakuieren."
+
+SubtitleSound[2939]="GP1G4001"
+SubtitleText[2939]="Kampfschiff-Pilot 1: Näher komme ich an das Flugabwehrgeschütz nicht ran."
+
+SubtitleSound[2940]="GP1G4002"
+SubtitleText[2940]="Kampfschiff-Pilot 1: Sie sind auf sich allein gestellt, bis Sie das Geschütz zerstört haben!"
+
+SubtitleSound[2941]="D38G4001"
+SubtitleText[2941]="Delta 38: Wir erledigen das von hier, Jungs."
+
+SubtitleSound[2942]="D40G4001"
+SubtitleText[2942]="Delta 40: Das Wrack war mal eines unserer Schiffe!"
+
+SubtitleSound[2943]="D07G4002"
+SubtitleText[2943]="Delta 07: Hier wimmelt es von Bugs!"
+
+SubtitleSound[2944]="D62G4002"
+SubtitleText[2944]="Delta 62: Verdammte Bugs!"
+
+SubtitleSound[2945]="D07G4003"
+SubtitleText[2945]="Delta 07: Die Steine sehen ziemlich brüchig aus, Sir."
+
+SubtitleSound[2946]="D40G4002"
+SubtitleText[2946]="Delta 40: Vorsichtig auf den Felsen."
+
+SubtitleSound[2947]="D62G4003"
+SubtitleText[2947]="Delta 62: Diese Felsen sind wirklich verdammt wackelig, Boss."
+
+SubtitleSound[2948]="D38G4002"
+SubtitleText[2948]="Delta 38: Das Flugabwehrgeschütz ist hinter dem Wrack."
+
+SubtitleSound[2949]="D38G4003"
+SubtitleText[2949]="Delta 38: Wir müssen das Wrack sprengen."
+
+SubtitleSound[2950]="D40G4003"
+SubtitleText[2950]="Delta 40: Ich kann hier einen Sprengsatz anbringen."
+
+SubtitleSound[2951]="D40G4004"
+SubtitleText[2951]="Delta 40: Ich brauche Deckung."
+
+SubtitleSound[2952]="D07G4004"
+SubtitleText[2952]="Delta 07: Ich kann hier einen Sprengsatz anbringen."
+
+SubtitleSound[2953]="D07G4005"
+SubtitleText[2953]="Delta 07: Ich brauche Deckung."
+
+SubtitleSound[2954]="D62G4004"
+SubtitleText[2954]="Delta 62: Ich kann hier einen Sprengsatz anbringen."
+
+SubtitleSound[2955]="D62G4005"
+SubtitleText[2955]="Delta 62: Ich brauche Deckung."
+
+SubtitleSound[2956]="D38G4004"
+SubtitleText[2956]="Delta 38: Alles klar. Jagen wir das Ding in die Luft."
+
+SubtitleSound[2957]="D40G4005"
+SubtitleText[2957]="Delta 40: Da ist das Geschütz!"
+
+SubtitleSound[2958]="D38G4005"
+SubtitleText[2958]="Delta 38: Wir müssen hinein."
+
+SubtitleSound[2959]="D07G4006"
+SubtitleText[2959]="Delta 07: Droiden-Träger nähern sich!"
+
+SubtitleSound[2960]="D38G4006"
+SubtitleText[2960]="Delta 38: Wir müssen den Träger zerstören, bevor er alle Droiden absetzt."
+
+SubtitleSound[2961]="D38G4007"
+SubtitleText[2961]="Delta 38: Wir müssen nach oben und die Sprengsätze platzieren."
+
+SubtitleSound[2962]="D40G4006"
+SubtitleText[2962]="Delta 40: Superkampfdroiden, Sir!"
+
+SubtitleSound[2963]="D07G4007"
+SubtitleText[2963]="Delta 07: Superkampfdroiden wollen mitspielen!"
+
+SubtitleSound[2964]="D62G4006"
+SubtitleText[2964]="Delta 62: Da, Sir! Schwere Kampfdroiden!"
+
+SubtitleSound[2965]="D38G4008"
+SubtitleText[2965]="Delta 38: Hier ist der richtige Punkt, die Sprengsätze zu platzieren."
+
+SubtitleSound[2966]="D62G4007"
+SubtitleText[2966]="Delta 62: Ich glaube, wir sollten von hier verschwinden!"
+
+SubtitleSound[2967]="D38G4009"
+SubtitleText[2967]="Delta 38: Jetzt müsste der Weg für das Kampfschiff frei sein."
+
+SubtitleSound[2968]="D40G4007"
+SubtitleText[2968]="Delta 40: Achtung, Team! Spinnendroide!"
+
+SubtitleSound[2969]="D62G4008"
+SubtitleText[2969]="Delta 62: Ein Spinnendroide? Hier?"
+
+SubtitleSound[2970]="D07G4008"
+SubtitleText[2970]="Delta 07: Achtung, Team! Spinnendroide!"
+
+SubtitleSound[2971]="D40G4008"
+SubtitleText[2971]="Delta 40: Gute Arbeit, Deltas!"
+
+SubtitleSound[2972]="D62G4009"
+SubtitleText[2972]="Delta 62: So viel zu meiner Angst vor Spinnen!"
+
+SubtitleSound[2973]="D07G4009"
+SubtitleText[2973]="Delta 07: Zurück ins Altmetall, Blechbüchse!"
+
+SubtitleSound[2974]="GP1G4003"
+SubtitleText[2974]="Kampfschiff-Pilot 1: Könnt ihr Hilfe gebrauchen, Jungs?"
+
+SubtitleSound[2975]="GP1G4004"
+SubtitleText[2975]="Kampfschiff-Pilot 1: Aus dem Weg, Deltas!"
+
+SubtitleSound[2976]="D38G4010"
+SubtitleText[2976]="Delta 38: Eingangsbereich des Kernschiffs räumen!"
+
+SubtitleSound[2977]="D62G4010"
+SubtitleText[2977]="Delta 62: Guter Schuss, Kleiner."
+
+SubtitleSound[2978]="GP1G4005"
+SubtitleText[2978]="Kampfschiff-Pilot 1: Besorgen Sie die Startcodes. Dann hol ich Sie ab."
+
+SubtitleSound[2979]="D38G4011"
+SubtitleText[2979]="Delta 38: Durch die Rohre kommen wir rein!"
+
+SubtitleSound[2980]="D07G4010"
+SubtitleText[2980]="Delta 07: Wow, ist das groß!"
+
+SubtitleSound[2981]="D38G4012"
+SubtitleText[2981]="Delta 38: Hier ist Delta 3-8. Ich bin drin."
+
+SubtitleSound[2982]="D38G4511"
+SubtitleText[2982]="Delta 38: Seile bereithalten, Deltas. Los geht's!"
+
+SubtitleSound[2983]="D07G4509"
+SubtitleText[2983]="Delta 07: Sagt mir einfach, wo die Feinde sind, und geht mir aus dem Weg."
+
+SubtitleSound[2984]="D40G4503"
+SubtitleText[2984]="Delta 40: Schluss mit dem Gequatsche, Sieben."
+
+SubtitleSound[2985]="D62G4506"
+SubtitleText[2985]="Delta 62: Sieben. Wie viele Abschüsse hattest du heute?"
+
+SubtitleSound[2986]="D07G4510"
+SubtitleText[2986]="Delta 07: Mehr als du, Klugscheißer."
+
+SubtitleSound[2987]="D40G4504"
+SubtitleText[2987]="Delta 40: Haltet die Frequenz frei, ihr Zwei."
+
+SubtitleSound[2988]="D62G4507"
+SubtitleText[2988]="Delta 62: Ganz ruhig, Fixxer. Wir machen doch nur Spaß."
+
+SubtitleSound[2989]="D40G4505"
+SubtitleText[2989]="Delta 40: Vorsicht, feindliches Schiff!"
+
+SubtitleSound[2990]="D38G4512"
+SubtitleText[2990]="Delta 38: Keine Sorge. Die suchen nicht nach uns."
+
+SubtitleSound[2991]="D62G4508"
+SubtitleText[2991]="Delta 62: Diese Bugs geben einfach nicht auf!"
+
+SubtitleSound[2992]="D38G4514"
+SubtitleText[2992]="Delta 38: Sichert das Fenster mit dem Schild. Sperrt sie aus!"
+
+SubtitleSound[2993]="D38G4515"
+SubtitleText[2993]="Delta 38: Das Fenster! Verriegelt das Fenster!"
+
+SubtitleSound[2994]="D40G4506"
+SubtitleText[2994]="Delta 40: Kann jemand das Fenster sichern!"
+
+SubtitleSound[2995]="D40G4507"
+SubtitleText[2995]="Delta 40: Hier ist eine Konsole, Sir! Die Fenstersteuerung!"
+
+SubtitleSound[2996]="D62G4509"
+SubtitleText[2996]="Delta 62: Noch mehr Bugs!"
+
+SubtitleSound[2997]="D38G4516"
+SubtitleText[2997]="Delta 38: Die Fenster müssen wir wohl auch verriegeln."
+
+SubtitleSound[2998]="D38G4517"
+SubtitleText[2998]="Delta 38: Los, Deltas."
+
+SubtitleSound[2999]="D62G4510"
+SubtitleText[2999]="Delta 62: Was zur ... ?"
+
+SubtitleSound[3000]="D62G4511"
+SubtitleText[3000]="Delta 62: Armes Schwein ..."
+
+SubtitleSound[3001]="D40G4508"
+SubtitleText[3001]="Delta 40: Die Kampfdroiden wollen noch mehr Geonosianer reinlassen!"
+
+SubtitleSound[3002]="D62G4512"
+SubtitleText[3002]="Delta 62: Euch hilft keiner, ihr Zinnsoldaten!"
+
+SubtitleSound[3003]="D38G4518"
+SubtitleText[3003]="Delta 38: Ihr wisst, was zu tun ist, Deltas. Sperren wir sie aus."
+
+SubtitleSound[3004]="D62G4513"
+SubtitleText[3004]="Delta 62: Endlich ein wenig Ruhe und Frieden."
+
+SubtitleSound[3005]="D38G4519"
+SubtitleText[3005]="Delta 38: Er zappelt noch. Der verträgt wohl noch was."
+
+SubtitleSound[3006]="D62G4514"
+SubtitleText[3006]="Delta 62: Boss, das wäre ein guter Platz für eine Sprengladung."
+
+SubtitleSound[3007]="D62G4515"
+SubtitleText[3007]="Delta 62: Gutes Auge, Scorch."
+
+SubtitleSound[3008]="D62G4516"
+SubtitleText[3008]="Delta 62: Hat tadellos geklappt."
+
+SubtitleSound[3009]="D07G4511"
+SubtitleText[3009]="Delta 07: Es werden immer mehr!"
+
+SubtitleSound[3010]="D62G4517"
+SubtitleText[3010]="Delta 62: Und die Schlacht wütet weiter."
+
+SubtitleSound[3011]="D07G4512"
+SubtitleText[3011]="Delta 07: Deswegen sind wir ja hier!"
+
+SubtitleSound[3012]="D40G4509"
+SubtitleText[3012]="Delta 40: Sir, das Geschütz des Kampfschiffs ist noch funktionstüchtig. Wir könnten es gegen die Droiden einsetzen."
+
+SubtitleSound[3013]="D62G4518"
+SubtitleText[3013]="Delta 62: Sie hatten keine Chance ..."
+
+SubtitleSound[3014]="D07G4513"
+SubtitleText[3014]="Delta 07: Jetzt sind sie wütend. Sehr gut!"
+
+SubtitleSound[3015]="D40G4510"
+SubtitleText[3015]="Delta 40: Dann wollen wir mal das Geschütz bemühen!"
+
+SubtitleSound[3016]="CA1G4522"
+SubtitleText[3016]="Klonberater 1: 3-8, nun, da Sie das Flugabwehrgeschütz deaktiviert haben, werfen wir in Ihrer Nähe ein kleines Paket ab."
+
+SubtitleSound[3017]="CA1G4523"
+SubtitleText[3017]="Klonberater 1: Halten Sie die Augen offen. Unter anderem ist ein panzerbrechender Aufsatz für Ihre DC-17 dabei."
+
+SubtitleSound[3018]="CA1G4524"
+SubtitleText[3018]="Klonberater 1: Sie werden ihn brauchen."
+
+SubtitleSound[3019]="D62G4519"
+SubtitleText[3019]="Delta 62: Ja! Mehr Sprengstoff! Sie haben gerade meinen Tag gerettet, Berater!"
+
+SubtitleSound[3020]="CTPG4001"
+SubtitleText[3020]="Klontruppe: Wir stehen unter schwerem Beschuss. An alle republikanischen Truppen! Wir brauchen Hilfe!"
+
+SubtitleSound[3021]="D38G4520"
+SubtitleText[3021]="Delta 38: Durchhalten, Soldat. Delta-Team, ab mit Ihnen."
+
+SubtitleSound[3022]="CTPG4002"
+SubtitleText[3022]="Klontruppe: Ich war mir sicher, dass wir als Nerffutter enden. Wir hatten kaum noch Energiezellen."
+
+SubtitleSound[3023]="D38G4521"
+SubtitleText[3023]="Delta 38: Freuen Sie sich nicht zu früh. Wir haben einen eigenen Auftrag. Wir sind nur auf der Durchreise."
+
+SubtitleSound[3024]="D40G4511"
+SubtitleText[3024]="Delta 40: Die Tür ist verriegelt, Sir. Wir müssen wohl außenrum gehen."
+
+SubtitleSound[3025]="D07G4514"
+SubtitleText[3025]="Delta 07: Verdammte Droiden! Lasst uns durch!"
+
+SubtitleSound[3026]="D62G4520"
+SubtitleText[3026]="Delta 62: Der Schutt versperrt uns den Weg, Boss. Wir müssen die Felsen in die Luft jagen."
+
+SubtitleSound[3027]="D62G4521"
+SubtitleText[3027]="Delta 62: Und ich sage das nicht nur, weil ich so gerne Sachen in die Luft jage."
+
+SubtitleSound[3028]="D07G4515"
+SubtitleText[3028]="Delta 07: Warum denn sonst?"
+
+SubtitleSound[3029]="D40G4512"
+SubtitleText[3029]="Delta 40: Dieser Weg scheint auch gesichert zu sein, Sir."
+
+SubtitleSound[3030]="D07G4516"
+SubtitleText[3030]="Delta 07: Verdammte Droiden!"
+
+SubtitleSound[3031]="D38G4522"
+SubtitleText[3031]="Delta 38: Also gut, Deltas, Rückwärtsgang."
+
+SubtitleSound[3032]="GP1G4503"
+SubtitleText[3032]="Kampfschiff-Pilot 1: Delta-Team. Hier Kampfschiff Wing Delta 42. Wir nähern uns Ihrer Position. Treten Sie vom Eingang zurück."
+
+SubtitleSound[3033]="D07G4517"
+SubtitleText[3033]="Delta 07: Die Party ist schon fast vorbei, Pilot!"
+
+SubtitleSound[3034]="GP1G4504"
+SubtitleText[3034]="Kampfschiff-Pilot 1: Sie sollten froh sein, dass ich überhaupt hier bin. Da draußen ist die Hölle los."
+
+SubtitleSound[3035]="GP1G4505"
+SubtitleText[3035]="Kampfschiff-Pilot 1: Wir können das Zielgebiet sehen. Beginnen mit dem Überflug."
+
+SubtitleSound[3036]="GP1G4506"
+SubtitleText[3036]="Kampfschiff-Pilot 1: Ihr Jungs solltet vielleicht in Deckung gehen."
+
+SubtitleSound[3037]="D40G4513"
+SubtitleText[3037]="Delta 40: Deckung!!!"
+
+SubtitleSound[3038]="D62G4522"
+SubtitleText[3038]="Delta 62: So viel zum Thema 'Geheimhaltung'."
+
+SubtitleSound[3039]="D62G4523"
+SubtitleText[3039]="Delta 62: Ich dachte, das ist eine Geheimoperation."
+
+SubtitleSound[3040]="D38G4523"
+SubtitleText[3040]="Delta 38: Ich hoffe nur, dass uns nicht noch mehr von den Dingern begegnen."
+
+SubtitleSound[3041]="D38G4524"
+SubtitleText[3041]="Delta 38: Hmm ... ein panzerbrechender Aufsatz. Der dürfte gegen die Droiden recht praktisch sein."
+
+SubtitleSound[3042]="D38G4526"
+SubtitleText[3042]="Delta 38: Richten Sie hier eine Granatenposition ein, Delta."
+
+SubtitleSound[3043]="D38G4527"
+SubtitleText[3043]="Delta 38: Das sieht doch mal nach einer guten Granatenposition aus, Deltas!"
+
+SubtitleSound[3044]="D62G4524"
+SubtitleText[3044]="Delta 62: Ein panzerbrechender Aufsatz ... cool, Boss. Eine schicke kleine Waffe."
+
+SubtitleSound[3045]="CA1G4527"
+SubtitleText[3045]="Klonberater 1: Deltas, Konzentration! Sie haben vielleicht nur einen Versuch!"
+
+SubtitleSound[3046]="CA1G4528"
+SubtitleText[3046]="Klonberater 1: Der CG-A-Zwergspinnendroide hat eine Schwachstelle: Den empfindlichen optischen Infrarotsensor auf dem Körper."
+
+SubtitleSound[3047]="D38G4528"
+SubtitleText[3047]="Delta 38: Panzerbrecher, sofort!"
+
+SubtitleSound[3048]="D38G4530"
+SubtitleText[3048]="Delta 38: Jetzt können Sie Ihren Panzerbrecher einsetzen! Los."
+
+SubtitleSound[3049]="CA1G4529"
+SubtitleText[3049]="Klonberater 1: Der Sensor wird von einem Frontpanzer geschützt, der an den Beinen montiert ist."
+
+SubtitleSound[3050]="D38G4529"
+SubtitleText[3050]="Delta 38: Panzerbrecher! Auf Ihren Posten! Los!"
+
+SubtitleSound[3051]="D38G4531"
+SubtitleText[3051]="Delta 38: Da, das sieht doch gut aus!"
+
+SubtitleSound[3052]="CA1G4530"
+SubtitleText[3052]="Klonberater 1: Zäh wie Mamas Schnitzel, aber mit genug Feuerkraft zerstören Sie das Ding."
+
+SubtitleSound[3053]="CA1G4531"
+SubtitleText[3053]="Klonberater 1: Sie sehen vor sich einen Zwergspinnendroiden. Das ist eine der unangenehmsten Anti-Infanterie-Einheiten der Handelsgilde."
+
+SubtitleSound[3054]="CA1G4532"
+SubtitleText[3054]="Klonberater 1: Sein Hartstahlpanzer wird für gewöhnlich in Raumschiffen verbaut ... er ist quasi immun gegen Handfeuerwaffen."
+
+SubtitleSound[3055]="CA1G4533"
+SubtitleText[3055]="Klonberater 1: Nur sein optischer Sensor, die rote Kugel auf seinem Torso, ist nicht geschützt und verwundbar."
+
+SubtitleSound[3056]="D07G4518"
+SubtitleText[3056]="Delta 07: Dann müssen wir ihm wohl die Augen ausstechen!"
+
+SubtitleSound[3057]="D38G4525"
+SubtitleText[3057]="Delta 38: Zielen Sie auf den optischen Sensor, Delta!"
+
+SubtitleSound[3058]="D62G4525"
+SubtitleText[3058]="Delta 62: Mit anderen Worten: Schieß auf den großen roten Fleck!"
+
+SubtitleSound[3059]="CA1G4534"
+SubtitleText[3059]="Klonberater 1: Sie sollten ferner wissen, dass er Ihren Detonatoren gegenüber zwar anfällig ist, aber von diesen nicht, wie andere Ziele, deaktiviert wird."
+
+SubtitleSound[3060]="D40G4514"
+SubtitleText[3060]="Delta 40: Sir, da kommt unser Nachschub!"
+
+SubtitleSound[3061]="D40G4515"
+SubtitleText[3061]="Delta 40: Sehen Sie. Das sind die Panzerbrecher, Sir!"
+
+SubtitleSound[3062]="GP1G4500"
+SubtitleText[3062]="Kampfschiff-Pilot 1: Deltas, da ist ein großes Flugabwehrgeschütz voraus. Näher kriege ich Sie nicht an das Ziel. Viel Glück!"
+
+SubtitleSound[3063]="GP1G4501"
+SubtitleText[3063]="Kampfschiff-Pilot 1: Ich verschwinde. Mir ist es hier entschieden zu heiß!"
+
+SubtitleSound[3064]="CA1G4500"
+SubtitleText[3064]="Klonberater 1: Delta, ein paar Klicks entfernt liegt ein deaktiviertes Droiden-Kernschiff."
+
+SubtitleSound[3065]="CA1G4501"
+SubtitleText[3065]="Klonberater 1: Dringen Sie in das Schiff ein und besorgen Sie uns die Startcodes. Mit den Codes können wir die Evakuierung der Separatisten-Flotte stoppen."
+
+SubtitleSound[3066]="CA1G4517"
+SubtitleText[3066]="Klonberater 1: Bahnen Sie sich einen Weg durch die Schlucht und verschaffen Sie sich Zugang zum Schiff."
+
+SubtitleSound[3067]="CA1G4502"
+SubtitleText[3067]="Klonberater 1: Das Kernschiff ist mit einem Flugabwehrgeschütz gesichert. Über die Abwehrsysteme des Schiffs haben wir allerdings keine Informationen."
+
+SubtitleSound[3068]="D38G4509"
+SubtitleText[3068]="Delta 38: Gibt es Informationen über feindliche Truppen in diesem Gebiet?"
+
+SubtitleSound[3069]="CA1G4503"
+SubtitleText[3069]="Klonberater 1: Schalten Sie zuerst das Geschütz aus und rücken Sie dann durch die Schlucht bis zum Kernschiff vor."
+
+SubtitleSound[3070]="CA1G4518"
+SubtitleText[3070]="Klonberater 1: Das Kernschiff ist mit einem großen Flugabwehrgeschütz gesichert. Erste Scans deuten auf zahlreiche Droiden hin. Sie sollten mit heftigem Widerstand rechnen!"
+
+SubtitleSound[3071]="D07G4508"
+SubtitleText[3071]="Delta 07: Gut. Mehr Bugs, mehr Abschüsse."
+
+SubtitleSound[3072]="CA1G4504"
+SubtitleText[3072]="Klonberater 1: Da vorn führt ein schmaler Weg direkt zur nächsten Schlucht."
+
+SubtitleSound[3073]="D38G4510"
+SubtitleText[3073]="Delta 38: Also gut, los geht's, Deltas!"
+
+SubtitleSound[3074]="CA1G4505"
+SubtitleText[3074]="Klonberater 1: Viel Glück, Delta. Und kommen Sie nicht ohne die Startcodes zurück!"
+
+SubtitleSound[3075]="D07G4500"
+SubtitleText[3075]="Delta 07: Ich schätze, wir müssen uns durch das Wrack sprengen, Sir."
+
+SubtitleSound[3076]="D07G4501"
+SubtitleText[3076]="Delta 07: Ich denke, wir müssen uns durch das Geröll sprengen, Sir."
+
+SubtitleSound[3077]="D38G4500"
+SubtitleText[3077]="Delta 38: Bin in Position!"
+
+SubtitleSound[3078]="CA1G4506"
+SubtitleText[3078]="Klonberater 1: 3-8. Rücken Sie zum Flugabwehrgeschütz vor."
+
+SubtitleSound[3079]="D40G4500"
+SubtitleText[3079]="Delta 40: Da ist das Geschütz, Team-Leader."
+
+SubtitleSound[3080]="D38G4501"
+SubtitleText[3080]="Delta 38: Wir sind jetzt am Geschütz! Da scheint eine Öffnung darunter zu sein."
+
+SubtitleSound[3081]="CA1G4519"
+SubtitleText[3081]="Klonberater 1: Roger. Ziel erfassen und zerstören."
+
+SubtitleSound[3082]="CA1G4520"
+SubtitleText[3082]="Klonberater 1: Das Ding hat uns schon den ganzen Tag übel mitgespielt."
+
+SubtitleSound[3083]="D38G4513"
+SubtitleText[3083]="Delta 38: Darunter liegt ein Eingang."
+
+SubtitleSound[3084]="CA1G4521"
+SubtitleText[3084]="Klonberater 1: Verstanden, Missionsparameter werden aktualisiert ..."
+
+SubtitleSound[3085]="CA1G4507"
+SubtitleText[3085]="Klonberater 1: 3-8, gehen Sie rein und deaktivieren Sie das Geschütz."
+
+SubtitleSound[3086]="D38G4502"
+SubtitleText[3086]="Delta 38: Okay, Team. Gehen wir rein und räumen wir ein bisschen auf."
+
+SubtitleSound[3087]="D62G4500"
+SubtitleText[3087]="Delta 62: Das Wrack ... war mal eines unserer Schiffe ... so viel zum Thema Bruchlandung."
+
+SubtitleSound[3088]="D38G4503"
+SubtitleText[3088]="Delta 38: Bunker infiltriert!"
+
+SubtitleSound[3089]="CA1G4508"
+SubtitleText[3089]="Klonberater 1: Team-Leader. Finden Sie die Kontrollsysteme des Geschützes und initialisieren Sie die Deaktivierung!"
+
+SubtitleSound[3090]="D07G4502"
+SubtitleText[3090]="Delta 07: Deaktivierung initialisieren?"
+
+SubtitleSound[3091]="D62G4501"
+SubtitleText[3091]="Delta 62: Wir sollen es hochjagen!"
+
+SubtitleSound[3092]="D07G4503"
+SubtitleText[3092]="Delta 07: Oh. War mir klar."
+
+SubtitleSound[3093]="D38G4504"
+SubtitleText[3093]="Delta 38: Wir haben hier einen Lademechanismus gefunden."
+
+SubtitleSound[3094]="CA1G4509"
+SubtitleText[3094]="Klonberater 1: Roger, Delta. Suchen Sie eine Schwachstelle und platzieren Sie ein paar Sprengsätze!"
+
+SubtitleSound[3095]="D07G4504"
+SubtitleText[3095]="Delta 07: Das ist die Schwachstelle. Okay, jagen wir was in die Luft!"
+
+SubtitleSound[3096]="D38G4505"
+SubtitleText[3096]="Delta 38: Geschütz deaktiviert!"
+
+SubtitleSound[3097]="CA1G4510"
+SubtitleText[3097]="Klonberater 1: Gute Arbeit, 3-8. Suchen Sie jetzt einen Ausgang und rücken Sie zum Kernschiff vor."
+
+SubtitleSound[3098]="D40G4501"
+SubtitleText[3098]="Delta 40: Da ist das Kernschiff, Sir."
+
+SubtitleSound[3099]="D62G4502"
+SubtitleText[3099]="Delta 62: Sicher, 4-0? Vielleicht steht hinter der Ecke noch eins."
+
+SubtitleSound[3100]="D38G4506"
+SubtitleText[3100]="Delta 38: Wir haben den Eingang zum Kernschiff erreicht, aber er scheint abgeschirmt zu sein."
+
+SubtitleSound[3101]="CA1G4511"
+SubtitleText[3101]="Klonberater 1: Roger, Delta. Halten Sie die Stellung. Wir schicken Luftunterstützung."
+
+SubtitleSound[3102]="D07G4505"
+SubtitleText[3102]="Delta 07: Es geht los."
+
+SubtitleSound[3103]="D62G4503"
+SubtitleText[3103]="Delta 62: So, das wars."
+
+SubtitleSound[3104]="D38G4507"
+SubtitleText[3104]="Delta 38: Schild zerstört! Danke für die Hilfe, 4-2."
+
+SubtitleSound[3105]="GP1G4502"
+SubtitleText[3105]="Kampfschiff-Pilot 1: War mir ein Vergnügen, Delta."
+
+SubtitleSound[3106]="CA1G4512"
+SubtitleText[3106]="Klonberater 1: Infiltrieren Sie jetzt das Kernschiff und stellen Sie die Startcodes sicher."
+
+SubtitleSound[3107]="D40G4502"
+SubtitleText[3107]="Delta 40: Was ist das?!"
+
+SubtitleSound[3108]="D07G4506"
+SubtitleText[3108]="Delta 07: Ein Spinnendroide! Achtung!"
+
+SubtitleSound[3109]="D62G4504"
+SubtitleText[3109]="Delta 62: Das war realistischer als die Simulationen."
+
+SubtitleSound[3110]="D62G4505"
+SubtitleText[3110]="Delta 62: Wow, ist das Ding groß!"
+
+SubtitleSound[3111]="CA1G4513"
+SubtitleText[3111]="Klonberater 1: Gute Arbeit, Delta-Team!"
+
+SubtitleSound[3112]="CA1G4514"
+SubtitleText[3112]="Klonberater 1: Okay, Sie haben das Kernschiff erreicht. Es wird Zeit, dass Sie sich trennen."
+
+SubtitleSound[3113]="CA1G4515"
+SubtitleText[3113]="Klonberater 1: Jeder von Ihnen muss ein anderes wichtiges System des Schiffs ausschalten."
+
+SubtitleSound[3114]="CA1G4525"
+SubtitleText[3114]="Klonberater 1: Dadurch wird die Verteidigungskapazität des Schiffs geschwächt ... das erleichtert Ihnen wiederum, Ihr eigentliches Ziel zu erreichen."
+
+SubtitleSound[3115]="CA1G4526"
+SubtitleText[3115]="Klonberater 1: Denken Sie daran: Wir *brauchen* diese Startcodes!"
+
+SubtitleSound[3116]="CA1G4516"
+SubtitleText[3116]="Klonberater 1: Viel Glück, Deltas!"
+
+SubtitleSound[3117]="D07G4507"
+SubtitleText[3117]="Delta 07: Okay, Sir. Es geht los. Viel Glück."
+
+SubtitleSound[3118]="D38G4508"
+SubtitleText[3118]="Delta 38: Hier ist Delta 3-8. Ich bin drin."
+
