@@ -8,11 +8,8 @@ Export 'Everything'
 
 I then use Python to read the XML and append (for instance) the German language's text to the English language's text in the <Dest> tag
 
-After that is done (result here https://github.com/mldelaney94/dual_language_subtitles/tree/main/falloutnewvegas if you want the XML file I generated) I intended to load up the esm file again and import the XML,
+I then use xtranslator to stuff it all back in there
 
-Except when I do, I get 'XML Error'.
+It breaks old saves (you fall through the floor forever) but works with new ones
 
-Things I have tried:
-
-Deliberately adding a UTF-8 BOM
-Ensuring my line endings where the same as the current files
+(does seem to increase frequency of crashing)
