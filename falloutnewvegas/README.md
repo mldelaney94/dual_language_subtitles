@@ -2,6 +2,7 @@ Hello, I am making dual language subtitles for Fallout New Vegas for a bit of fu
 
 The workflow I came up with was:
 
+Using the excellent application 'xtranslator':
 Load FalloutNV.esm
 Change the destination and source language to the same thing in 'Options -> dictionaries and languages'
 Export 'Everything'
