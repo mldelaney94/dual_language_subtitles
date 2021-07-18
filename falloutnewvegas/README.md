@@ -13,3 +13,8 @@ I then use xtranslator to stuff it all back in there
 It breaks old saves (you fall through the floor forever) but works with new ones
 
 (does seem to increase frequency of crashing)
+
+Proof:
+
+![conversation listen picture](imgs/doc_start.jpg "Listening to someone")
+![skills picture](imgs/skills.jpg "Skills selection menu")
