@@ -1,4 +1,4 @@
-Hello, I am making dual language subtitles for Fallout New Vegas for a bit of fun,
+I am making dual language subtitles for Fallout New Vegas for a bit of fun,
 
 The workflow I came up with was:
 
