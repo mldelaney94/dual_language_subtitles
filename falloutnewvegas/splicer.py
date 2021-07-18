@@ -40,55 +40,69 @@ edids'''
 def chunk_file(file_path):
     chunks = {}
     with open(file_path) as f:
-        j = 0
-        key = ''
-        save_edid = ''
-        save_string = ''
         for line in f:
-            if j < 9: #skip the first 9 lines
-                j += 1
-                continue
             if '<String' in line:
-                save_string = line
-            elif '<EDID>' in line:
-                save_edid = line
-            elif '<REC>' in line:
-                key = save_edid.strip() + line.strip()
-                if key in chunks:
-                    print('non-unique key found')
-                chunks[key] = {'string': save_string}
-                chunks[key]['edid'] = save_edid
-                chunks[key]['rec'] = line
-            elif '<Source>' in line:
-                chunks[key]['source'] = line
-            elif '<Dest>' in line:
-                chunks[key]['dest'] = line
-            elif '</String>' in line:
-                chunks[key]['/string'] = line
-
+                chunk = init_chunk(line)
+                chunk = hashmapify_chunk(chunk, f)
+                key = chunk['edid'].strip() + chunk['rec'].strip()
+                chunks[key] = chunk
     return chunks 
+
+def hashmapify_chunk(chunk, f):
+    current_key = ''
+    for line in f:
+        if '<EDID>' in line:
+            current_key = 'edid'
+        elif '<REC>' in line:
+            current_key = 'rec'
+        elif '<Source>' in line:
+            current_key = 'source'
+        elif '<Dest>' in line:
+            current_key = 'dest'
+        elif '</String>' in line:
+            chunk['final'] = line
+            return chunk
+        chunk[current_key] += line
+
+    return 'error'
+
+def init_chunk(line):
+    chunk = {}
+    chunk['string'] = line
+    chunk['edid'] = ''
+    chunk['rec'] = ''
+    chunk['source'] = ''
+    chunk['dest'] = ''
+    chunk['final'] = ''
+    return chunk
+
+def create_file_header():
+    return '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'\
+            '<SSTXMLRessources>\n'\
+            '  <Params>\n'\
+            '    <Addon>FalloutNV_de.esm</Addon>\n'\
+            '    <Source>de</Source>\n'\
+            '    <Dest>de</Dest>\n'\
+            '    <Version>2</Version>\n'\
+            '  </Params>\n'\
+            '  <Content>\n'
+
+def create_file_footer():
+    return '  </Content>\n'\
+            '</SSTXMLRessources>'
 
 '''Uses the ISO 639-1 language code e.g. de for german'''
 def get_file_path(suffix):
     return 'FalloutNV_' + suffix + '.xml'
 
 def save_file(file_path, chunks):
-    header = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\r\n'\
-             '<SSTXMLRessources>\r\n'\
-             '  <Params>\r\n'\
-             '    <Addon>FalloutNV.esm</Addon>\r\n'\
-             '    <Source>en</Source>\r\n'\
-             '    <Dest>en</Dest>\r\n'\
-             '    <Version>2</Version>\r\n'\
-             '  </Params>\r\n'\
-             '  <Content>\r\n'
-    footer = '  </Content>\r\n' '</SSTXMLRessources>'
+    header = create_file_header()
+    footer = create_file_footer()
     with open(file_path, 'w') as f:
-        f.write('\ufeff') #utf8-bom
         f.write(header)
         for key in chunks:
-            for key2 in chunks[key]:
-                f.write(chunks[key][key2])
+            for field in chunks[key]:
+                f.write(chunks[key][field])
         f.write(footer)
 
 def combine(lang_one, lang_two):
@@ -96,8 +110,7 @@ def combine(lang_one, lang_two):
     lang_two_chunks = chunk_file(get_file_path(lang_two))
 
     final_chunks = splice_chunks(lang_one_chunks, lang_two_chunks)
-    print(len(final_chunks))
-    print(len(lang_one_chunks))
+
     save_file(get_file_path(lang_one + '_' + lang_two), final_chunks)
 
 if __name__ == '__main__':
