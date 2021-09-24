@@ -1,0 +1,172 @@
+Bit number 67 (0 indexed) is first bit not equal across files
+
+    values:
+        BR: : 58
+        CN: < 60
+        TR: < 60
+        CZ: = 61
+        EN: ? 63
+        IT: ? 63
+        HU: @ 64
+        ES: E 69
+        PL: F 70
+        DE: L 76
+        KR: V 86
+        JP: W 87
+        FR: Y 89
+        RU: f 102
+        UA: m 109
+
+    is this a language bit or what?
+
+Next one is bit 89
+        BR: C 67
+        CN: E 69
+        TR: E 69
+        CZ: F 70
+        EN: H 72
+        IT: H 72
+        HU: I 73
+        ES: N 78
+        PL: O 79
+        DE: U 85
+        KR: _ 95
+        JP: ` 96
+        FR: b 98
+        RU: o 111
+        UA: v 118
+
+There is a pattern of jumps, they start at different places but the jumps are the same
+
+the second bit is essentially the first pattern + 9
+
+byte 884018 is the magic <NO TEXT> byte (000D7D32)
+
+chinese seems to be in CP936 formatting
+
+------
+
+One notable thing is that the strings don't have new lines between them
+
+'Get out!So,', so the string ref must tell itself where it is and how long it is
+
+-------
+
+f.seek(14) f.read(4) gets you to the position of the strings (+9)
+
+the first string in the table:
+'Why hast thou disturbed me here? Hast thou no manners? Get out!'
+has 63 characters
+
+------
+
+Looked for a pretty long string (1078 characters (0437 hex))
+now to find its offset 3962217 - 884018
+
+I found 1078 characters HEX, but its a shorter code so I don't really trust it
+Cannot find 3962217 in hex or 3962217 - 884018 in hex
+
+-------
+
+so lets have a look at the whole thing from start to finish
+
+<00 00 00 01> <16 00's> <4 bytes> <2 bytes>
+
+00 CC 32 35
+
+so it seems to me its 'flags' -> 'soundresref' -> 'offset' -> 'stringsize'
+
+4 + 16 + 4 + 2 = 26 bytes
+
+
+------
+
+So this journey started off looking for tools that actually exist already
+
+The problem with tools that exist already is that A. reading code is harder than writing code
+and B. I needed to be able to script out the adding of pinyin
+
+Something that I'm not sure current tools are made for. So after dabbling with them for awhile
+I started just working on reverse-engineering the binary file.
+
+I mean I first started by opening up every single file and searching through them for the very first
+difference between them, which I found at byte number 67. This method of exhaustive analysis of course
+proved fruitless and a dead-end.
+
+There was some documentation of a v3 of the file (though this file type is v1)
+
+so I pored over that and it mostly went over my head
+
+I wanted to try and read the initial header but it was setup in a different way to the documentation
+I had. I knew that the offset flag was what I wanted, and I knew from just randomly printing the
+entire
+file to console that the english version at least didn't use some exotic formatting for the
+actual strings
+
+So I looked in the english file with a hex editor until I found the exact location of the beginning
+of the strings.
+
+This was denoted with '<NO TEXT>' at the byte location '000D7D32' or 884018 (for seek which takes an
+integer)
+
+So I then searched the file for the bytes '000D7D32' and found it at byte 14. Excellent, I
+can use byte 14 to find the offset for every other file without having to worry if its different
+(from what I could tell though, its not, seeing as the first difference is at 67)
+
+I then, after finding the strings, tried to take the first string, take its length in hex, and
+search for that in the file. I tried this for a few strings and it never worked out
+Didn't find a single thing using this method
+
+I then tried to take where a string was located manually, and find THAT in the file, but maybe because of the offset
+or just writing things down incorrectly, I didn't find anything with this method either
+
+Then I noticed that the stringref has a flags section and that the binary before the actual strings
+has a lot of 01's. So using the documentation, I figured that 00 00 00 01 must be the start of a
+stringref, and that the structure goes something like
+
+4 bytes flags 16 bytes sound ref 4 bytes offset from strings 2 bytes string length
+
+I could be wrong about the very end and start because I don't know why flags would be stored as an int
+
+One thing I have to say about this format is that it doesn't make much sense to me tbh. Just store the
+plaintext with references via hash links, this method really doesn't save any space and unlike
+later iterations of this file type doesn't even let you have arbitrary length subtitles
+
+Seems like a real pain to work with and what would they give translators? someone
+had to spend quite a bit of time writing something that would compile all this and its not even
+that good
+
+I then re-read the spec again and realised it lists the flags as being 0x0000 or 2 bytes, which would
+make the strlen part of the binary 4 bytes which seems more natural
+
+So I also found out I don't know how little-endian works. I was working with this and constantly
+getting the wrong values. But lets say that the file is encoded in little endian, I was treating it as
+if it was being encoded in big endian.
+    So for instance I thought that the flag for the strRef was encoded 0x00000001, when if it was
+    little endian it would be 0x01000000. That's if the flag is 4 bytes. So I was reading the
+    string ref in the wrong direction and THAT's why 'big' byteorder was working on some of them
+
+Knowing this it made finding the start easier, and know I don't really have any problems at all except
+I need to know how many strings are encoded and its probably to be found in the header
+
+Some strings might be referenced many times. What was weird was that I noticed that the same string is
+encoded multiple times, which is extremely inefficient.
+At some point between 30k and 40k on the list, I start just running into the strings themselves
+
+Literally by implementing the binary search method by hand, I found that the max number of string refs
+is 33998 (i.e. just starting at halfway of the size of the list and then binary searching downwards)
+
+I then looked that number up in hex and found CE840000 (little endian), looking for that in the header I found
+D0840000, which is strange as it is two more strings than I found.
+
+I then realised that my current header has me reading 26 bytes into a 'misc2' field and that I was definitely
+overshooting by one string atleast. As for why its 1 more than I found... I cannot say. Maybe its indexed to
+1. Turns out as well, that the initial string is actually the '<NO TEXT>' string
+
+I then printed out the final string just out of curiosity and noticed that it read 'placeholder'. Inspecting
+the end of the file in my hex editor I notice that it finished with a lot of placeholders. As in, like... 100
+repetitions of the word 'placeholder'
+
+Wow so, just by trial and erroring, I found that the list number 33237 is the first 'placeholder', meaning
+placeholder strings take up ... 762 strings. Which is like 2% of the total volume of the file... What the heck
+is this bloody string format???
