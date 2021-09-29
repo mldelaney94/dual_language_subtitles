@@ -1,4 +1,5 @@
 from dataclasses import dataclass, field, InitVar
+import struct
 
 @dataclass
 class Header:
@@ -37,6 +38,27 @@ class StringRef:
         self.i_str_len = int.from_bytes(self.b_str_len,
             byteorder='little')
 
+    def update_info(self, updated_str_len, new_displacement):
+        self.i_str_len = updated_str_len
+        self.i_position += new_displacement
+        self.b_off_set = struct.pack('<I', new_displacement)
+        self.b_str_len = struct.pack('<I', self.i_str_len)
+    
     def __str__(self):
         return self.b_flag + self.b_sound_res_ref + self.b_off_set + \
             self.b_str_len
+
+@dataclass
+class StringRep:
+    encoding: str
+    str_string: str = field(init=False)
+    b_string: InitVar[bytes]
+
+    def __post_init__(self, b_string):
+        self.str_string = b_string.decode(self.encoding)
+
+    def update_string(self, updated_str):
+        self.str_string = updated_str
+
+    def __str__(self):
+        return self.str_string.encode(self.encoding)
