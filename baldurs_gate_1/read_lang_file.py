@@ -9,7 +9,7 @@ def read_lang_file(lang: str, encoding: str):
         i = 0
         stringrefs = []
         while i < header.i_num_of_strings:
-            stringrefs.append(read_stringref(f, header.i_start_of_strings))
+            stringrefs.append(read_stringref(f))
             i+=1
 
         i = 0
@@ -29,13 +29,13 @@ def read_header(f):
 
     return Header(version_info, misc1, num_of_strings, start_of_strings)
     
-def read_stringref(f, int_offset):
+def read_stringref(f):
     flag = f.read(2)
     sound_res_ref = f.read(16)
     offset = f.read(4)
     length = f.read(4)
 
-    return StringRef(flag, sound_res_ref, offset, length, int_offset)
+    return StringRef(flag, sound_res_ref, offset, length)
 
 def read_stringrep(f, str_len, encoding):
     b_string = f.read(str_len)

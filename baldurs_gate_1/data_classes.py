@@ -29,11 +29,10 @@ class StringRef:
     b_str_len: bytes
     i_position: int = field(init=False)
     i_str_len: int = field(init=False)
-    i_start_of_strings_offset: InitVar[int]
 
-    def __post_init__(self, i_start_of_strings_offset):
-        self.i_position = (int.from_bytes(self.b_off_set,
-            byteorder='little') + i_start_of_strings_offset)
+    def __post_init__(self):
+        self.i_position = int.from_bytes(self.b_off_set,
+            byteorder='little')
 
         self.i_str_len = int.from_bytes(self.b_str_len,
             byteorder='little')
