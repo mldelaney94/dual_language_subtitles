@@ -30,7 +30,20 @@ special_pinyin = {'贾希拉': 'Gu3xi1la1', '爱蒙': 'Ai4meng2',
         '乌蕾妮': 'Wu1lei3ni1', '清扫魔像': 'Qing1sao3mo2xiang4',
         '受折磨者': 'Shou4zhe2mo2zhe3', '攸旭摩': 'You1xu4mo2',
         '逃脱的复制体': 'Tao2tuo1de5fu4zhi4ti3', '佛南登': 'Fo2nan2deng1',
-        '李尔': 'Li3er3'}
+        '李尔': 'Li3er3', '贝丝女士': 'Bei4si1Nu:3shi4',
+        '安姆士兵': 'An1mu3shi4bing1', '费尔加斯': 'Fei4er3jia1si1',
+        '哈洛德': 'Ha1luo4de2', '哈洛德太太': 'Ha1luo4de2Tai4tai5',
+        '欧法大人': 'Ou1fa3da4ren5', '欧法女士': 'Ou1fa3Nu:3shi4',
+        '传令员': 'chuan2ling4yuan2', '莫论': 'Mo4lun4',
+        '安姆保镖': 'An1mu3bao3biao1', '夸塔立斯': 'Kua1ta3li4si1',
+        '吉蓝': 'Ji2lan2', '叫卖小贩': 'Jiao4mai4Xiao3fan4',
+        '优丝女士': 'You1si1Nu:3shi4', '狄德丽': 'Di2de2li4',
+        '利博德': 'Li4bo2de2', '盖瑞斯': 'Ge3rui4si1',
+        '布瑞姆': 'Bu4rui1mu3', '塔洛斯牧师': 'Ta3luo4si1Mu4shi4',
+        '哈瑞姗': 'Ha1rui4shan1', '巨灵': 'Ju4ling2', '艾黎': 'Ai4li2',
+        '宠妓奴隶': 'Chong3ji4nu2li4', '奎里': 'Kui2li3',
+        '马戏团表演着': 'Ma3xi4tuan2biao3yan3zhe3',
+        '马戏团员工': 'Ma3xi4tuan2yuan2gong1'}
 
 do_not_add_pinyin = {'<NO TEXT>'}
 
