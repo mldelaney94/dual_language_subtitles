@@ -6,7 +6,9 @@ from materials.special_pinyin import special_pinyin
 
 do_not_parse = {'？', '，', '！', '。', '；', '“', '”', '：', '–', '—', '＊',
         '…', '、', '～', '－', '（', '）', '─', '＜', '＞', '．', '《', '》',
-        '％', '·', '>', '’', 'CHARNAME', 'BROTHERSISTER', 'DAYANDMONTH',
+        '％', '·', '<', '>', '’', '‘', '+', '/', '~', '!', '@', '#', '$',
+        '%', '^', '&', '*', '(', ')', '_', '-', '=', '\\', '{', '}', '|', ';',
+        '\'', '"', ',', '.', '?' 'CHARNAME', 'BROTHERSISTER', 'DAYANDMONTH',
         'DAYNIGHT', 'DAYNIGHTALL', 'GABBER', 'GAMEDAY', 'GAMEDAYS',
         'GIRLBOY', 'HESHE', 'HIMHER', 'HISHER', 'LADYLORD', 'LEVEL',
         'MALEFEMALE', 'MANWOMAN', 'MONTH', 'MONTHNAME', 'DAY', 'PLAYER1-6',
@@ -35,10 +37,10 @@ def main(lang, encoding):
 def add_pinyin_to_data(string_reps, string_refs):
     i = 1 #dodge '<NO TEXT>'
     displacement_factor = 9 #<no text> = 9
-    zh_dict = get_dictionary(True)
+    zh_dict = pyer.get_dictionary(True)
     while i < len(string_refs):
         str_with_pinyin = pyer.add_pinyin(string_reps[i].str_string, zh_dict,
-                special_pinyin).strip('\n')
+                special_pinyin, do_not_parse).strip('\n')
         string_reps[i].update_string(str_with_pinyin)
         string_refs[i].update_info(bytes_len := len(str_with_pinyin.encode('utf_8')), displacement_factor)
         displacement_factor += bytes_len
@@ -53,30 +55,6 @@ def finalise_data(path):
         displacement_factor += bytes_len
         i += 1
     print_lang_file_from_data_classes(header, string_refs, string_reps, 'dialog.tlk')
-
-def get_dictionary(numeric=False):
-    if numeric == True:
-        return parse_dict('./materials/dicts/cedict_ts_no_space_numerals.u8') 
-    return parse_dict('./materials/dicts/cedict_ts_pinyin.u8')
-
-def parse_dict(path):
-    return cc_cedict_parser_opt.parse_dict(path)
-
-def read_lines(path):
-    with open(path, 'r') as f:
-        lines = []
-        string_to_add = ''
-        first = True
-        for line in f.readlines():
-            if 'Line' in line:
-                if first:
-                    first = False
-                    continue
-                lines.append(string_to_add)
-                string_to_add = ''
-            else:
-                string_to_add += line
-    return lines
 
 if __name__ == '__main__':
     main('b2_zh', 'utf_8')
