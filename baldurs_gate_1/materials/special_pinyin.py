@@ -351,7 +351,24 @@ special_pinyin = {'贾希拉': 'Jia3xi1la1',
         '狗头人': 'gou3tou2ren2',
         '狗头人萨满': 'gou3tou2ren2sa4man3',
         '狗头人突击队': 'gou3tou2ren2tu1ji1dui4',
-        '闪亮的水池': 'shan3liang4deshui3chi2'
+        '闪亮的水池': 'shan3liang4deshui3chi2',
+        '海根队长': 'Hai3gen1dui4zhang3',
+        '奴贩巫师': 'nu2fan4wu1shi1',
+        '夸罗': 'Kua1luo2',
+        '佛兰基': 'Fo2lan2ji1',
+        '致命松鼠': 'zhi4ming4song1shu3',
+        '布布': 'bu4bu4',
+        '察拉斯爵士': 'Cha2la1si1jue2shi4',
+        '萨维耶拉': 'Sa4Wei2ye1la1',
+        '奴隶男童': 'nu2li4nan2tong2',
+        '奴隶女童': 'nu2li4nu:3tong2',
+        '苏拉雅': 'Su1la1ya3',
+        '拜拉娜': 'Bai4la1na4',
+        '占诺斯': 'Zhan4nuo4si1',
+        '塞尔克·法拉德': 'Sai1er3ke4·fa3la1de2',
+        '宇瑟夫': 'Yu3se4fu1',
+        '维兰': 'Wei2lan2',
+        '古里浆果': 'Gu3li3jiang1guo3'
 
 
 
