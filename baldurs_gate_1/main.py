@@ -1,14 +1,9 @@
 from read_lang_file import *
 import jieba
 import pinyiniser as pyer
-from materials.cc_cedict_materials import cc_cedict_parser_opt
 from materials.special_pinyin import special_pinyin
 
-do_not_parse = {'？', '，', '！', '。', '；', '“', '”', '：', '–', '—', '＊',
-        '…', '、', '～', '－', '（', '）', '─', '＜', '＞', '．', '《', '》',
-        '％', '·', '<', '>', '’', '‘', '+', '/', '~', '!', '@', '#', '$',
-        '%', '^', '&', '*', '(', ')', '_', '-', '=', '\\', '{', '}', '|', ';',
-        '\'', '"', ',', '.', '?' 'CHARNAME', 'BROTHERSISTER', 'DAYANDMONTH',
+do_not_parse = {'CHARNAME', 'BROTHERSISTER', 'DAYANDMONTH',
         'DAYNIGHT', 'DAYNIGHTALL', 'GABBER', 'GAMEDAY', 'GAMEDAYS',
         'GIRLBOY', 'HESHE', 'HIMHER', 'HISHER', 'LADYLORD', 'LEVEL',
         'MALEFEMALE', 'MANWOMAN', 'MONTH', 'MONTHNAME', 'DAY', 'PLAYER1-6',
@@ -24,8 +19,10 @@ do_not_parse = {'？', '，', '！', '。', '；', '“', '”', '：', '–', '
         'CLASS', 'CurrentChapter', 'HP', 'EXPERIENCE', 'NEXTLEVEL',
         'number', 'DURATIONNOAND', 'DOTS1', 'DOTS2', 'DOTS3', 'DOTS4',
         'DOTS5', 'EXPERIENCEAMOUNT', 'TARGET', 'CREATURE', 'LEVELDIF',
-        'losing', 'battle', 'RESOURCE', 'PRO_HEHER', 'AREA_NAME', '_',
+        'losing', 'battle', 'RESOURCE', 'PRO_HEHER', 'AREA_NAME',
         'MISSING_CONTENT', 'PERCENT', 'COMPLETE', 'TIME', 'REMAINING'}
+
+do_not_parse = do_not_parse.union(pyer.do_not_parse_set)
 
 def main(lang, encoding):
     jieba.set_dictionary('materials/dicts/jieba_dict_large.txt')
