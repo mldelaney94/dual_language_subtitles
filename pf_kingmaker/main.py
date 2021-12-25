@@ -4,7 +4,7 @@ import pinyiniser as pyer
 
 def main(path):
     zh_dict = pyer.get_dictionary(True)
-    with os.scandir('./' + path) as d:
+    with os.scandir(path) as d:
         for file in d:
             contents = read_file(file.path)
             add_pinyin(dict(contents), zh_dict)
@@ -23,4 +23,4 @@ def add_pinyin(dict_object, zh_dict):
         item['Value'] = pyer.add_pinyin(item['Value'], zh_dict)
 
 if __name__ == "__main__":
-    main('lang_files')
+    main('./lang_files')
