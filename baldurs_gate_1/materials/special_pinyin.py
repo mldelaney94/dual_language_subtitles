@@ -550,7 +550,9 @@ special_pinyin = {'贾希拉': 'Jia3xi1la1',
         '卡尔博': 'Ka3er3bo2',
         '费佛朗大人': 'Fei4fo2lang3da4ren5',
         '戴安娜女士': 'Dai4an1na4nu:3shi4',
-        '克蕾穆女士': 'Ke4lei3mu4nu:3shi4'
+        '克蕾穆女士': 'Ke4lei3mu4nu:3shi4',
+        '帮助的人': 'Bang1zhu4de5ren2'
+
 
         }
 

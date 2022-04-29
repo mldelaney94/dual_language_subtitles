@@ -41,7 +41,7 @@ def read_stringrep(f, str_len, encoding):
     b_string = f.read(str_len)
     return StringRep(encoding, b_string)
 
-def print_lang_file_from_data_classes(header, string_refs, string_reps,
+def write_lang_file_from_data_classes(header, string_refs, string_reps,
         file_path):
     with open(file_path, 'wb') as f:
         f.write(header.__str__())
@@ -49,6 +49,14 @@ def print_lang_file_from_data_classes(header, string_refs, string_reps,
             f.write(ref.__str__())
         for rep in string_reps:
             f.write(rep.__str__())
+
+def write_just_string_reps(string_reps, path):
+    i = 0
+    with open(path, 'w+') as f:
+        while i < len(string_reps):
+            f.write('Line: ' + str(i) + '\n')
+            f.write(string_reps[i].str_string + '\n')
+            i += 1
 
 if __name__ == '__main__':
     #takes in two-letter ISO codes

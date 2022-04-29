@@ -1,4 +1,4 @@
-from read_lang_file import *
+from read_write_lang_file import *
 import jieba
 import pinyiniser as pyer
 from materials.special_pinyin import special_pinyin
@@ -28,8 +28,9 @@ def main(lang, encoding):
     jieba.set_dictionary('materials/dicts/jieba_dict_large.txt')
     header, string_refs, string_reps = read_lang_file(lang, encoding)
     add_pinyin_to_data(string_reps, string_refs)
-    print_lang_file_from_data_classes(header, string_refs, string_reps,
+    write_lang_file_from_data_classes(header, string_refs, string_reps,
     'dialog.tlk')
+    write_just_string_reps(string_reps, 'reference.txt')
 
 def add_pinyin_to_data(string_reps, string_refs):
     i = 1 #dodge '<NO TEXT>'
@@ -51,7 +52,7 @@ def finalise_data(path):
         string_refs[i].update_info(bytes_len := len(str_with_pinyin.encode('utf_8')), displacement_factor)
         displacement_factor += bytes_len
         i += 1
-    print_lang_file_from_data_classes(header, string_refs, string_reps, 'dialog.tlk')
+    write_lang_file_from_data_classes(header, string_refs, string_reps, 'dialog.tlk')
 
 if __name__ == '__main__':
     main('b2_zh', 'utf_8')
